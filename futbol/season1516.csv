@@ -1,0 +1,3369 @@
+Div;Date;HomeTeam;AwayTeam;home_eff;goals;FTR
+1;21-08-2015;Málaga;Sevilla;1;0;D
+1;22-08-2015;Atlético de Madrid;Las Palmas;1;1;H
+1;22-08-2015;Espanyol;Getafe;1;1;H
+1;22-08-2015;Deportivo de la Coruña;Real Sociedad;1;0;D
+1;22-08-2015;Rayo Vallecano;Valencia;1;0;D
+1;23-08-2015;Athletic de Bilbao;Barcelona;1;0;A
+1;23-08-2015;Betis;Villarreal;1;1;D
+1;23-08-2015;Levante;Celta;1;1;A
+1;23-08-2015;Sp Gijón;Real Madrid;1;0;D
+1;24-08-2015;Granada;Eibar;1;1;A
+1;28-08-2015;Villarreal;Espanyol;1;3;H
+1;29-08-2015;Barcelona;Málaga;1;1;H
+1;29-08-2015;Celta;Rayo Vallecano;1;3;H
+1;29-08-2015;Real Madrid;Betis;1;5;H
+1;29-08-2015;Real Sociedad;Sp Gijón;1;0;D
+1;30-08-2015;Eibar;Athletic de Bilbao;1;2;H
+1;30-08-2015;Getafe;Granada;1;1;A
+1;30-08-2015;Las Palmas;Levante;1;0;D
+1;30-08-2015;Sevilla;Atlético de Madrid;1;0;A
+1;30-08-2015;Valencia;Deportivo de la Coruña;1;1;D
+1;11-09-2015;Levante;Sevilla;1;1;D
+1;12-09-2015;Atlético de Madrid;Barcelona;1;1;A
+1;12-09-2015;Betis;Real Sociedad;1;1;H
+1;12-09-2015;Espanyol;Real Madrid;1;0;A
+1;12-09-2015;Sp Gijón;Valencia;1;0;A
+1;13-09-2015;Athletic de Bilbao;Getafe;1;3;H
+1;13-09-2015;Celta;Las Palmas;1;3;D
+1;13-09-2015;Granada;Villarreal;1;1;A
+1;13-09-2015;Málaga;Eibar;1;0;D
+1;14-09-2015;Rayo Vallecano;Deportivo de la Coruña;1;1;A
+1;18-09-2015;Getafe;Málaga;1;1;H
+1;19-09-2015;Eibar;Atlético de Madrid;1;0;A
+1;19-09-2015;Real Madrid;Granada;1;1;H
+1;19-09-2015;Real Sociedad;Espanyol;1;2;A
+1;19-09-2015;Valencia;Betis;1;0;D
+1;20-09-2015;Barcelona;Levante;1;4;H
+1;20-09-2015;Deportivo de la Coruña;Sp Gijón;1;2;A
+1;20-09-2015;Las Palmas;Rayo Vallecano;1;0;A
+1;20-09-2015;Sevilla;Celta;1;1;A
+1;20-09-2015;Villarreal;Athletic de Bilbao;1;3;H
+1;22-09-2015;Atlético de Madrid;Getafe;1;2;H
+1;22-09-2015;Espanyol;Valencia;1;1;H
+1;22-09-2015;Granada;Real Sociedad;1;0;A
+1;23-09-2015;Athletic de Bilbao;Real Madrid;1;1;A
+1;23-09-2015;Celta;Barcelona;1;4;H
+1;23-09-2015;Las Palmas;Sevilla;1;2;H
+1;23-09-2015;Levante;Eibar;1;2;D
+1;23-09-2015;Málaga;Villarreal;1;0;A
+1;23-09-2015;Rayo Vallecano;Sp Gijón;1;2;H
+1;24-09-2015;Betis;Deportivo de la Coruña;1;1;A
+1;25-09-2015;Valencia;Granada;1;1;H
+1;26-09-2015;Barcelona;Las Palmas;1;2;H
+1;26-09-2015;Eibar;Celta;1;1;D
+1;26-09-2015;Real Madrid;Málaga;1;0;D
+1;26-09-2015;Sevilla;Rayo Vallecano;1;3;H
+1;26-09-2015;Villarreal;Atlético de Madrid;1;1;H
+1;27-09-2015;Getafe;Levante;1;3;H
+1;27-09-2015;Deportivo de la Coruña;Espanyol;1;3;H
+1;27-09-2015;Real Sociedad;Athletic de Bilbao;1;0;D
+1;27-09-2015;Sp Gijón;Betis;1;1;A
+1;02-10-2015;Celta;Getafe;1;0;D
+1;03-10-2015;Espanyol;Sp Gijón;1;1;A
+1;03-10-2015;Granada;Deportivo de la Coruña;1;1;D
+1;03-10-2015;Las Palmas;Eibar;1;0;A
+1;03-10-2015;Málaga;Real Sociedad;1;3;H
+1;03-10-2015;Sevilla;Barcelona;1;2;H
+1;04-10-2015;Athletic de Bilbao;Valencia;1;3;H
+1;04-10-2015;Atlético de Madrid;Real Madrid;1;1;D
+1;04-10-2015;Levante;Villarreal;1;1;H
+1;04-10-2015;Rayo Vallecano;Betis;1;0;A
+1;17-10-2015;Barcelona;Rayo Vallecano;1;5;H
+1;17-10-2015;Betis;Espanyol;1;1;A
+1;17-10-2015;Eibar;Sevilla;1;1;D
+1;17-10-2015;Real Madrid;Levante;1;3;H
+1;17-10-2015;Valencia;Málaga;1;3;H
+1;18-10-2015;Getafe;Las Palmas;1;4;H
+1;18-10-2015;Deportivo de la Coruña;Athletic de Bilbao;1;2;D
+1;18-10-2015;Real Sociedad;Atlético de Madrid;1;0;A
+1;18-10-2015;Villarreal;Celta;1;1;A
+1;19-10-2015;Sp Gijón;Granada;1;3;D
+1;23-10-2015;Rayo Vallecano;Espanyol;1;3;H
+1;24-10-2015;Celta;Real Madrid;1;1;A
+1;24-10-2015;Granada;Betis;1;1;D
+1;24-10-2015;Málaga;Deportivo de la Coruña;1;2;H
+1;24-10-2015;Sevilla;Getafe;1;5;H
+1;25-10-2015;Atlético de Madrid;Valencia;1;2;H
+1;25-10-2015;Barcelona;Eibar;1;3;H
+1;25-10-2015;Las Palmas;Villarreal;1;0;D
+1;25-10-2015;Levante;Real Sociedad;1;0;A
+1;26-10-2015;Athletic de Bilbao;Sp Gijón;1;3;H
+1;30-10-2015;Deportivo de la Coruña;Atlético de Madrid;1;1;D
+1;31-10-2015;Getafe;Barcelona;1;0;A
+1;31-10-2015;Real Madrid;Las Palmas;1;3;H
+1;31-10-2015;Real Sociedad;Celta;1;2;A
+1;31-10-2015;Valencia;Levante;1;3;H
+1;31-10-2015;Villarreal;Sevilla;1;2;H
+1;01-11-2015;Betis;Athletic de Bilbao;1;1;A
+1;01-11-2015;Eibar;Rayo Vallecano;1;1;H
+1;01-11-2015;Espanyol;Granada;1;1;D
+1;01-11-2015;Sp Gijón;Málaga;1;1;H
+1;06-11-2015;Las Palmas;Real Sociedad;1;2;H
+1;07-11-2015;Celta;Valencia;1;1;A
+1;07-11-2015;Eibar;Getafe;1;3;H
+1;07-11-2015;Levante;Deportivo de la Coruña;1;1;D
+1;07-11-2015;Málaga;Betis;1;0;A
+1;07-11-2015;Rayo Vallecano;Granada;1;2;H
+1;08-11-2015;Athletic de Bilbao;Espanyol;1;2;H
+1;08-11-2015;Atlético de Madrid;Sp Gijón;1;1;H
+1;08-11-2015;Barcelona;Villarreal;1;3;H
+1;08-11-2015;Sevilla;Real Madrid;1;3;H
+1;21-11-2015;Espanyol;Málaga;1;2;H
+1;21-11-2015;Deportivo de la Coruña;Celta;1;2;H
+1;21-11-2015;Real Madrid;Barcelona;1;0;A
+1;21-11-2015;Real Sociedad;Sevilla;1;2;H
+1;21-11-2015;Valencia;Las Palmas;1;1;D
+1;22-11-2015;Betis;Atlético de Madrid;1;0;A
+1;22-11-2015;Granada;Athletic de Bilbao;1;2;H
+1;22-11-2015;Sp Gijón;Levante;1;0;A
+1;22-11-2015;Villarreal;Eibar;1;1;D
+1;23-11-2015;Getafe;Rayo Vallecano;1;1;D
+1;27-11-2015;Levante;Betis;1;0;A
+1;28-11-2015;Atlético de Madrid;Espanyol;1;1;H
+1;28-11-2015;Barcelona;Real Sociedad;1;4;H
+1;28-11-2015;Celta;Sp Gijón;1;2;H
+1;28-11-2015;Las Palmas;Deportivo de la Coruña;1;0;A
+1;28-11-2015;Málaga;Granada;1;2;D
+1;29-11-2015;Eibar;Real Madrid;1;0;A
+1;29-11-2015;Getafe;Villarreal;1;2;H
+1;29-11-2015;Sevilla;Valencia;1;1;H
+1;29-11-2015;Rayo Vallecano;Athletic de Bilbao;1;0;A
+1;05-12-2015;Betis;Celta;1;1;D
+1;05-12-2015;Granada;Atlético de Madrid;1;0;A
+1;05-12-2015;Deportivo de la Coruña;Sevilla;1;1;D
+1;05-12-2015;Real Madrid;Getafe;1;4;H
+1;05-12-2015;Valencia;Barcelona;1;1;D
+1;06-12-2015;Athletic de Bilbao;Málaga;1;0;D
+1;06-12-2015;Real Sociedad;Eibar;1;2;H
+1;06-12-2015;Sp Gijón;Las Palmas;1;3;H
+1;06-12-2015;Villarreal;Rayo Vallecano;1;2;H
+1;07-12-2015;Espanyol;Levante;1;1;D
+1;11-12-2015;Getafe;Real Sociedad;1;1;D
+1;12-12-2015;Barcelona;Deportivo de la Coruña;1;2;D
+1;12-12-2015;Celta;Espanyol;1;1;H
+1;12-12-2015;Las Palmas;Betis;1;1;H
+1;12-12-2015;Levante;Granada;1;1;A
+1;12-12-2015;Sevilla;Sp Gijón;1;2;H
+1;13-12-2015;Atlético de Madrid;Athletic de Bilbao;1;2;H
+1;13-12-2015;Eibar;Valencia;1;1;D
+1;13-12-2015;Rayo Vallecano;Málaga;1;1;A
+1;13-12-2015;Villarreal;Real Madrid;1;1;H
+1;19-12-2015;Betis;Sevilla;1;0;D
+1;19-12-2015;Espanyol;Las Palmas;1;1;H
+1;19-12-2015;Deportivo de la Coruña;Eibar;1;2;H
+1;19-12-2015;Valencia;Getafe;1;2;D
+1;20-12-2015;Athletic de Bilbao;Levante;1;2;H
+1;20-12-2015;Granada;Celta;1;0;A
+1;20-12-2015;Málaga;Atlético de Madrid;1;1;H
+1;20-12-2015;Real Madrid;Rayo Vallecano;1;10;H
+1;20-12-2015;Real Sociedad;Villarreal;1;0;A
+1;30-12-2015;Barcelona;Betis;1;4;H
+1;30-12-2015;Celta;Athletic de Bilbao;1;0;A
+1;30-12-2015;Eibar;Sp Gijón;1;2;H
+1;30-12-2015;Getafe;Deportivo de la Coruña;1;0;D
+1;30-12-2015;Las Palmas;Granada;1;4;H
+1;30-12-2015;Levante;Málaga;1;0;A
+1;30-12-2015;Real Madrid;Real Sociedad;1;3;H
+1;30-12-2015;Sevilla;Espanyol;1;2;H
+1;30-12-2015;Rayo Vallecano;Atlético de Madrid;1;0;A
+1;31-12-2015;Villarreal;Valencia;1;1;H
+1;02-01-2016;Atlético de Madrid;Levante;1;1;H
+1;02-01-2016;Espanyol;Barcelona;1;0;D
+1;02-01-2016;Málaga;Celta;1;2;H
+1;03-01-2016;Athletic de Bilbao;Las Palmas;1;2;D
+1;03-01-2016;Betis;Eibar;1;0;A
+1;03-01-2016;Granada;Sevilla;1;2;H
+1;03-01-2016;Deportivo de la Coruña;Villarreal;1;1;A
+1;03-01-2016;Valencia;Real Madrid;1;2;D
+1;03-01-2016;Rayo Vallecano;Real Sociedad;1;2;D
+1;04-01-2016;Sp Gijón;Getafe;1;1;A
+1;09-01-2016;Barcelona;Granada;1;4;H
+1;09-01-2016;Getafe;Betis;1;1;H
+1;09-01-2016;Levante;Rayo Vallecano;1;2;H
+1;09-01-2016;Real Madrid;Deportivo de la Coruña;1;5;H
+1;09-01-2016;Sevilla;Athletic de Bilbao;1;2;H
+1;10-01-2016;Celta;Atlético de Madrid;1;0;A
+1;10-01-2016;Eibar;Espanyol;1;2;H
+1;10-01-2016;Las Palmas;Málaga;1;1;D
+1;10-01-2016;Real Sociedad;Valencia;1;2;H
+1;10-01-2016;Villarreal;Sp Gijón;1;2;H
+1;16-01-2016;Celta;Levante;1;4;H
+1;16-01-2016;Sevilla;Málaga;1;2;H
+1;16-01-2016;Real Sociedad;Deportivo de la Coruña;1;1;D
+1;16-01-2016;Villarreal;Betis;1;0;D
+1;17-01-2016;Barcelona;Athletic de Bilbao;1;6;H
+1;17-01-2016;Getafe;Espanyol;1;3;H
+1;17-01-2016;Las Palmas;Atlético de Madrid;1;0;A
+1;17-01-2016;Real Madrid;Sp Gijón;1;5;H
+1;17-01-2016;Valencia;Rayo Vallecano;1;2;D
+1;18-01-2016;Eibar;Granada;1;5;H
+1;22-01-2016;Sp Gijón;Real Sociedad;1;5;H
+1;23-01-2016;Espanyol;Villarreal;1;2;D
+1;23-01-2016;Granada;Getafe;1;3;H
+1;23-01-2016;Málaga;Barcelona;1;1;A
+1;23-01-2016;Rayo Vallecano;Celta;1;3;H
+1;24-01-2016;Athletic de Bilbao;Eibar;1;5;H
+1;24-01-2016;Atlético de Madrid;Sevilla;1;0;D
+1;24-01-2016;Betis;Real Madrid;1;1;D
+1;24-01-2016;Deportivo de la Coruña;Valencia;1;1;D
+1;25-01-2016;Levante;Las Palmas;1;3;H
+1;30-01-2016;Barcelona;Atlético de Madrid;1;2;H
+1;30-01-2016;Eibar;Málaga;1;1;A
+1;30-01-2016;Getafe;Athletic de Bilbao;1;0;A
+1;30-01-2016;Real Sociedad;Betis;1;2;H
+1;30-01-2016;Villarreal;Granada;1;1;H
+1;31-01-2016;Las Palmas;Celta;1;2;H
+1;31-01-2016;Real Madrid;Espanyol;1;6;H
+1;31-01-2016;Sevilla;Levante;1;3;H
+1;31-01-2016;Valencia;Sp Gijón;1;0;A
+1;01-02-2016;Deportivo de la Coruña;Rayo Vallecano;1;2;D
+1;05-02-2016;Málaga;Getafe;1;3;H
+1;06-02-2016;Athletic de Bilbao;Villarreal;1;0;D
+1;06-02-2016;Atlético de Madrid;Eibar;1;3;H
+1;06-02-2016;Sp Gijón;Deportivo de la Coruña;1;1;D
+1;06-02-2016;Rayo Vallecano;Las Palmas;1;2;H
+1;07-02-2016;Betis;Valencia;1;1;H
+1;07-02-2016;Celta;Sevilla;1;1;D
+1;07-02-2016;Granada;Real Madrid;1;1;A
+1;07-02-2016;Levante;Barcelona;1;0;A
+1;08-02-2016;Espanyol;Real Sociedad;1;0;A
+1;12-02-2016;Sp Gijón;Rayo Vallecano;1;2;D
+1;13-02-2016;Deportivo de la Coruña;Betis;1;2;D
+1;13-02-2016;Real Madrid;Athletic de Bilbao;1;4;H
+1;13-02-2016;Valencia;Espanyol;1;2;H
+1;13-02-2016;Villarreal;Málaga;1;1;H
+1;14-02-2016;Barcelona;Celta;1;6;H
+1;14-02-2016;Eibar;Levante;1;2;H
+1;14-02-2016;Getafe;Atlético de Madrid;1;0;A
+1;14-02-2016;Sevilla;Las Palmas;1;2;H
+1;14-02-2016;Real Sociedad;Granada;1;3;H
+1;17-02-2016;Sp Gijón;Barcelona;1;1;A
+1;19-02-2016;Levante;Getafe;1;3;H
+1;20-02-2016;Betis;Sp Gijón;1;1;D
+1;20-02-2016;Celta;Eibar;1;3;H
+1;20-02-2016;Espanyol;Deportivo de la Coruña;1;1;H
+1;20-02-2016;Las Palmas;Barcelona;1;1;A
+1;21-02-2016;Athletic de Bilbao;Real Sociedad;1;0;A
+1;21-02-2016;Atlético de Madrid;Villarreal;1;0;D
+1;21-02-2016;Granada;Valencia;1;1;A
+1;21-02-2016;Málaga;Real Madrid;1;1;D
+1;21-02-2016;Rayo Vallecano;Sevilla;1;2;D
+1;26-02-2016;Eibar;Las Palmas;1;0;A
+1;27-02-2016;Betis;Rayo Vallecano;1;2;D
+1;27-02-2016;Getafe;Celta;1;0;A
+1;27-02-2016;Real Madrid;Atlético de Madrid;1;0;A
+1;27-02-2016;Real Sociedad;Málaga;1;1;D
+1;27-02-2016;Sp Gijón;Espanyol;1;2;A
+1;28-02-2016;Barcelona;Sevilla;1;2;H
+1;28-02-2016;Deportivo de la Coruña;Granada;1;0;A
+1;28-02-2016;Valencia;Athletic de Bilbao;1;0;A
+1;28-02-2016;Villarreal;Levante;1;3;H
+1;01-03-2016;Atlético de Madrid;Real Sociedad;1;3;H
+1;01-03-2016;Las Palmas;Getafe;1;4;H
+1;02-03-2016;Athletic de Bilbao;Deportivo de la Coruña;1;4;H
+1;02-03-2016;Celta;Villarreal;1;0;D
+1;02-03-2016;Levante;Real Madrid;1;1;A
+1;02-03-2016;Málaga;Valencia;1;1;A
+1;02-03-2016;Sevilla;Eibar;1;1;H
+1;03-03-2016;Espanyol;Betis;1;0;A
+1;03-03-2016;Granada;Sp Gijón;1;2;H
+1;03-03-2016;Rayo Vallecano;Barcelona;1;1;A
+1;05-03-2016;Getafe;Sevilla;1;1;D
+1;05-03-2016;Deportivo de la Coruña;Málaga;1;3;D
+1;05-03-2016;Real Madrid;Celta;1;7;H
+1;05-03-2016;Villarreal;Las Palmas;1;0;A
+1;06-03-2016;Betis;Granada;1;2;H
+1;06-03-2016;Eibar;Barcelona;1;0;A
+1;06-03-2016;Real Sociedad;Levante;1;1;D
+1;06-03-2016;Sp Gijón;Athletic de Bilbao;1;0;A
+1;06-03-2016;Valencia;Atlético de Madrid;1;1;A
+1;07-03-2016;Espanyol;Rayo Vallecano;1;2;H
+1;11-03-2016;Málaga;Sp Gijón;1;1;H
+1;12-03-2016;Atlético de Madrid;Deportivo de la Coruña;1;3;H
+1;12-03-2016;Barcelona;Getafe;1;6;H
+1;12-03-2016;Celta;Real Sociedad;1;1;H
+1;12-03-2016;Rayo Vallecano;Eibar;1;1;D
+1;13-03-2016;Athletic de Bilbao;Betis;1;3;H
+1;13-03-2016;Las Palmas;Real Madrid;1;1;A
+1;13-03-2016;Levante;Valencia;1;1;H
+1;13-03-2016;Sevilla;Villarreal;1;4;H
+1;14-03-2016;Granada;Espanyol;1;1;D
+1;18-03-2016;Getafe;Eibar;1;1;D
+1;19-03-2016;Betis;Málaga;1;0;A
+1;19-03-2016;Granada;Rayo Vallecano;1;2;D
+1;19-03-2016;Deportivo de la Coruña;Levante;1;2;H
+1;19-03-2016;Real Sociedad;Las Palmas;1;0;A
+1;19-03-2016;Sp Gijón;Atlético de Madrid;1;2;H
+1;20-03-2016;Espanyol;Athletic de Bilbao;1;2;H
+1;20-03-2016;Real Madrid;Sevilla;1;4;H
+1;20-03-2016;Valencia;Celta;1;0;A
+1;20-03-2016;Villarreal;Barcelona;1;2;D
+1;01-04-2016;Rayo Vallecano;Getafe;1;2;H
+1;02-04-2016;Atlético de Madrid;Betis;1;5;H
+1;02-04-2016;Barcelona;Real Madrid;1;1;A
+1;02-04-2016;Celta;Deportivo de la Coruña;1;1;D
+1;02-04-2016;Las Palmas;Valencia;1;2;H
+1;03-04-2016;Athletic de Bilbao;Granada;1;1;D
+1;03-04-2016;Eibar;Villarreal;1;1;A
+1;03-04-2016;Málaga;Espanyol;1;1;D
+1;03-04-2016;Sevilla;Real Sociedad;1;1;A
+1;04-04-2016;Levante;Sp Gijón;1;0;D
+1;08-04-2016;Granada;Málaga;1;0;D
+1;09-04-2016;Betis;Levante;1;1;H
+1;09-04-2016;Espanyol;Atlético de Madrid;1;1;A
+1;09-04-2016;Real Madrid;Eibar;1;4;H
+1;09-04-2016;Real Sociedad;Barcelona;1;1;H
+1;10-04-2016;Athletic de Bilbao;Rayo Vallecano;1;1;H
+1;10-04-2016;Sp Gijón;Celta;1;0;A
+1;10-04-2016;Valencia;Sevilla;1;2;H
+1;10-04-2016;Villarreal;Getafe;1;2;H
+1;11-04-2016;Deportivo de la Coruña;Las Palmas;1;1;A
+1;15-04-2016;Levante;Espanyol;1;2;H
+1;16-04-2016;Celta;Betis;1;1;D
+1;16-04-2016;Eibar;Real Sociedad;1;2;H
+1;16-04-2016;Getafe;Real Madrid;1;1;A
+1;16-04-2016;Las Palmas;Sp Gijón;1;1;D
+1;17-04-2016;Atlético de Madrid;Granada;1;3;H
+1;17-04-2016;Barcelona;Valencia;1;1;A
+1;17-04-2016;Málaga;Athletic de Bilbao;1;0;A
+1;17-04-2016;Sevilla;Deportivo de la Coruña;1;1;D
+1;17-04-2016;Rayo Vallecano;Villarreal;1;2;H
+1;19-04-2016;Betis;Las Palmas;1;1;H
+1;19-04-2016;Espanyol;Celta;1;1;D
+1;20-04-2016;Athletic de Bilbao;Atlético de Madrid;1;0;A
+1;20-04-2016;Deportivo de la Coruña;Barcelona;1;0;A
+1;20-04-2016;Málaga;Rayo Vallecano;1;1;D
+1;20-04-2016;Real Madrid;Villarreal;1;3;H
+1;20-04-2016;Sp Gijón;Sevilla;1;2;H
+1;20-04-2016;Valencia;Eibar;1;4;H
+1;21-04-2016;Granada;Levante;1;5;H
+1;21-04-2016;Real Sociedad;Getafe;1;1;A
+1;22-04-2016;Las Palmas;Espanyol;1;4;H
+1;23-04-2016;Atlético de Madrid;Málaga;1;1;H
+1;23-04-2016;Barcelona;Sp Gijón;1;6;H
+1;23-04-2016;Eibar;Deportivo de la Coruña;1;1;D
+1;23-04-2016;Rayo Vallecano;Real Madrid;1;2;A
+1;24-04-2016;Getafe;Valencia;1;2;D
+1;24-04-2016;Levante;Athletic de Bilbao;1;2;D
+1;24-04-2016;Sevilla;Betis;1;2;H
+1;24-04-2016;Villarreal;Real Sociedad;1;0;D
+1;25-04-2016;Celta;Granada;1;2;H
+1;29-04-2016;Sp Gijón;Eibar;1;2;H
+1;30-04-2016;Atlético de Madrid;Rayo Vallecano;1;1;H
+1;30-04-2016;Betis;Barcelona;1;0;A
+1;30-04-2016;Granada;Las Palmas;1;3;H
+1;30-04-2016;Real Sociedad;Real Madrid;1;0;A
+1;01-05-2016;Athletic de Bilbao;Celta;1;2;H
+1;01-05-2016;Espanyol;Sevilla;1;1;H
+1;01-05-2016;Deportivo de la Coruña;Getafe;1;0;A
+1;01-05-2016;Valencia;Villarreal;1;0;A
+1;02-05-2016;Málaga;Levante;1;3;H
+1;08-05-2016;Barcelona;Espanyol;1;5;H
+1;08-05-2016;Celta;Málaga;1;1;H
+1;08-05-2016;Eibar;Betis;1;1;D
+1;08-05-2016;Getafe;Sp Gijón;1;1;D
+1;08-05-2016;Las Palmas;Athletic de Bilbao;1;0;D
+1;08-05-2016;Levante;Atlético de Madrid;1;2;H
+1;08-05-2016;Real Madrid;Valencia;1;3;H
+1;08-05-2016;Sevilla;Granada;1;1;A
+1;08-05-2016;Real Sociedad;Rayo Vallecano;1;2;H
+1;08-05-2016;Villarreal;Deportivo de la Coruña;1;0;A
+1;13-05-2016;Valencia;Real Sociedad;1;0;A
+1;14-05-2016;Athletic de Bilbao;Sevilla;1;3;H
+1;14-05-2016;Atlético de Madrid;Celta;1;2;H
+1;14-05-2016;Granada;Barcelona;1;0;A
+1;14-05-2016;Deportivo de la Coruña;Real Madrid;1;0;A
+1;15-05-2016;Betis;Getafe;1;2;H
+1;15-05-2016;Espanyol;Eibar;1;4;H
+1;15-05-2016;Málaga;Las Palmas;1;4;H
+1;15-05-2016;Sp Gijón;Villarreal;1;2;H
+1;15-05-2016;Rayo Vallecano;Levante;1;3;H
+1;21-08-2015;Sevilla;Málaga;0;0;D
+1;22-08-2015;Las Palmas;Atlético de Madrid;0;0;H
+1;22-08-2015;Getafe;Espanyol;0;0;H
+1;22-08-2015;Real Sociedad;Deportivo de la Coruña;0;0;D
+1;22-08-2015;Valencia;Rayo Vallecano;0;0;D
+1;23-08-2015;Barcelona;Athletic de Bilbao;0;1;A
+1;23-08-2015;Villarreal;Betis;0;1;D
+1;23-08-2015;Celta;Levante;0;2;A
+1;23-08-2015;Real Madrid;Sp Gijón;0;0;D
+1;24-08-2015;Eibar;Granada;0;3;A
+1;28-08-2015;Espanyol;Villarreal;0;1;H
+1;29-08-2015;Málaga;Barcelona;0;0;H
+1;29-08-2015;Rayo Vallecano;Celta;0;0;H
+1;29-08-2015;Betis;Real Madrid;0;0;H
+1;29-08-2015;Sp Gijón;Real Sociedad;0;0;D
+1;30-08-2015;Athletic de Bilbao;Eibar;0;0;H
+1;30-08-2015;Granada;Getafe;0;2;A
+1;30-08-2015;Levante;Las Palmas;0;0;D
+1;30-08-2015;Atlético de Madrid;Sevilla;0;3;A
+1;30-08-2015;Deportivo de la Coruña;Valencia;0;1;D
+1;11-09-2015;Sevilla;Levante;0;1;D
+1;12-09-2015;Barcelona;Atlético de Madrid;0;2;A
+1;12-09-2015;Real Sociedad;Betis;0;0;H
+1;12-09-2015;Real Madrid;Espanyol;0;6;A
+1;12-09-2015;Valencia;Sp Gijón;0;1;A
+1;13-09-2015;Getafe;Athletic de Bilbao;0;1;H
+1;13-09-2015;Las Palmas;Celta;0;3;D
+1;13-09-2015;Villarreal;Granada;0;3;A
+1;13-09-2015;Eibar;Málaga;0;0;D
+1;14-09-2015;Deportivo de la Coruña;Rayo Vallecano;0;3;A
+1;18-09-2015;Málaga;Getafe;0;0;H
+1;19-09-2015;Atlético de Madrid;Eibar;0;2;A
+1;19-09-2015;Granada;Real Madrid;0;0;H
+1;19-09-2015;Espanyol;Real Sociedad;0;3;A
+1;19-09-2015;Betis;Valencia;0;0;D
+1;20-09-2015;Levante;Barcelona;0;1;H
+1;20-09-2015;Sp Gijón;Deportivo de la Coruña;0;3;A
+1;20-09-2015;Rayo Vallecano;Las Palmas;0;1;A
+1;20-09-2015;Celta;Sevilla;0;2;A
+1;20-09-2015;Athletic de Bilbao;Villarreal;0;1;H
+1;22-09-2015;Getafe;Atlético de Madrid;0;0;H
+1;22-09-2015;Valencia;Espanyol;0;0;H
+1;22-09-2015;Real Sociedad;Granada;0;3;A
+1;23-09-2015;Real Madrid;Athletic de Bilbao;0;2;A
+1;23-09-2015;Barcelona;Celta;0;1;H
+1;23-09-2015;Sevilla;Las Palmas;0;0;H
+1;23-09-2015;Eibar;Levante;0;2;D
+1;23-09-2015;Villarreal;Málaga;0;1;A
+1;23-09-2015;Sp Gijón;Rayo Vallecano;0;1;H
+1;24-09-2015;Deportivo de la Coruña;Betis;0;2;A
+1;25-09-2015;Granada;Valencia;0;0;H
+1;26-09-2015;Las Palmas;Barcelona;0;1;H
+1;26-09-2015;Celta;Eibar;0;1;D
+1;26-09-2015;Málaga;Real Madrid;0;0;D
+1;26-09-2015;Rayo Vallecano;Sevilla;0;2;H
+1;26-09-2015;Atlético de Madrid;Villarreal;0;0;H
+1;27-09-2015;Levante;Getafe;0;0;H
+1;27-09-2015;Espanyol;Deportivo de la Coruña;0;0;H
+1;27-09-2015;Athletic de Bilbao;Real Sociedad;0;0;D
+1;27-09-2015;Betis;Sp Gijón;0;2;A
+1;02-10-2015;Getafe;Celta;0;0;D
+1;03-10-2015;Sp Gijón;Espanyol;0;2;A
+1;03-10-2015;Deportivo de la Coruña;Granada;0;1;D
+1;03-10-2015;Eibar;Las Palmas;0;2;A
+1;03-10-2015;Real Sociedad;Málaga;0;1;H
+1;03-10-2015;Barcelona;Sevilla;0;1;H
+1;04-10-2015;Valencia;Athletic de Bilbao;0;1;H
+1;04-10-2015;Real Madrid;Atlético de Madrid;0;1;D
+1;04-10-2015;Villarreal;Levante;0;0;H
+1;04-10-2015;Betis;Rayo Vallecano;0;2;A
+1;17-10-2015;Rayo Vallecano;Barcelona;0;2;H
+1;17-10-2015;Espanyol;Betis;0;3;A
+1;17-10-2015;Sevilla;Eibar;0;1;D
+1;17-10-2015;Levante;Real Madrid;0;0;H
+1;17-10-2015;Málaga;Valencia;0;0;H
+1;18-10-2015;Las Palmas;Getafe;0;0;H
+1;18-10-2015;Athletic de Bilbao;Deportivo de la Coruña;0;2;D
+1;18-10-2015;Atlético de Madrid;Real Sociedad;0;2;A
+1;18-10-2015;Celta;Villarreal;0;2;A
+1;19-10-2015;Granada;Sp Gijón;0;3;D
+1;23-10-2015;Espanyol;Rayo Vallecano;0;0;H
+1;24-10-2015;Real Madrid;Celta;0;3;A
+1;24-10-2015;Betis;Granada;0;1;D
+1;24-10-2015;Deportivo de la Coruña;Málaga;0;0;H
+1;24-10-2015;Getafe;Sevilla;0;0;H
+1;25-10-2015;Valencia;Atlético de Madrid;0;1;H
+1;25-10-2015;Eibar;Barcelona;0;1;H
+1;25-10-2015;Villarreal;Las Palmas;0;0;D
+1;25-10-2015;Real Sociedad;Levante;0;4;A
+1;26-10-2015;Sp Gijón;Athletic de Bilbao;0;0;H
+1;30-10-2015;Atlético de Madrid;Deportivo de la Coruña;0;1;D
+1;31-10-2015;Barcelona;Getafe;0;2;A
+1;31-10-2015;Las Palmas;Real Madrid;0;1;H
+1;31-10-2015;Celta;Real Sociedad;0;3;A
+1;31-10-2015;Levante;Valencia;0;0;H
+1;31-10-2015;Sevilla;Villarreal;0;1;H
+1;01-11-2015;Athletic de Bilbao;Betis;0;3;A
+1;01-11-2015;Rayo Vallecano;Eibar;0;0;H
+1;01-11-2015;Granada;Espanyol;0;1;D
+1;01-11-2015;Málaga;Sp Gijón;0;0;H
+1;06-11-2015;Real Sociedad;Las Palmas;0;0;H
+1;07-11-2015;Valencia;Celta;0;5;A
+1;07-11-2015;Getafe;Eibar;0;1;H
+1;07-11-2015;Deportivo de la Coruña;Levante;0;1;D
+1;07-11-2015;Betis;Málaga;0;1;A
+1;07-11-2015;Granada;Rayo Vallecano;0;1;H
+1;08-11-2015;Espanyol;Athletic de Bilbao;0;1;H
+1;08-11-2015;Sp Gijón;Atlético de Madrid;0;0;H
+1;08-11-2015;Villarreal;Barcelona;0;0;H
+1;08-11-2015;Real Madrid;Sevilla;0;2;H
+1;21-11-2015;Málaga;Espanyol;0;0;H
+1;21-11-2015;Celta;Deportivo de la Coruña;0;0;H
+1;21-11-2015;Barcelona;Real Madrid;0;4;A
+1;21-11-2015;Sevilla;Real Sociedad;0;0;H
+1;21-11-2015;Las Palmas;Valencia;0;1;D
+1;22-11-2015;Atlético de Madrid;Betis;0;1;A
+1;22-11-2015;Athletic de Bilbao;Granada;0;0;H
+1;22-11-2015;Levante;Sp Gijón;0;3;A
+1;22-11-2015;Eibar;Villarreal;0;1;D
+1;23-11-2015;Rayo Vallecano;Getafe;0;1;D
+1;27-11-2015;Betis;Levante;0;1;A
+1;28-11-2015;Espanyol;Atlético de Madrid;0;0;H
+1;28-11-2015;Real Sociedad;Barcelona;0;0;H
+1;28-11-2015;Sp Gijón;Celta;0;1;H
+1;28-11-2015;Deportivo de la Coruña;Las Palmas;0;2;A
+1;28-11-2015;Granada;Málaga;0;2;D
+1;29-11-2015;Real Madrid;Eibar;0;2;A
+1;29-11-2015;Villarreal;Getafe;0;0;H
+1;29-11-2015;Valencia;Sevilla;0;0;H
+1;29-11-2015;Athletic de Bilbao;Rayo Vallecano;0;3;A
+1;05-12-2015;Celta;Betis;0;1;D
+1;05-12-2015;Atlético de Madrid;Granada;0;2;A
+1;05-12-2015;Sevilla;Deportivo de la Coruña;0;1;D
+1;05-12-2015;Getafe;Real Madrid;0;1;H
+1;05-12-2015;Barcelona;Valencia;0;1;D
+1;06-12-2015;Málaga;Athletic de Bilbao;0;0;D
+1;06-12-2015;Eibar;Real Sociedad;0;1;H
+1;06-12-2015;Las Palmas;Sp Gijón;0;1;H
+1;06-12-2015;Rayo Vallecano;Villarreal;0;1;H
+1;07-12-2015;Levante;Espanyol;0;1;D
+1;11-12-2015;Real Sociedad;Getafe;0;1;D
+1;12-12-2015;Deportivo de la Coruña;Barcelona;0;2;D
+1;12-12-2015;Espanyol;Celta;0;0;H
+1;12-12-2015;Betis;Las Palmas;0;0;H
+1;12-12-2015;Granada;Levante;0;2;A
+1;12-12-2015;Sp Gijón;Sevilla;0;0;H
+1;13-12-2015;Athletic de Bilbao;Atlético de Madrid;0;1;H
+1;13-12-2015;Valencia;Eibar;0;1;D
+1;13-12-2015;Málaga;Rayo Vallecano;0;2;A
+1;13-12-2015;Real Madrid;Villarreal;0;0;H
+1;19-12-2015;Sevilla;Betis;0;0;D
+1;19-12-2015;Las Palmas;Espanyol;0;0;H
+1;19-12-2015;Eibar;Deportivo de la Coruña;0;0;H
+1;19-12-2015;Getafe;Valencia;0;2;D
+1;20-12-2015;Levante;Athletic de Bilbao;0;0;H
+1;20-12-2015;Celta;Granada;0;2;A
+1;20-12-2015;Atlético de Madrid;Málaga;0;0;H
+1;20-12-2015;Rayo Vallecano;Real Madrid;0;2;H
+1;20-12-2015;Villarreal;Real Sociedad;0;2;A
+1;30-12-2015;Betis;Barcelona;0;0;H
+1;30-12-2015;Athletic de Bilbao;Celta;0;1;A
+1;30-12-2015;Sp Gijón;Eibar;0;0;H
+1;30-12-2015;Deportivo de la Coruña;Getafe;0;0;D
+1;30-12-2015;Granada;Las Palmas;0;1;H
+1;30-12-2015;Málaga;Levante;0;1;A
+1;30-12-2015;Real Sociedad;Real Madrid;0;1;H
+1;30-12-2015;Espanyol;Sevilla;0;0;H
+1;30-12-2015;Atlético de Madrid;Rayo Vallecano;0;2;A
+1;31-12-2015;Valencia;Villarreal;0;0;H
+1;02-01-2016;Levante;Atlético de Madrid;0;0;H
+1;02-01-2016;Barcelona;Espanyol;0;0;D
+1;02-01-2016;Celta;Málaga;0;0;H
+1;03-01-2016;Las Palmas;Athletic de Bilbao;0;2;D
+1;03-01-2016;Eibar;Betis;0;4;A
+1;03-01-2016;Sevilla;Granada;0;1;H
+1;03-01-2016;Villarreal;Deportivo de la Coruña;0;2;A
+1;03-01-2016;Real Madrid;Valencia;0;2;D
+1;03-01-2016;Real Sociedad;Rayo Vallecano;0;2;D
+1;04-01-2016;Getafe;Sp Gijón;0;2;A
+1;09-01-2016;Granada;Barcelona;0;0;H
+1;09-01-2016;Betis;Getafe;0;0;H
+1;09-01-2016;Rayo Vallecano;Levante;0;1;H
+1;09-01-2016;Deportivo de la Coruña;Real Madrid;0;0;H
+1;09-01-2016;Athletic de Bilbao;Sevilla;0;0;H
+1;10-01-2016;Atlético de Madrid;Celta;0;2;A
+1;10-01-2016;Espanyol;Eibar;0;1;H
+1;10-01-2016;Málaga;Las Palmas;0;1;D
+1;10-01-2016;Valencia;Real Sociedad;0;0;H
+1;10-01-2016;Sp Gijón;Villarreal;0;0;H
+1;16-01-2016;Levante;Celta;0;3;H
+1;16-01-2016;Málaga;Sevilla;0;1;H
+1;16-01-2016;Deportivo de la Coruña;Real Sociedad;0;1;D
+1;16-01-2016;Betis;Villarreal;0;0;D
+1;17-01-2016;Athletic de Bilbao;Barcelona;0;0;H
+1;17-01-2016;Espanyol;Getafe;0;1;H
+1;17-01-2016;Atlético de Madrid;Las Palmas;0;3;A
+1;17-01-2016;Sp Gijón;Real Madrid;0;1;H
+1;17-01-2016;Rayo Vallecano;Valencia;0;2;D
+1;18-01-2016;Granada;Eibar;0;1;H
+1;22-01-2016;Real Sociedad;Sp Gijón;0;1;H
+1;23-01-2016;Villarreal;Espanyol;0;2;D
+1;23-01-2016;Getafe;Granada;0;2;H
+1;23-01-2016;Barcelona;Málaga;0;2;A
+1;23-01-2016;Celta;Rayo Vallecano;0;0;H
+1;24-01-2016;Eibar;Athletic de Bilbao;0;2;H
+1;24-01-2016;Sevilla;Atlético de Madrid;0;0;D
+1;24-01-2016;Real Madrid;Betis;0;1;D
+1;24-01-2016;Valencia;Deportivo de la Coruña;0;1;D
+1;25-01-2016;Las Palmas;Levante;0;2;H
+1;30-01-2016;Atlético de Madrid;Barcelona;0;1;H
+1;30-01-2016;Málaga;Eibar;0;2;A
+1;30-01-2016;Athletic de Bilbao;Getafe;0;1;A
+1;30-01-2016;Betis;Real Sociedad;0;1;H
+1;30-01-2016;Granada;Villarreal;0;0;H
+1;31-01-2016;Celta;Las Palmas;0;1;H
+1;31-01-2016;Espanyol;Real Madrid;0;0;H
+1;31-01-2016;Levante;Sevilla;0;1;H
+1;31-01-2016;Sp Gijón;Valencia;0;1;A
+1;01-02-2016;Rayo Vallecano;Deportivo de la Coruña;0;2;D
+1;05-02-2016;Getafe;Málaga;0;0;H
+1;06-02-2016;Villarreal;Athletic de Bilbao;0;0;D
+1;06-02-2016;Eibar;Atlético de Madrid;0;1;H
+1;06-02-2016;Deportivo de la Coruña;Sp Gijón;0;1;D
+1;06-02-2016;Las Palmas;Rayo Vallecano;0;0;H
+1;07-02-2016;Valencia;Betis;0;0;H
+1;07-02-2016;Sevilla;Celta;0;1;D
+1;07-02-2016;Real Madrid;Granada;0;2;A
+1;07-02-2016;Barcelona;Levante;0;2;A
+1;08-02-2016;Real Sociedad;Espanyol;0;5;A
+1;12-02-2016;Rayo Vallecano;Sp Gijón;0;2;D
+1;13-02-2016;Betis;Deportivo de la Coruña;0;2;D
+1;13-02-2016;Athletic de Bilbao;Real Madrid;0;2;H
+1;13-02-2016;Espanyol;Valencia;0;1;H
+1;13-02-2016;Málaga;Villarreal;0;0;H
+1;14-02-2016;Celta;Barcelona;0;1;H
+1;14-02-2016;Levante;Eibar;0;0;H
+1;14-02-2016;Atlético de Madrid;Getafe;0;1;A
+1;14-02-2016;Las Palmas;Sevilla;0;0;H
+1;14-02-2016;Granada;Real Sociedad;0;0;H
+1;17-02-2016;Barcelona;Sp Gijón;0;3;A
+1;19-02-2016;Getafe;Levante;0;0;H
+1;20-02-2016;Sp Gijón;Betis;0;1;D
+1;20-02-2016;Eibar;Celta;0;2;H
+1;20-02-2016;Deportivo de la Coruña;Espanyol;0;0;H
+1;20-02-2016;Barcelona;Las Palmas;0;2;A
+1;21-02-2016;Real Sociedad;Athletic de Bilbao;0;1;A
+1;21-02-2016;Villarreal;Atlético de Madrid;0;0;D
+1;21-02-2016;Valencia;Granada;0;2;A
+1;21-02-2016;Real Madrid;Málaga;0;1;D
+1;21-02-2016;Sevilla;Rayo Vallecano;0;2;D
+1;26-02-2016;Las Palmas;Eibar;0;1;A
+1;27-02-2016;Rayo Vallecano;Betis;0;2;D
+1;27-02-2016;Celta;Getafe;0;1;A
+1;27-02-2016;Atlético de Madrid;Real Madrid;0;1;A
+1;27-02-2016;Málaga;Real Sociedad;0;1;D
+1;27-02-2016;Espanyol;Sp Gijón;0;4;A
+1;28-02-2016;Sevilla;Barcelona;0;1;H
+1;28-02-2016;Granada;Deportivo de la Coruña;0;1;A
+1;28-02-2016;Athletic de Bilbao;Valencia;0;3;A
+1;28-02-2016;Levante;Villarreal;0;0;H
+1;01-03-2016;Real Sociedad;Atlético de Madrid;0;0;H
+1;01-03-2016;Getafe;Las Palmas;0;0;H
+1;02-03-2016;Deportivo de la Coruña;Athletic de Bilbao;0;1;H
+1;02-03-2016;Villarreal;Celta;0;0;D
+1;02-03-2016;Real Madrid;Levante;0;3;A
+1;02-03-2016;Valencia;Málaga;0;2;A
+1;02-03-2016;Eibar;Sevilla;0;0;H
+1;03-03-2016;Betis;Espanyol;0;3;A
+1;03-03-2016;Sp Gijón;Granada;0;0;H
+1;03-03-2016;Barcelona;Rayo Vallecano;0;5;A
+1;05-03-2016;Sevilla;Getafe;0;1;D
+1;05-03-2016;Málaga;Deportivo de la Coruña;0;3;D
+1;05-03-2016;Celta;Real Madrid;0;1;H
+1;05-03-2016;Las Palmas;Villarreal;0;1;A
+1;06-03-2016;Granada;Betis;0;0;H
+1;06-03-2016;Barcelona;Eibar;0;4;A
+1;06-03-2016;Levante;Real Sociedad;0;1;D
+1;06-03-2016;Athletic de Bilbao;Sp Gijón;0;2;A
+1;06-03-2016;Atlético de Madrid;Valencia;0;3;A
+1;07-03-2016;Rayo Vallecano;Espanyol;0;1;H
+1;11-03-2016;Sp Gijón;Málaga;0;0;H
+1;12-03-2016;Deportivo de la Coruña;Atlético de Madrid;0;0;H
+1;12-03-2016;Getafe;Barcelona;0;0;H
+1;12-03-2016;Real Sociedad;Celta;0;0;H
+1;12-03-2016;Eibar;Rayo Vallecano;0;1;D
+1;13-03-2016;Betis;Athletic de Bilbao;0;1;H
+1;13-03-2016;Real Madrid;Las Palmas;0;2;A
+1;13-03-2016;Valencia;Levante;0;0;H
+1;13-03-2016;Villarreal;Sevilla;0;2;H
+1;14-03-2016;Espanyol;Granada;0;1;D
+1;18-03-2016;Eibar;Getafe;0;1;D
+1;19-03-2016;Málaga;Betis;0;1;A
+1;19-03-2016;Rayo Vallecano;Granada;0;2;D
+1;19-03-2016;Levante;Deportivo de la Coruña;0;1;H
+1;19-03-2016;Las Palmas;Real Sociedad;0;1;A
+1;19-03-2016;Atlético de Madrid;Sp Gijón;0;1;H
+1;20-03-2016;Athletic de Bilbao;Espanyol;0;1;H
+1;20-03-2016;Sevilla;Real Madrid;0;0;H
+1;20-03-2016;Celta;Valencia;0;2;A
+1;20-03-2016;Barcelona;Villarreal;0;2;D
+1;01-04-2016;Getafe;Rayo Vallecano;0;0;H
+1;02-04-2016;Betis;Atlético de Madrid;0;1;H
+1;02-04-2016;Real Madrid;Barcelona;0;2;A
+1;02-04-2016;Deportivo de la Coruña;Celta;0;1;D
+1;02-04-2016;Valencia;Las Palmas;0;1;H
+1;03-04-2016;Granada;Athletic de Bilbao;0;1;D
+1;03-04-2016;Villarreal;Eibar;0;2;A
+1;03-04-2016;Espanyol;Málaga;0;1;D
+1;03-04-2016;Real Sociedad;Sevilla;0;2;A
+1;04-04-2016;Sp Gijón;Levante;0;0;D
+1;08-04-2016;Málaga;Granada;0;0;D
+1;09-04-2016;Levante;Betis;0;0;H
+1;09-04-2016;Atlético de Madrid;Espanyol;0;3;A
+1;09-04-2016;Eibar;Real Madrid;0;0;H
+1;09-04-2016;Barcelona;Real Sociedad;0;0;H
+1;10-04-2016;Rayo Vallecano;Athletic de Bilbao;0;0;H
+1;10-04-2016;Celta;Sp Gijón;0;1;A
+1;10-04-2016;Sevilla;Valencia;0;1;H
+1;10-04-2016;Getafe;Villarreal;0;0;H
+1;11-04-2016;Las Palmas;Deportivo de la Coruña;0;3;A
+1;15-04-2016;Espanyol;Levante;0;1;H
+1;16-04-2016;Betis;Celta;0;1;D
+1;16-04-2016;Real Sociedad;Eibar;0;1;H
+1;16-04-2016;Real Madrid;Getafe;0;5;A
+1;16-04-2016;Sp Gijón;Las Palmas;0;1;D
+1;17-04-2016;Granada;Atlético de Madrid;0;0;H
+1;17-04-2016;Valencia;Barcelona;0;2;A
+1;17-04-2016;Athletic de Bilbao;Málaga;0;1;A
+1;17-04-2016;Deportivo de la Coruña;Sevilla;0;1;D
+1;17-04-2016;Villarreal;Rayo Vallecano;0;1;H
+1;19-04-2016;Las Palmas;Betis;0;0;H
+1;19-04-2016;Celta;Espanyol;0;1;D
+1;20-04-2016;Atlético de Madrid;Athletic de Bilbao;0;1;A
+1;20-04-2016;Barcelona;Deportivo de la Coruña;0;8;A
+1;20-04-2016;Rayo Vallecano;Málaga;0;1;D
+1;20-04-2016;Villarreal;Real Madrid;0;0;H
+1;20-04-2016;Sevilla;Sp Gijón;0;1;H
+1;20-04-2016;Eibar;Valencia;0;0;H
+1;21-04-2016;Levante;Granada;0;1;H
+1;21-04-2016;Getafe;Real Sociedad;0;2;A
+1;22-04-2016;Espanyol;Las Palmas;0;0;H
+1;23-04-2016;Málaga;Atlético de Madrid;0;0;H
+1;23-04-2016;Sp Gijón;Barcelona;0;0;H
+1;23-04-2016;Deportivo de la Coruña;Eibar;0;1;D
+1;23-04-2016;Real Madrid;Rayo Vallecano;0;3;A
+1;24-04-2016;Valencia;Getafe;0;2;D
+1;24-04-2016;Athletic de Bilbao;Levante;0;2;D
+1;24-04-2016;Betis;Sevilla;0;0;H
+1;24-04-2016;Real Sociedad;Villarreal;0;0;D
+1;25-04-2016;Granada;Celta;0;1;H
+1;29-04-2016;Eibar;Sp Gijón;0;0;H
+1;30-04-2016;Rayo Vallecano;Atlético de Madrid;0;0;H
+1;30-04-2016;Barcelona;Betis;0;2;A
+1;30-04-2016;Las Palmas;Granada;0;2;H
+1;30-04-2016;Real Madrid;Real Sociedad;0;1;A
+1;01-05-2016;Celta;Athletic de Bilbao;0;1;H
+1;01-05-2016;Sevilla;Espanyol;0;0;H
+1;01-05-2016;Getafe;Deportivo de la Coruña;0;2;A
+1;01-05-2016;Villarreal;Valencia;0;2;A
+1;02-05-2016;Levante;Málaga;0;1;H
+1;08-05-2016;Espanyol;Barcelona;0;0;H
+1;08-05-2016;Málaga;Celta;0;0;H
+1;08-05-2016;Betis;Eibar;0;1;D
+1;08-05-2016;Sp Gijón;Getafe;0;1;D
+1;08-05-2016;Athletic de Bilbao;Las Palmas;0;0;D
+1;08-05-2016;Atlético de Madrid;Levante;0;1;H
+1;08-05-2016;Valencia;Real Madrid;0;2;H
+1;08-05-2016;Granada;Sevilla;0;4;A
+1;08-05-2016;Rayo Vallecano;Real Sociedad;0;1;H
+1;08-05-2016;Deportivo de la Coruña;Villarreal;0;2;A
+1;13-05-2016;Real Sociedad;Valencia;0;1;A
+1;14-05-2016;Sevilla;Athletic de Bilbao;0;1;H
+1;14-05-2016;Celta;Atlético de Madrid;0;0;H
+1;14-05-2016;Barcelona;Granada;0;3;A
+1;14-05-2016;Real Madrid;Deportivo de la Coruña;0;2;A
+1;15-05-2016;Getafe;Betis;0;1;H
+1;15-05-2016;Eibar;Espanyol;0;2;H
+1;15-05-2016;Las Palmas;Málaga;0;1;H
+1;15-05-2016;Villarreal;Sp Gijón;0;0;H
+1;15-05-2016;Levante;Rayo Vallecano;0;1;H
+2;22-08-2015;Alcorcon;Mallorca;1;2;H
+2;22-08-2015;Cordoba;Valladolid;1;1;H
+2;22-08-2015;Huesca;Alavés;1;2;A
+2;22-08-2015;Llagostera;Osasuna;1;0;A
+2;23-08-2015;Almeria;Leganés;1;3;H
+2;23-08-2015;Gimnastic;Albacete;1;2;D
+2;23-08-2015;Mirandes;Zaragoza;1;1;D
+2;23-08-2015;Numancia;Tenerife;1;6;H
+2;23-08-2015;Oviedo;Lugo;1;2;D
+2;23-08-2015;Ponferradina;Elche;1;2;H
+2;24-08-2015;Athletic de Bilbao B;Girona;1;0;A
+2;29-08-2015;Albacete;Huesca;1;1;D
+2;29-08-2015;Girona;Numancia;1;2;A
+2;29-08-2015;Leganés;Cordoba;1;3;H
+2;29-08-2015;Lugo;Llagostera;1;1;H
+2;29-08-2015;Zaragoza;Almeria;1;3;H
+2;30-08-2015;Alavés;Oviedo;1;2;H
+2;30-08-2015;Elche;Athletic de Bilbao B;1;2;H
+2;30-08-2015;Mallorca;Ponferradina;1;1;H
+2;30-08-2015;Osasuna;Mirandes;1;1;H
+2;30-08-2015;Tenerife;Gimnastic;1;1;A
+2;30-08-2015;Valladolid;Alcorcon;1;2;H
+2;05-09-2015;Gimnastic;Girona;1;1;H
+2;05-09-2015;Huesca;Tenerife;1;1;D
+2;05-09-2015;Mirandes;Lugo;1;1;D
+2;05-09-2015;Numancia;Elche;1;0;D
+2;06-09-2015;Almeria;Osasuna;1;2;H
+2;06-09-2015;Athletic de Bilbao B;Mallorca;1;3;H
+2;06-09-2015;Cordoba;Alcorcon;1;1;A
+2;06-09-2015;Leganés;Zaragoza;1;1;D
+2;06-09-2015;Llagostera;Alavés;1;3;H
+2;06-09-2015;Oviedo;Albacete;1;3;H
+2;06-09-2015;Ponferradina;Valladolid;1;3;H
+2;12-09-2015;Alavés;Mirandes;1;2;A
+2;12-09-2015;Elche;Gimnastic;1;1;H
+2;12-09-2015;Osasuna;Leganés;1;2;H
+2;12-09-2015;Valladolid;Athletic de Bilbao B;1;1;H
+2;12-09-2015;Zaragoza;Cordoba;1;0;A
+2;13-09-2015;Albacete;Llagostera;1;1;H
+2;13-09-2015;Alcorcon;Ponferradina;1;1;H
+2;13-09-2015;Girona;Huesca;1;0;D
+2;13-09-2015;Lugo;Almeria;1;1;H
+2;13-09-2015;Mallorca;Numancia;1;0;D
+2;13-09-2015;Tenerife;Oviedo;1;0;A
+2;19-09-2015;Athletic de Bilbao B;Alcorcon;1;1;H
+2;19-09-2015;Leganés;Lugo;1;0;D
+2;19-09-2015;Llagostera;Tenerife;1;0;A
+2;19-09-2015;Mirandes;Albacete;1;1;D
+2;19-09-2015;Oviedo;Girona;1;1;A
+2;20-09-2015;Almeria;Alavés;1;0;A
+2;20-09-2015;Cordoba;Ponferradina;1;1;H
+2;20-09-2015;Gimnastic;Mallorca;1;1;H
+2;20-09-2015;Huesca;Elche;1;1;A
+2;20-09-2015;Numancia;Valladolid;1;2;D
+2;20-09-2015;Zaragoza;Osasuna;1;0;A
+2;26-09-2015;Alcorcon;Numancia;1;1;D
+2;26-09-2015;Lugo;Zaragoza;1;0;D
+2;26-09-2015;Mallorca;Huesca;1;0;A
+2;26-09-2015;Osasuna;Cordoba;1;0;D
+2;26-09-2015;Ponferradina;Athletic de Bilbao B;1;1;H
+2;27-09-2015;Alavés;Leganés;1;0;D
+2;27-09-2015;Albacete;Almeria;1;3;H
+2;27-09-2015;Elche;Oviedo;1;1;D
+2;27-09-2015;Girona;Llagostera;1;2;D
+2;27-09-2015;Tenerife;Mirandes;1;3;H
+2;27-09-2015;Valladolid;Gimnastic;1;0;D
+2;03-10-2015;Almeria;Tenerife;1;2;D
+2;03-10-2015;Cordoba;Athletic de Bilbao B;1;1;H
+2;03-10-2015;Gimnastic;Alcorcon;1;0;A
+2;03-10-2015;Numancia;Ponferradina;1;1;H
+2;03-10-2015;Zaragoza;Alavés;1;1;H
+2;04-10-2015;Huesca;Valladolid;1;1;D
+2;04-10-2015;Leganés;Albacete;1;3;H
+2;04-10-2015;Llagostera;Elche;1;4;H
+2;04-10-2015;Mirandes;Girona;1;1;H
+2;04-10-2015;Osasuna;Lugo;1;4;H
+2;04-10-2015;Oviedo;Mallorca;1;1;D
+2;10-10-2015;Alavés;Osasuna;1;3;H
+2;10-10-2015;Athletic de Bilbao B;Numancia;1;0;D
+2;10-10-2015;Elche;Mirandes;1;1;A
+2;10-10-2015;Ponferradina;Gimnastic;1;2;D
+2;10-10-2015;Tenerife;Leganés;1;0;D
+2;11-10-2015;Albacete;Zaragoza;1;1;A
+2;11-10-2015;Alcorcon;Huesca;1;0;A
+2;11-10-2015;Girona;Almeria;1;1;D
+2;11-10-2015;Lugo;Cordoba;1;1;A
+2;11-10-2015;Mallorca;Llagostera;1;1;H
+2;11-10-2015;Valladolid;Oviedo;1;2;A
+2;17-10-2015;Gimnastic;Athletic de Bilbao B;1;2;H
+2;17-10-2015;Leganés;Girona;1;2;D
+2;17-10-2015;Mirandes;Mallorca;1;2;D
+2;17-10-2015;Osasuna;Albacete;1;1;H
+2;17-10-2015;Oviedo;Alcorcon;1;3;H
+2;18-10-2015;Almeria;Elche;1;2;A
+2;18-10-2015;Cordoba;Numancia;1;3;H
+2;18-10-2015;Huesca;Ponferradina;1;1;D
+2;18-10-2015;Llagostera;Valladolid;1;3;H
+2;18-10-2015;Lugo;Alavés;1;1;H
+2;18-10-2015;Zaragoza;Tenerife;1;2;H
+2;24-10-2015;Alavés;Cordoba;1;3;H
+2;24-10-2015;Alcorcon;Llagostera;1;6;H
+2;24-10-2015;Athletic de Bilbao B;Huesca;1;0;D
+2;24-10-2015;Elche;Leganés;1;0;D
+2;24-10-2015;Girona;Zaragoza;1;0;D
+2;25-10-2015;Albacete;Lugo;1;2;H
+2;25-10-2015;Mallorca;Almeria;1;1;H
+2;25-10-2015;Numancia;Gimnastic;1;1;D
+2;25-10-2015;Ponferradina;Oviedo;1;4;H
+2;25-10-2015;Tenerife;Osasuna;1;2;D
+2;25-10-2015;Valladolid;Mirandes;1;2;H
+2;31-10-2015;Cordoba;Gimnastic;1;2;H
+2;31-10-2015;Huesca;Numancia;1;2;H
+2;31-10-2015;Llagostera;Ponferradina;1;0;A
+2;31-10-2015;Lugo;Tenerife;1;2;H
+2;31-10-2015;Mirandes;Alcorcon;1;3;H
+2;01-11-2015;Alavés;Albacete;1;1;D
+2;01-11-2015;Almeria;Valladolid;1;1;D
+2;01-11-2015;Leganés;Mallorca;1;0;D
+2;01-11-2015;Osasuna;Girona;1;0;A
+2;01-11-2015;Oviedo;Athletic de Bilbao B;1;0;D
+2;01-11-2015;Zaragoza;Elche;1;2;H
+2;07-11-2015;Mallorca;Zaragoza;1;0;D
+2;07-11-2015;Ponferradina;Mirandes;1;2;D
+2;07-11-2015;Tenerife;Alavés;1;2;H
+2;07-11-2015;Valladolid;Leganés;1;1;D
+2;08-11-2015;Albacete;Cordoba;1;2;H
+2;08-11-2015;Alcorcon;Almeria;1;0;D
+2;08-11-2015;Elche;Osasuna;1;2;H
+2;08-11-2015;Gimnastic;Huesca;1;2;H
+2;08-11-2015;Girona;Lugo;1;0;A
+2;08-11-2015;Numancia;Oviedo;1;1;H
+2;09-11-2015;Athletic de Bilbao B;Llagostera;1;2;H
+2;14-11-2015;Alavés;Girona;1;1;H
+2;14-11-2015;Albacete;Tenerife;1;1;A
+2;14-11-2015;Leganés;Alcorcon;1;3;H
+2;14-11-2015;Lugo;Elche;1;1;D
+2;14-11-2015;Mirandes;Athletic de Bilbao B;1;3;H
+2;15-11-2015;Almeria;Ponferradina;1;1;D
+2;15-11-2015;Cordoba;Huesca;1;1;D
+2;15-11-2015;Llagostera;Numancia;1;2;H
+2;15-11-2015;Osasuna;Mallorca;1;2;H
+2;15-11-2015;Oviedo;Gimnastic;1;2;H
+2;15-11-2015;Zaragoza;Valladolid;1;0;A
+2;21-11-2015;Athletic de Bilbao B;Almeria;1;0;D
+2;21-11-2015;Elche;Alavés;1;0;A
+2;21-11-2015;Huesca;Oviedo;1;0;A
+2;21-11-2015;Mallorca;Lugo;1;1;D
+2;21-11-2015;Numancia;Mirandes;1;2;D
+2;22-11-2015;Alcorcon;Zaragoza;1;1;H
+2;22-11-2015;Gimnastic;Llagostera;1;2;H
+2;22-11-2015;Girona;Albacete;1;3;H
+2;22-11-2015;Ponferradina;Leganés;1;1;H
+2;22-11-2015;Tenerife;Cordoba;1;1;D
+2;22-11-2015;Valladolid;Osasuna;1;0;A
+2;28-11-2015;Alavés;Mallorca;1;1;H
+2;28-11-2015;Almeria;Numancia;1;1;D
+2;28-11-2015;Leganés;Athletic de Bilbao B;1;1;H
+2;28-11-2015;Llagostera;Huesca;1;2;H
+2;28-11-2015;Osasuna;Alcorcon;1;1;A
+2;29-11-2015;Albacete;Elche;1;1;H
+2;29-11-2015;Cordoba;Oviedo;1;2;H
+2;29-11-2015;Lugo;Valladolid;1;1;D
+2;29-11-2015;Mirandes;Gimnastic;1;0;A
+2;29-11-2015;Tenerife;Girona;1;1;D
+2;29-11-2015;Zaragoza;Ponferradina;1;2;H
+2;05-12-2015;Alcorcon;Lugo;1;1;D
+2;05-12-2015;Elche;Tenerife;1;0;D
+2;05-12-2015;Gimnastic;Almeria;1;2;D
+2;05-12-2015;Valladolid;Alavés;1;1;A
+2;06-12-2015;Girona;Cordoba;1;1;A
+2;06-12-2015;Huesca;Mirandes;1;1;A
+2;06-12-2015;Mallorca;Albacete;1;2;H
+2;06-12-2015;Numancia;Leganés;1;1;A
+2;06-12-2015;Oviedo;Llagostera;1;2;H
+2;06-12-2015;Ponferradina;Osasuna;1;3;H
+2;07-12-2015;Athletic de Bilbao B;Zaragoza;1;0;A
+2;12-12-2015;Alavés;Alcorcon;1;1;D
+2;12-12-2015;Cordoba;Llagostera;1;2;H
+2;12-12-2015;Girona;Elche;1;0;A
+2;12-12-2015;Lugo;Ponferradina;1;3;H
+2;12-12-2015;Tenerife;Mallorca;1;2;H
+2;13-12-2015;Albacete;Valladolid;1;0;A
+2;13-12-2015;Almeria;Huesca;1;1;A
+2;13-12-2015;Leganés;Gimnastic;1;1;H
+2;13-12-2015;Mirandes;Oviedo;1;1;A
+2;13-12-2015;Osasuna;Athletic de Bilbao B;1;1;D
+2;13-12-2015;Zaragoza;Numancia;1;2;D
+2;18-12-2015;Elche;Cordoba;1;2;H
+2;19-12-2015;Gimnastic;Zaragoza;1;3;H
+2;19-12-2015;Mallorca;Girona;1;1;D
+2;19-12-2015;Numancia;Osasuna;1;1;A
+2;19-12-2015;Ponferradina;Alavés;1;0;A
+2;20-12-2015;Alcorcon;Albacete;1;1;H
+2;20-12-2015;Huesca;Leganés;1;1;D
+2;20-12-2015;Llagostera;Mirandes;1;0;D
+2;20-12-2015;Oviedo;Almeria;1;1;H
+2;20-12-2015;Valladolid;Tenerife;1;4;H
+2;21-12-2015;Athletic de Bilbao B;Lugo;1;1;D
+2;02-01-2016;Alavés;Athletic de Bilbao B;1;3;H
+2;02-01-2016;Elche;Mallorca;1;1;D
+2;02-01-2016;Osasuna;Gimnastic;1;1;D
+2;03-01-2016;Albacete;Ponferradina;1;2;D
+2;03-01-2016;Almeria;Llagostera;1;2;H
+2;03-01-2016;Cordoba;Mirandes;1;1;A
+2;03-01-2016;Leganés;Oviedo;1;1;D
+2;03-01-2016;Lugo;Numancia;1;2;A
+2;03-01-2016;Zaragoza;Huesca;1;3;D
+2;04-01-2016;Girona;Valladolid;1;1;H
+2;04-01-2016;Tenerife;Alcorcon;1;1;A
+2;09-01-2016;Alcorcon;Girona;1;1;H
+2;09-01-2016;Athletic de Bilbao B;Albacete;1;0;A
+2;09-01-2016;Gimnastic;Lugo;1;1;A
+2;09-01-2016;Numancia;Alavés;1;0;A
+2;09-01-2016;Valladolid;Elche;1;1;D
+2;10-01-2016;Cordoba;Mallorca;1;3;H
+2;10-01-2016;Huesca;Osasuna;1;0;A
+2;10-01-2016;Llagostera;Leganés;1;0;A
+2;10-01-2016;Mirandes;Almeria;1;1;D
+2;10-01-2016;Oviedo;Zaragoza;1;1;H
+2;10-01-2016;Ponferradina;Tenerife;1;0;A
+2;16-01-2016;Albacete;Numancia;1;0;A
+2;16-01-2016;Elche;Alcorcon;1;2;H
+2;16-01-2016;Osasuna;Oviedo;1;0;D
+2;16-01-2016;Tenerife;Athletic de Bilbao B;1;2;H
+2;16-01-2016;Zaragoza;Llagostera;1;1;H
+2;17-01-2016;Alavés;Gimnastic;1;1;A
+2;17-01-2016;Almeria;Cordoba;1;0;A
+2;17-01-2016;Girona;Ponferradina;1;4;H
+2;17-01-2016;Leganés;Mirandes;1;4;H
+2;17-01-2016;Lugo;Huesca;1;1;D
+2;17-01-2016;Mallorca;Valladolid;1;0;A
+2;23-01-2016;Alavés;Huesca;1;1;H
+2;23-01-2016;Girona;Athletic de Bilbao B;1;2;H
+2;23-01-2016;Leganés;Almeria;1;2;H
+2;23-01-2016;Lugo;Oviedo;1;2;D
+2;23-01-2016;Mallorca;Alcorcon;1;1;H
+2;24-01-2016;Albacete;Gimnastic;1;1;D
+2;24-01-2016;Elche;Ponferradina;1;1;H
+2;24-01-2016;Osasuna;Llagostera;1;3;H
+2;24-01-2016;Tenerife;Numancia;1;0;D
+2;24-01-2016;Valladolid;Cordoba;1;2;H
+2;24-01-2016;Zaragoza;Mirandes;1;1;A
+2;30-01-2016;Alcorcon;Valladolid;1;0;D
+2;30-01-2016;Cordoba;Leganés;1;2;A
+2;30-01-2016;Huesca;Albacete;1;3;H
+2;30-01-2016;Llagostera;Lugo;1;0;D
+2;30-01-2016;Oviedo;Alavés;1;1;D
+2;31-01-2016;Almeria;Zaragoza;1;2;H
+2;31-01-2016;Athletic de Bilbao B;Elche;1;0;A
+2;31-01-2016;Gimnastic;Tenerife;1;2;H
+2;31-01-2016;Mirandes;Osasuna;1;4;H
+2;31-01-2016;Numancia;Girona;1;1;D
+2;31-01-2016;Ponferradina;Mallorca;1;0;A
+2;06-02-2016;Albacete;Oviedo;1;2;D
+2;06-02-2016;Elche;Numancia;1;0;D
+2;06-02-2016;Tenerife;Huesca;1;1;D
+2;06-02-2016;Valladolid;Ponferradina;1;0;D
+2;06-02-2016;Zaragoza;Leganés;1;1;H
+2;07-02-2016;Alavés;Llagostera;1;1;H
+2;07-02-2016;Alcorcon;Cordoba;1;3;D
+2;07-02-2016;Girona;Gimnastic;1;1;D
+2;07-02-2016;Lugo;Mirandes;1;1;A
+2;07-02-2016;Mallorca;Athletic de Bilbao B;1;2;A
+2;07-02-2016;Osasuna;Almeria;1;0;D
+2;13-02-2016;Almeria;Lugo;1;0;A
+2;13-02-2016;Athletic de Bilbao B;Valladolid;1;0;A
+2;13-02-2016;Gimnastic;Elche;1;1;H
+2;13-02-2016;Mirandes;Alavés;1;0;D
+2;13-02-2016;Ponferradina;Alcorcon;1;0;D
+2;14-02-2016;Cordoba;Zaragoza;1;0;A
+2;14-02-2016;Huesca;Girona;1;0;A
+2;14-02-2016;Leganés;Osasuna;1;2;H
+2;14-02-2016;Llagostera;Albacete;1;2;H
+2;14-02-2016;Numancia;Mallorca;1;2;H
+2;14-02-2016;Oviedo;Tenerife;1;1;H
+2;20-02-2016;Albacete;Mirandes;1;1;D
+2;20-02-2016;Alcorcon;Athletic de Bilbao B;1;1;H
+2;20-02-2016;Lugo;Leganés;1;1;A
+2;20-02-2016;Mallorca;Gimnastic;1;2;D
+2;20-02-2016;Ponferradina;Cordoba;1;1;A
+2;21-02-2016;Alavés;Almeria;1;1;D
+2;21-02-2016;Elche;Huesca;1;1;D
+2;21-02-2016;Girona;Oviedo;1;1;D
+2;21-02-2016;Osasuna;Zaragoza;1;1;D
+2;21-02-2016;Tenerife;Llagostera;1;3;H
+2;21-02-2016;Valladolid;Numancia;1;2;D
+2;27-02-2016;Athletic de Bilbao B;Ponferradina;1;4;H
+2;27-02-2016;Cordoba;Osasuna;1;0;A
+2;27-02-2016;Llagostera;Girona;1;0;A
+2;27-02-2016;Numancia;Alcorcon;1;1;D
+2;28-02-2016;Almeria;Albacete;1;1;H
+2;28-02-2016;Gimnastic;Valladolid;1;1;D
+2;28-02-2016;Leganés;Alavés;1;2;H
+2;28-02-2016;Mirandes;Tenerife;1;1;A
+2;28-02-2016;Oviedo;Elche;1;3;H
+2;28-02-2016;Zaragoza;Lugo;1;3;H
+2;05-03-2016;Athletic de Bilbao B;Cordoba;1;1;A
+2;05-03-2016;Elche;Llagostera;1;1;D
+2;05-03-2016;Girona;Mirandes;1;2;H
+2;05-03-2016;Lugo;Osasuna;1;2;H
+2;05-03-2016;Mallorca;Oviedo;1;1;H
+2;06-03-2016;Alavés;Zaragoza;1;0;D
+2;06-03-2016;Albacete;Leganés;1;0;A
+2;06-03-2016;Alcorcon;Gimnastic;1;1;D
+2;06-03-2016;Ponferradina;Numancia;1;1;H
+2;06-03-2016;Tenerife;Almeria;1;0;D
+2;06-03-2016;Valladolid;Huesca;1;0;A
+2;12-03-2016;Almeria;Girona;1;1;H
+2;12-03-2016;Mirandes;Elche;1;1;A
+2;12-03-2016;Numancia;Athletic de Bilbao B;1;3;H
+2;12-03-2016;Oviedo;Valladolid;1;2;A
+2;12-03-2016;Zaragoza;Albacete;1;1;H
+2;13-03-2016;Cordoba;Lugo;1;1;A
+2;13-03-2016;Gimnastic;Ponferradina;1;1;D
+2;13-03-2016;Huesca;Alcorcon;1;1;H
+2;13-03-2016;Leganés;Tenerife;1;0;A
+2;13-03-2016;Llagostera;Mallorca;1;3;H
+2;13-03-2016;Osasuna;Alavés;1;3;H
+2;16-03-2016;Huesca;Mallorca;1;1;A
+2;19-03-2016;Alavés;Lugo;1;0;D
+2;19-03-2016;Albacete;Osasuna;1;3;H
+2;19-03-2016;Alcorcon;Oviedo;1;1;H
+2;19-03-2016;Elche;Almeria;1;0;D
+2;19-03-2016;Valladolid;Llagostera;1;3;H
+2;20-03-2016;Athletic de Bilbao B;Gimnastic;1;0;A
+2;20-03-2016;Girona;Leganés;1;1;D
+2;20-03-2016;Mallorca;Mirandes;1;1;D
+2;20-03-2016;Numancia;Cordoba;1;1;D
+2;20-03-2016;Ponferradina;Huesca;1;2;H
+2;20-03-2016;Tenerife;Zaragoza;1;0;D
+2;26-03-2016;Gimnastic;Numancia;1;1;H
+2;26-03-2016;Huesca;Athletic de Bilbao B;1;1;A
+2;26-03-2016;Leganés;Elche;1;0;D
+2;26-03-2016;Osasuna;Tenerife;1;0;D
+2;26-03-2016;Oviedo;Ponferradina;1;3;H
+2;27-03-2016;Almeria;Mallorca;1;1;D
+2;27-03-2016;Cordoba;Alavés;1;1;A
+2;27-03-2016;Llagostera;Alcorcon;1;4;H
+2;27-03-2016;Lugo;Albacete;1;2;H
+2;27-03-2016;Mirandes;Valladolid;1;4;H
+2;27-03-2016;Zaragoza;Girona;1;0;A
+2;02-04-2016;Alcorcon;Mirandes;1;1;H
+2;02-04-2016;Elche;Zaragoza;1;2;H
+2;02-04-2016;Mallorca;Leganés;1;3;H
+2;02-04-2016;Ponferradina;Llagostera;1;1;H
+2;03-04-2016;Albacete;Alavés;1;0;A
+2;03-04-2016;Gimnastic;Cordoba;1;4;D
+2;03-04-2016;Girona;Osasuna;1;0;D
+2;03-04-2016;Numancia;Huesca;1;3;H
+2;03-04-2016;Tenerife;Lugo;1;1;H
+2;03-04-2016;Valladolid;Almeria;1;1;D
+2;04-04-2016;Athletic de Bilbao B;Oviedo;1;2;H
+2;09-04-2016;Almeria;Alcorcon;1;1;D
+2;09-04-2016;Leganés;Valladolid;1;4;H
+2;09-04-2016;Llagostera;Athletic de Bilbao B;1;2;H
+2;09-04-2016;Lugo;Girona;1;1;D
+2;09-04-2016;Mirandes;Ponferradina;1;1;H
+2;10-04-2016;Alavés;Tenerife;1;2;D
+2;10-04-2016;Cordoba;Albacete;1;2;A
+2;10-04-2016;Huesca;Gimnastic;1;2;H
+2;10-04-2016;Osasuna;Elche;1;0;D
+2;10-04-2016;Oviedo;Numancia;1;1;H
+2;10-04-2016;Zaragoza;Mallorca;1;2;H
+2;16-04-2016;Athletic de Bilbao B;Mirandes;1;1;D
+2;16-04-2016;Elche;Lugo;1;2;H
+2;16-04-2016;Girona;Alavés;1;1;H
+2;16-04-2016;Numancia;Llagostera;1;1;D
+2;16-04-2016;Valladolid;Zaragoza;1;1;A
+2;17-04-2016;Alcorcon;Leganés;1;2;H
+2;17-04-2016;Gimnastic;Oviedo;1;0;D
+2;17-04-2016;Huesca;Cordoba;1;0;A
+2;17-04-2016;Mallorca;Osasuna;1;1;D
+2;17-04-2016;Ponferradina;Almeria;1;1;A
+2;17-04-2016;Tenerife;Albacete;1;1;H
+2;23-04-2016;Alavés;Elche;1;0;D
+2;23-04-2016;Albacete;Girona;1;0;A
+2;23-04-2016;Leganés;Ponferradina;1;3;H
+2;23-04-2016;Llagostera;Gimnastic;1;1;D
+2;23-04-2016;Oviedo;Huesca;1;0;A
+2;24-04-2016;Almeria;Athletic de Bilbao B;1;3;H
+2;24-04-2016;Cordoba;Tenerife;1;0;D
+2;24-04-2016;Lugo;Mallorca;1;2;H
+2;24-04-2016;Mirandes;Numancia;1;0;A
+2;24-04-2016;Osasuna;Valladolid;1;1;H
+2;24-04-2016;Zaragoza;Alcorcon;1;3;H
+2;30-04-2016;Alcorcon;Osasuna;1;0;A
+2;30-04-2016;Huesca;Llagostera;1;3;H
+2;30-04-2016;Mallorca;Alavés;1;0;D
+2;30-04-2016;Numancia;Almeria;1;2;H
+2;01-05-2016;Elche;Albacete;1;1;D
+2;01-05-2016;Gimnastic;Mirandes;1;3;H
+2;01-05-2016;Girona;Tenerife;1;1;H
+2;01-05-2016;Oviedo;Cordoba;1;1;H
+2;01-05-2016;Ponferradina;Zaragoza;1;1;D
+2;01-05-2016;Valladolid;Lugo;1;1;D
+2;02-05-2016;Athletic de Bilbao B;Leganés;1;1;A
+2;07-05-2016;Almeria;Gimnastic;1;1;A
+2;07-05-2016;Llagostera;Oviedo;1;2;H
+2;07-05-2016;Lugo;Alcorcon;1;1;A
+2;07-05-2016;Osasuna;Ponferradina;1;0;D
+2;07-05-2016;Tenerife;Elche;1;1;D
+2;08-05-2016;Alavés;Valladolid;1;2;H
+2;08-05-2016;Albacete;Mallorca;1;1;H
+2;08-05-2016;Cordoba;Girona;1;1;H
+2;08-05-2016;Leganés;Numancia;1;2;D
+2;08-05-2016;Mirandes;Huesca;1;1;H
+2;08-05-2016;Zaragoza;Athletic de Bilbao B;1;2;H
+2;14-05-2016;Mallorca;Tenerife;1;1;H
+2;14-05-2016;Numancia;Zaragoza;1;2;D
+2;14-05-2016;Oviedo;Mirandes;1;4;H
+2;14-05-2016;Valladolid;Albacete;1;1;H
+2;15-05-2016;Alcorcon;Alavés;1;0;A
+2;15-05-2016;Athletic de Bilbao B;Osasuna;1;0;D
+2;15-05-2016;Elche;Girona;1;1;D
+2;15-05-2016;Gimnastic;Leganés;1;0;D
+2;15-05-2016;Huesca;Almeria;1;2;H
+2;15-05-2016;Llagostera;Cordoba;1;1;H
+2;15-05-2016;Ponferradina;Lugo;1;2;H
+2;21-05-2016;Albacete;Alcorcon;1;0;A
+2;21-05-2016;Cordoba;Elche;1;3;H
+2;21-05-2016;Girona;Mallorca;1;1;H
+2;21-05-2016;Leganés;Huesca;1;2;A
+2;21-05-2016;Tenerife;Valladolid;1;3;H
+2;22-05-2016;Alavés;Ponferradina;1;2;H
+2;22-05-2016;Almeria;Oviedo;1;3;H
+2;22-05-2016;Lugo;Athletic de Bilbao B;1;2;H
+2;22-05-2016;Mirandes;Llagostera;1;0;D
+2;22-05-2016;Osasuna;Numancia;1;3;H
+2;22-05-2016;Zaragoza;Gimnastic;1;0;A
+2;24-05-2016;Alcorcon;Tenerife;1;2;H
+2;24-05-2016;Mallorca;Elche;1;2;H
+2;24-05-2016;Valladolid;Girona;1;0;D
+2;25-05-2016;Gimnastic;Osasuna;1;1;H
+2;25-05-2016;Llagostera;Almeria;1;0;D
+2;25-05-2016;Mirandes;Cordoba;1;0;A
+2;25-05-2016;Numancia;Lugo;1;1;H
+2;25-05-2016;Ponferradina;Albacete;1;2;H
+2;26-05-2016;Athletic de Bilbao B;Alavés;1;2;A
+2;26-05-2016;Huesca;Zaragoza;1;1;D
+2;26-05-2016;Oviedo;Leganés;1;0;A
+2;29-05-2016;Alavés;Numancia;1;2;H
+2;29-05-2016;Albacete;Athletic de Bilbao B;1;2;H
+2;29-05-2016;Almeria;Mirandes;1;2;H
+2;29-05-2016;Elche;Valladolid;1;2;D
+2;29-05-2016;Girona;Alcorcon;1;2;H
+2;29-05-2016;Leganés;Llagostera;1;2;H
+2;29-05-2016;Lugo;Gimnastic;1;0;A
+2;29-05-2016;Mallorca;Cordoba;1;0;A
+2;29-05-2016;Osasuna;Huesca;1;2;A
+2;29-05-2016;Tenerife;Ponferradina;1;1;D
+2;29-05-2016;Zaragoza;Oviedo;1;1;H
+2;04-06-2016;Alcorcon;Elche;1;4;H
+2;04-06-2016;Athletic de Bilbao B;Tenerife;1;2;H
+2;04-06-2016;Cordoba;Almeria;1;1;D
+2;04-06-2016;Gimnastic;Alavés;1;1;D
+2;04-06-2016;Huesca;Lugo;1;1;H
+2;04-06-2016;Llagostera;Zaragoza;1;6;H
+2;04-06-2016;Mirandes;Leganés;1;0;A
+2;04-06-2016;Numancia;Albacete;1;2;H
+2;04-06-2016;Oviedo;Osasuna;1;0;A
+2;04-06-2016;Ponferradina;Girona;1;0;A
+2;04-06-2016;Valladolid;Mallorca;1;1;A
+2;22-08-2015;Mallorca;Alcorcon;0;0;H
+2;22-08-2015;Valladolid;Cordoba;0;0;H
+2;22-08-2015;Alavés;Huesca;0;3;A
+2;22-08-2015;Osasuna;Llagostera;0;2;A
+2;23-08-2015;Leganés;Almeria;0;2;H
+2;23-08-2015;Albacete;Gimnastic;0;2;D
+2;23-08-2015;Zaragoza;Mirandes;0;1;D
+2;23-08-2015;Tenerife;Numancia;0;3;H
+2;23-08-2015;Lugo;Oviedo;0;2;D
+2;23-08-2015;Elche;Ponferradina;0;0;H
+2;24-08-2015;Girona;Athletic de Bilbao B;0;1;A
+2;29-08-2015;Huesca;Albacete;0;1;D
+2;29-08-2015;Numancia;Girona;0;3;A
+2;29-08-2015;Cordoba;Leganés;0;1;H
+2;29-08-2015;Llagostera;Lugo;0;0;H
+2;29-08-2015;Almeria;Zaragoza;0;2;H
+2;30-08-2015;Oviedo;Alavés;0;0;H
+2;30-08-2015;Athletic de Bilbao B;Elche;0;1;H
+2;30-08-2015;Ponferradina;Mallorca;0;0;H
+2;30-08-2015;Mirandes;Osasuna;0;0;H
+2;30-08-2015;Gimnastic;Tenerife;0;2;A
+2;30-08-2015;Alcorcon;Valladolid;0;0;H
+2;05-09-2015;Girona;Gimnastic;0;0;H
+2;05-09-2015;Tenerife;Huesca;0;1;D
+2;05-09-2015;Lugo;Mirandes;0;1;D
+2;05-09-2015;Elche;Numancia;0;0;D
+2;06-09-2015;Osasuna;Almeria;0;1;H
+2;06-09-2015;Mallorca;Athletic de Bilbao B;0;1;H
+2;06-09-2015;Alcorcon;Cordoba;0;3;A
+2;06-09-2015;Zaragoza;Leganés;0;1;D
+2;06-09-2015;Alavés;Llagostera;0;0;H
+2;06-09-2015;Albacete;Oviedo;0;1;H
+2;06-09-2015;Valladolid;Ponferradina;0;0;H
+2;12-09-2015;Mirandes;Alavés;0;3;A
+2;12-09-2015;Gimnastic;Elche;0;0;H
+2;12-09-2015;Leganés;Osasuna;0;1;H
+2;12-09-2015;Athletic de Bilbao B;Valladolid;0;0;H
+2;12-09-2015;Cordoba;Zaragoza;0;1;A
+2;13-09-2015;Llagostera;Albacete;0;0;H
+2;13-09-2015;Ponferradina;Alcorcon;0;0;H
+2;13-09-2015;Huesca;Girona;0;0;D
+2;13-09-2015;Almeria;Lugo;0;0;H
+2;13-09-2015;Numancia;Mallorca;0;0;D
+2;13-09-2015;Oviedo;Tenerife;0;2;A
+2;19-09-2015;Alcorcon;Athletic de Bilbao B;0;0;H
+2;19-09-2015;Lugo;Leganés;0;0;D
+2;19-09-2015;Tenerife;Llagostera;0;2;A
+2;19-09-2015;Albacete;Mirandes;0;1;D
+2;19-09-2015;Girona;Oviedo;0;2;A
+2;20-09-2015;Alavés;Almeria;0;2;A
+2;20-09-2015;Ponferradina;Cordoba;0;0;H
+2;20-09-2015;Mallorca;Gimnastic;0;0;H
+2;20-09-2015;Elche;Huesca;0;3;A
+2;20-09-2015;Valladolid;Numancia;0;2;D
+2;20-09-2015;Osasuna;Zaragoza;0;1;A
+2;26-09-2015;Numancia;Alcorcon;0;1;D
+2;26-09-2015;Zaragoza;Lugo;0;0;D
+2;26-09-2015;Huesca;Mallorca;0;1;A
+2;26-09-2015;Cordoba;Osasuna;0;0;D
+2;26-09-2015;Athletic de Bilbao B;Ponferradina;0;0;H
+2;27-09-2015;Leganés;Alavés;0;0;D
+2;27-09-2015;Almeria;Albacete;0;0;H
+2;27-09-2015;Oviedo;Elche;0;1;D
+2;27-09-2015;Llagostera;Girona;0;2;D
+2;27-09-2015;Mirandes;Tenerife;0;0;H
+2;27-09-2015;Gimnastic;Valladolid;0;0;D
+2;03-10-2015;Tenerife;Almeria;0;2;D
+2;03-10-2015;Athletic de Bilbao B;Cordoba;0;0;H
+2;03-10-2015;Alcorcon;Gimnastic;0;2;A
+2;03-10-2015;Ponferradina;Numancia;0;0;H
+2;03-10-2015;Alavés;Zaragoza;0;0;H
+2;04-10-2015;Valladolid;Huesca;0;1;D
+2;04-10-2015;Albacete;Leganés;0;2;H
+2;04-10-2015;Elche;Llagostera;0;1;H
+2;04-10-2015;Girona;Mirandes;0;0;H
+2;04-10-2015;Lugo;Osasuna;0;0;H
+2;04-10-2015;Mallorca;Oviedo;0;1;D
+2;10-10-2015;Osasuna;Alavés;0;0;H
+2;10-10-2015;Numancia;Athletic de Bilbao B;0;0;D
+2;10-10-2015;Mirandes;Elche;0;4;A
+2;10-10-2015;Gimnastic;Ponferradina;0;2;D
+2;10-10-2015;Leganés;Tenerife;0;0;D
+2;11-10-2015;Zaragoza;Albacete;0;3;A
+2;11-10-2015;Huesca;Alcorcon;0;1;A
+2;11-10-2015;Almeria;Girona;0;1;D
+2;11-10-2015;Cordoba;Lugo;0;2;A
+2;11-10-2015;Llagostera;Mallorca;0;0;H
+2;11-10-2015;Oviedo;Valladolid;0;3;A
+2;17-10-2015;Athletic de Bilbao B;Gimnastic;0;1;H
+2;17-10-2015;Girona;Leganés;0;2;D
+2;17-10-2015;Mallorca;Mirandes;0;2;D
+2;17-10-2015;Albacete;Osasuna;0;0;H
+2;17-10-2015;Alcorcon;Oviedo;0;2;H
+2;18-10-2015;Elche;Almeria;0;3;A
+2;18-10-2015;Numancia;Cordoba;0;2;H
+2;18-10-2015;Ponferradina;Huesca;0;1;D
+2;18-10-2015;Valladolid;Llagostera;0;1;H
+2;18-10-2015;Alavés;Lugo;0;0;H
+2;18-10-2015;Tenerife;Zaragoza;0;0;H
+2;24-10-2015;Cordoba;Alavés;0;2;H
+2;24-10-2015;Llagostera;Alcorcon;0;1;H
+2;24-10-2015;Huesca;Athletic de Bilbao B;0;0;D
+2;24-10-2015;Leganés;Elche;0;0;D
+2;24-10-2015;Zaragoza;Girona;0;0;D
+2;25-10-2015;Lugo;Albacete;0;0;H
+2;25-10-2015;Almeria;Mallorca;0;0;H
+2;25-10-2015;Gimnastic;Numancia;0;1;D
+2;25-10-2015;Oviedo;Ponferradina;0;2;H
+2;25-10-2015;Osasuna;Tenerife;0;2;D
+2;25-10-2015;Mirandes;Valladolid;0;1;H
+2;31-10-2015;Gimnastic;Cordoba;0;0;H
+2;31-10-2015;Numancia;Huesca;0;0;H
+2;31-10-2015;Ponferradina;Llagostera;0;1;A
+2;31-10-2015;Tenerife;Lugo;0;0;H
+2;31-10-2015;Alcorcon;Mirandes;0;0;H
+2;01-11-2015;Albacete;Alavés;0;1;D
+2;01-11-2015;Valladolid;Almeria;0;1;D
+2;01-11-2015;Mallorca;Leganés;0;0;D
+2;01-11-2015;Girona;Osasuna;0;1;A
+2;01-11-2015;Athletic de Bilbao B;Oviedo;0;0;D
+2;01-11-2015;Elche;Zaragoza;0;0;H
+2;07-11-2015;Zaragoza;Mallorca;0;0;D
+2;07-11-2015;Mirandes;Ponferradina;0;2;D
+2;07-11-2015;Alavés;Tenerife;0;0;H
+2;07-11-2015;Leganés;Valladolid;0;1;D
+2;08-11-2015;Cordoba;Albacete;0;0;H
+2;08-11-2015;Almeria;Alcorcon;0;0;D
+2;08-11-2015;Osasuna;Elche;0;1;H
+2;08-11-2015;Huesca;Gimnastic;0;0;H
+2;08-11-2015;Lugo;Girona;0;1;A
+2;08-11-2015;Oviedo;Numancia;0;0;H
+2;09-11-2015;Llagostera;Athletic de Bilbao B;0;0;H
+2;14-11-2015;Girona;Alavés;0;0;H
+2;14-11-2015;Tenerife;Albacete;0;2;A
+2;14-11-2015;Alcorcon;Leganés;0;0;H
+2;14-11-2015;Elche;Lugo;0;1;D
+2;14-11-2015;Athletic de Bilbao B;Mirandes;0;0;H
+2;15-11-2015;Ponferradina;Almeria;0;1;D
+2;15-11-2015;Huesca;Cordoba;0;1;D
+2;15-11-2015;Numancia;Llagostera;0;1;H
+2;15-11-2015;Mallorca;Osasuna;0;1;H
+2;15-11-2015;Gimnastic;Oviedo;0;0;H
+2;15-11-2015;Valladolid;Zaragoza;0;2;A
+2;21-11-2015;Almeria;Athletic de Bilbao B;0;0;D
+2;21-11-2015;Alavés;Elche;0;1;A
+2;21-11-2015;Oviedo;Huesca;0;1;A
+2;21-11-2015;Lugo;Mallorca;0;1;D
+2;21-11-2015;Mirandes;Numancia;0;2;D
+2;22-11-2015;Zaragoza;Alcorcon;0;0;H
+2;22-11-2015;Llagostera;Gimnastic;0;0;H
+2;22-11-2015;Albacete;Girona;0;0;H
+2;22-11-2015;Leganés;Ponferradina;0;0;H
+2;22-11-2015;Cordoba;Tenerife;0;1;D
+2;22-11-2015;Osasuna;Valladolid;0;1;A
+2;28-11-2015;Mallorca;Alavés;0;0;H
+2;28-11-2015;Numancia;Almeria;0;1;D
+2;28-11-2015;Athletic de Bilbao B;Leganés;0;0;H
+2;28-11-2015;Huesca;Llagostera;0;0;H
+2;28-11-2015;Alcorcon;Osasuna;0;2;A
+2;29-11-2015;Elche;Albacete;0;0;H
+2;29-11-2015;Oviedo;Cordoba;0;1;H
+2;29-11-2015;Valladolid;Lugo;0;1;D
+2;29-11-2015;Gimnastic;Mirandes;0;1;A
+2;29-11-2015;Girona;Tenerife;0;1;D
+2;29-11-2015;Ponferradina;Zaragoza;0;0;H
+2;05-12-2015;Lugo;Alcorcon;0;1;D
+2;05-12-2015;Tenerife;Elche;0;0;D
+2;05-12-2015;Almeria;Gimnastic;0;2;D
+2;05-12-2015;Alavés;Valladolid;0;2;A
+2;06-12-2015;Cordoba;Girona;0;2;A
+2;06-12-2015;Mirandes;Huesca;0;2;A
+2;06-12-2015;Albacete;Mallorca;0;0;H
+2;06-12-2015;Leganés;Numancia;0;2;A
+2;06-12-2015;Llagostera;Oviedo;0;1;H
+2;06-12-2015;Osasuna;Ponferradina;0;0;H
+2;07-12-2015;Zaragoza;Athletic de Bilbao B;0;1;A
+2;12-12-2015;Alcorcon;Alavés;0;1;D
+2;12-12-2015;Llagostera;Cordoba;0;0;H
+2;12-12-2015;Elche;Girona;0;1;A
+2;12-12-2015;Ponferradina;Lugo;0;1;H
+2;12-12-2015;Mallorca;Tenerife;0;1;H
+2;13-12-2015;Valladolid;Albacete;0;1;A
+2;13-12-2015;Huesca;Almeria;0;2;A
+2;13-12-2015;Gimnastic;Leganés;0;0;H
+2;13-12-2015;Oviedo;Mirandes;0;2;A
+2;13-12-2015;Athletic de Bilbao B;Osasuna;0;1;D
+2;13-12-2015;Numancia;Zaragoza;0;2;D
+2;18-12-2015;Cordoba;Elche;0;1;H
+2;19-12-2015;Zaragoza;Gimnastic;0;1;H
+2;19-12-2015;Girona;Mallorca;0;1;D
+2;19-12-2015;Osasuna;Numancia;0;3;A
+2;19-12-2015;Alavés;Ponferradina;0;1;A
+2;20-12-2015;Albacete;Alcorcon;0;0;H
+2;20-12-2015;Leganés;Huesca;0;1;D
+2;20-12-2015;Mirandes;Llagostera;0;0;D
+2;20-12-2015;Almeria;Oviedo;0;0;H
+2;20-12-2015;Tenerife;Valladolid;0;1;H
+2;21-12-2015;Lugo;Athletic de Bilbao B;0;1;D
+2;02-01-2016;Athletic de Bilbao B;Alavés;0;0;H
+2;02-01-2016;Mallorca;Elche;0;1;D
+2;02-01-2016;Gimnastic;Osasuna;0;1;D
+2;03-01-2016;Ponferradina;Albacete;0;2;D
+2;03-01-2016;Llagostera;Almeria;0;1;H
+2;03-01-2016;Mirandes;Cordoba;0;2;A
+2;03-01-2016;Oviedo;Leganés;0;1;D
+2;03-01-2016;Numancia;Lugo;0;3;A
+2;03-01-2016;Huesca;Zaragoza;0;3;D
+2;04-01-2016;Valladolid;Girona;0;0;H
+2;04-01-2016;Alcorcon;Tenerife;0;2;A
+2;09-01-2016;Girona;Alcorcon;0;0;H
+2;09-01-2016;Albacete;Athletic de Bilbao B;0;1;A
+2;09-01-2016;Lugo;Gimnastic;0;2;A
+2;09-01-2016;Alavés;Numancia;0;1;A
+2;09-01-2016;Elche;Valladolid;0;1;D
+2;10-01-2016;Mallorca;Cordoba;0;1;H
+2;10-01-2016;Osasuna;Huesca;0;1;A
+2;10-01-2016;Leganés;Llagostera;0;1;A
+2;10-01-2016;Almeria;Mirandes;0;1;D
+2;10-01-2016;Zaragoza;Oviedo;0;0;H
+2;10-01-2016;Tenerife;Ponferradina;0;1;A
+2;16-01-2016;Numancia;Albacete;0;2;A
+2;16-01-2016;Alcorcon;Elche;0;0;H
+2;16-01-2016;Oviedo;Osasuna;0;0;D
+2;16-01-2016;Athletic de Bilbao B;Tenerife;0;0;H
+2;16-01-2016;Llagostera;Zaragoza;0;0;H
+2;17-01-2016;Gimnastic;Alavés;0;3;A
+2;17-01-2016;Cordoba;Almeria;0;1;A
+2;17-01-2016;Ponferradina;Girona;0;0;H
+2;17-01-2016;Mirandes;Leganés;0;0;H
+2;17-01-2016;Huesca;Lugo;0;1;D
+2;17-01-2016;Valladolid;Mallorca;0;1;A
+2;23-01-2016;Huesca;Alavés;0;0;H
+2;23-01-2016;Athletic de Bilbao B;Girona;0;1;H
+2;23-01-2016;Almeria;Leganés;0;1;H
+2;23-01-2016;Oviedo;Lugo;0;2;D
+2;23-01-2016;Alcorcon;Mallorca;0;0;H
+2;24-01-2016;Gimnastic;Albacete;0;1;D
+2;24-01-2016;Ponferradina;Elche;0;0;H
+2;24-01-2016;Llagostera;Osasuna;0;0;H
+2;24-01-2016;Numancia;Tenerife;0;0;D
+2;24-01-2016;Cordoba;Valladolid;0;0;H
+2;24-01-2016;Mirandes;Zaragoza;0;2;A
+2;30-01-2016;Valladolid;Alcorcon;0;0;D
+2;30-01-2016;Leganés;Cordoba;0;3;A
+2;30-01-2016;Albacete;Huesca;0;1;H
+2;30-01-2016;Lugo;Llagostera;0;0;D
+2;30-01-2016;Alavés;Oviedo;0;1;D
+2;31-01-2016;Zaragoza;Almeria;0;1;H
+2;31-01-2016;Elche;Athletic de Bilbao B;0;1;A
+2;31-01-2016;Tenerife;Gimnastic;0;1;H
+2;31-01-2016;Osasuna;Mirandes;0;0;H
+2;31-01-2016;Girona;Numancia;0;1;D
+2;31-01-2016;Mallorca;Ponferradina;0;2;A
+2;06-02-2016;Oviedo;Albacete;0;2;D
+2;06-02-2016;Numancia;Elche;0;0;D
+2;06-02-2016;Huesca;Tenerife;0;1;D
+2;06-02-2016;Ponferradina;Valladolid;0;0;D
+2;06-02-2016;Leganés;Zaragoza;0;0;H
+2;07-02-2016;Llagostera;Alavés;0;0;H
+2;07-02-2016;Cordoba;Alcorcon;0;3;D
+2;07-02-2016;Gimnastic;Girona;0;1;D
+2;07-02-2016;Mirandes;Lugo;0;4;A
+2;07-02-2016;Athletic de Bilbao B;Mallorca;0;3;A
+2;07-02-2016;Almeria;Osasuna;0;0;D
+2;13-02-2016;Lugo;Almeria;0;2;A
+2;13-02-2016;Valladolid;Athletic de Bilbao B;0;1;A
+2;13-02-2016;Elche;Gimnastic;0;0;H
+2;13-02-2016;Alavés;Mirandes;0;0;D
+2;13-02-2016;Alcorcon;Ponferradina;0;0;D
+2;14-02-2016;Zaragoza;Cordoba;0;2;A
+2;14-02-2016;Girona;Huesca;0;1;A
+2;14-02-2016;Osasuna;Leganés;0;0;H
+2;14-02-2016;Albacete;Llagostera;0;0;H
+2;14-02-2016;Mallorca;Numancia;0;0;H
+2;14-02-2016;Tenerife;Oviedo;0;0;H
+2;20-02-2016;Mirandes;Albacete;0;1;D
+2;20-02-2016;Athletic de Bilbao B;Alcorcon;0;0;H
+2;20-02-2016;Leganés;Lugo;0;2;A
+2;20-02-2016;Gimnastic;Mallorca;0;2;D
+2;20-02-2016;Cordoba;Ponferradina;0;3;A
+2;21-02-2016;Almeria;Alavés;0;1;D
+2;21-02-2016;Huesca;Elche;0;1;D
+2;21-02-2016;Oviedo;Girona;0;1;D
+2;21-02-2016;Zaragoza;Osasuna;0;1;D
+2;21-02-2016;Llagostera;Tenerife;0;1;H
+2;21-02-2016;Numancia;Valladolid;0;2;D
+2;27-02-2016;Ponferradina;Athletic de Bilbao B;0;2;H
+2;27-02-2016;Osasuna;Cordoba;0;1;A
+2;27-02-2016;Girona;Llagostera;0;1;A
+2;27-02-2016;Alcorcon;Numancia;0;1;D
+2;28-02-2016;Albacete;Almeria;0;0;H
+2;28-02-2016;Valladolid;Gimnastic;0;1;D
+2;28-02-2016;Alavés;Leganés;0;0;H
+2;28-02-2016;Tenerife;Mirandes;0;2;A
+2;28-02-2016;Elche;Oviedo;0;0;H
+2;28-02-2016;Lugo;Zaragoza;0;1;H
+2;05-03-2016;Cordoba;Athletic de Bilbao B;0;2;A
+2;05-03-2016;Llagostera;Elche;0;1;D
+2;05-03-2016;Mirandes;Girona;0;0;H
+2;05-03-2016;Osasuna;Lugo;0;0;H
+2;05-03-2016;Oviedo;Mallorca;0;0;H
+2;06-03-2016;Zaragoza;Alavés;0;0;D
+2;06-03-2016;Leganés;Albacete;0;3;A
+2;06-03-2016;Gimnastic;Alcorcon;0;1;D
+2;06-03-2016;Numancia;Ponferradina;0;0;H
+2;06-03-2016;Almeria;Tenerife;0;0;D
+2;06-03-2016;Huesca;Valladolid;0;1;A
+2;12-03-2016;Girona;Almeria;0;0;H
+2;12-03-2016;Elche;Mirandes;0;2;A
+2;12-03-2016;Athletic de Bilbao B;Numancia;0;2;H
+2;12-03-2016;Valladolid;Oviedo;0;4;A
+2;12-03-2016;Albacete;Zaragoza;0;0;H
+2;13-03-2016;Lugo;Cordoba;0;2;A
+2;13-03-2016;Ponferradina;Gimnastic;0;1;D
+2;13-03-2016;Alcorcon;Huesca;0;0;H
+2;13-03-2016;Tenerife;Leganés;0;1;A
+2;13-03-2016;Mallorca;Llagostera;0;0;H
+2;13-03-2016;Alavés;Osasuna;0;1;H
+2;16-03-2016;Mallorca;Huesca;0;2;A
+2;19-03-2016;Lugo;Alavés;0;0;D
+2;19-03-2016;Osasuna;Albacete;0;1;H
+2;19-03-2016;Oviedo;Alcorcon;0;0;H
+2;19-03-2016;Almeria;Elche;0;0;D
+2;19-03-2016;Llagostera;Valladolid;0;0;H
+2;20-03-2016;Gimnastic;Athletic de Bilbao B;0;4;A
+2;20-03-2016;Leganés;Girona;0;1;D
+2;20-03-2016;Mirandes;Mallorca;0;1;D
+2;20-03-2016;Cordoba;Numancia;0;1;D
+2;20-03-2016;Huesca;Ponferradina;0;1;H
+2;20-03-2016;Zaragoza;Tenerife;0;0;D
+2;26-03-2016;Numancia;Gimnastic;0;0;H
+2;26-03-2016;Athletic de Bilbao B;Huesca;0;2;A
+2;26-03-2016;Elche;Leganés;0;0;D
+2;26-03-2016;Tenerife;Osasuna;0;0;D
+2;26-03-2016;Ponferradina;Oviedo;0;0;H
+2;27-03-2016;Mallorca;Almeria;0;1;D
+2;27-03-2016;Alavés;Cordoba;0;2;A
+2;27-03-2016;Alcorcon;Llagostera;0;0;H
+2;27-03-2016;Albacete;Lugo;0;1;H
+2;27-03-2016;Valladolid;Mirandes;0;1;H
+2;27-03-2016;Girona;Zaragoza;0;3;A
+2;02-04-2016;Mirandes;Alcorcon;0;0;H
+2;02-04-2016;Zaragoza;Elche;0;1;H
+2;02-04-2016;Leganés;Mallorca;0;0;H
+2;02-04-2016;Llagostera;Ponferradina;0;0;H
+2;03-04-2016;Alavés;Albacete;0;1;A
+2;03-04-2016;Cordoba;Gimnastic;0;4;D
+2;03-04-2016;Osasuna;Girona;0;0;D
+2;03-04-2016;Huesca;Numancia;0;2;H
+2;03-04-2016;Lugo;Tenerife;0;0;H
+2;03-04-2016;Almeria;Valladolid;0;1;D
+2;04-04-2016;Oviedo;Athletic de Bilbao B;0;1;H
+2;09-04-2016;Alcorcon;Almeria;0;1;D
+2;09-04-2016;Valladolid;Leganés;0;0;H
+2;09-04-2016;Athletic de Bilbao B;Llagostera;0;1;H
+2;09-04-2016;Girona;Lugo;0;1;D
+2;09-04-2016;Ponferradina;Mirandes;0;0;H
+2;10-04-2016;Tenerife;Alavés;0;2;D
+2;10-04-2016;Albacete;Cordoba;0;3;A
+2;10-04-2016;Gimnastic;Huesca;0;0;H
+2;10-04-2016;Elche;Osasuna;0;0;D
+2;10-04-2016;Numancia;Oviedo;0;0;H
+2;10-04-2016;Mallorca;Zaragoza;0;1;H
+2;16-04-2016;Mirandes;Athletic de Bilbao B;0;1;D
+2;16-04-2016;Lugo;Elche;0;0;H
+2;16-04-2016;Alavés;Girona;0;0;H
+2;16-04-2016;Llagostera;Numancia;0;1;D
+2;16-04-2016;Zaragoza;Valladolid;0;2;A
+2;17-04-2016;Leganés;Alcorcon;0;0;H
+2;17-04-2016;Oviedo;Gimnastic;0;0;D
+2;17-04-2016;Cordoba;Huesca;0;2;A
+2;17-04-2016;Osasuna;Mallorca;0;1;D
+2;17-04-2016;Almeria;Ponferradina;0;3;A
+2;17-04-2016;Albacete;Tenerife;0;0;H
+2;23-04-2016;Elche;Alavés;0;0;D
+2;23-04-2016;Girona;Albacete;0;3;A
+2;23-04-2016;Ponferradina;Leganés;0;0;H
+2;23-04-2016;Gimnastic;Llagostera;0;1;D
+2;23-04-2016;Huesca;Oviedo;0;1;A
+2;24-04-2016;Athletic de Bilbao B;Almeria;0;2;H
+2;24-04-2016;Tenerife;Cordoba;0;0;D
+2;24-04-2016;Mallorca;Lugo;0;1;H
+2;24-04-2016;Numancia;Mirandes;0;2;A
+2;24-04-2016;Valladolid;Osasuna;0;0;H
+2;24-04-2016;Alcorcon;Zaragoza;0;1;H
+2;30-04-2016;Osasuna;Alcorcon;0;1;A
+2;30-04-2016;Llagostera;Huesca;0;1;H
+2;30-04-2016;Alavés;Mallorca;0;0;D
+2;30-04-2016;Almeria;Numancia;0;0;H
+2;01-05-2016;Albacete;Elche;0;1;D
+2;01-05-2016;Mirandes;Gimnastic;0;2;H
+2;01-05-2016;Tenerife;Girona;0;0;H
+2;01-05-2016;Cordoba;Oviedo;0;0;H
+2;01-05-2016;Zaragoza;Ponferradina;0;1;D
+2;01-05-2016;Lugo;Valladolid;0;1;D
+2;02-05-2016;Leganés;Athletic de Bilbao B;0;2;A
+2;07-05-2016;Gimnastic;Almeria;0;2;A
+2;07-05-2016;Oviedo;Llagostera;0;0;H
+2;07-05-2016;Alcorcon;Lugo;0;2;A
+2;07-05-2016;Ponferradina;Osasuna;0;0;D
+2;07-05-2016;Elche;Tenerife;0;1;D
+2;08-05-2016;Valladolid;Alavés;0;1;H
+2;08-05-2016;Mallorca;Albacete;0;0;H
+2;08-05-2016;Girona;Cordoba;0;0;H
+2;08-05-2016;Numancia;Leganés;0;2;D
+2;08-05-2016;Huesca;Mirandes;0;0;H
+2;08-05-2016;Athletic de Bilbao B;Zaragoza;0;0;H
+2;14-05-2016;Tenerife;Mallorca;0;0;H
+2;14-05-2016;Zaragoza;Numancia;0;2;D
+2;14-05-2016;Mirandes;Oviedo;0;1;H
+2;14-05-2016;Albacete;Valladolid;0;0;H
+2;15-05-2016;Alavés;Alcorcon;0;1;A
+2;15-05-2016;Osasuna;Athletic de Bilbao B;0;0;D
+2;15-05-2016;Girona;Elche;0;1;D
+2;15-05-2016;Leganés;Gimnastic;0;0;D
+2;15-05-2016;Almeria;Huesca;0;1;H
+2;15-05-2016;Cordoba;Llagostera;0;0;H
+2;15-05-2016;Lugo;Ponferradina;0;1;H
+2;21-05-2016;Alcorcon;Albacete;0;2;A
+2;21-05-2016;Elche;Cordoba;0;1;H
+2;21-05-2016;Mallorca;Girona;0;0;H
+2;21-05-2016;Huesca;Leganés;0;3;A
+2;21-05-2016;Valladolid;Tenerife;0;1;H
+2;22-05-2016;Ponferradina;Alavés;0;0;H
+2;22-05-2016;Oviedo;Almeria;0;1;H
+2;22-05-2016;Athletic de Bilbao B;Lugo;0;0;H
+2;22-05-2016;Llagostera;Mirandes;0;0;D
+2;22-05-2016;Numancia;Osasuna;0;2;H
+2;22-05-2016;Gimnastic;Zaragoza;0;1;A
+2;24-05-2016;Tenerife;Alcorcon;0;1;H
+2;24-05-2016;Elche;Mallorca;0;1;H
+2;24-05-2016;Girona;Valladolid;0;0;D
+2;25-05-2016;Osasuna;Gimnastic;0;0;H
+2;25-05-2016;Almeria;Llagostera;0;0;D
+2;25-05-2016;Cordoba;Mirandes;0;3;A
+2;25-05-2016;Lugo;Numancia;0;0;H
+2;25-05-2016;Albacete;Ponferradina;0;1;H
+2;26-05-2016;Alavés;Athletic de Bilbao B;0;3;A
+2;26-05-2016;Zaragoza;Huesca;0;1;D
+2;26-05-2016;Leganés;Oviedo;0;1;A
+2;29-05-2016;Numancia;Alavés;0;0;H
+2;29-05-2016;Athletic de Bilbao B;Albacete;0;1;H
+2;29-05-2016;Mirandes;Almeria;0;1;H
+2;29-05-2016;Valladolid;Elche;0;2;D
+2;29-05-2016;Alcorcon;Girona;0;0;H
+2;29-05-2016;Llagostera;Leganés;0;0;H
+2;29-05-2016;Gimnastic;Lugo;0;3;A
+2;29-05-2016;Cordoba;Mallorca;0;1;A
+2;29-05-2016;Huesca;Osasuna;0;3;A
+2;29-05-2016;Ponferradina;Tenerife;0;1;D
+2;29-05-2016;Oviedo;Zaragoza;0;0;H
+2;04-06-2016;Elche;Alcorcon;0;1;H
+2;04-06-2016;Tenerife;Athletic de Bilbao B;0;0;H
+2;04-06-2016;Almeria;Cordoba;0;1;D
+2;04-06-2016;Alavés;Gimnastic;0;1;D
+2;04-06-2016;Lugo;Huesca;0;0;H
+2;04-06-2016;Zaragoza;Llagostera;0;2;H
+2;04-06-2016;Leganés;Mirandes;0;1;A
+2;04-06-2016;Albacete;Numancia;0;0;H
+2;04-06-2016;Osasuna;Oviedo;0;5;A
+2;04-06-2016;Girona;Ponferradina;0;1;A
+2;04-06-2016;Mallorca;Valladolid;0;3;A
+1;23-08-2014;Almeria;Espanyol;1;1;D
+1;23-08-2014;Granada;Deportivo de la Coruña;1;2;H
+1;23-08-2014;Málaga;Athletic de Bilbao;1;1;H
+1;23-08-2014;Sevilla;Valencia;1;1;D
+1;24-08-2014;Barcelona;Elche;1;3;H
+1;24-08-2014;Celta;Getafe;1;3;H
+1;24-08-2014;Eibar;Real Sociedad;1;1;H
+1;24-08-2014;Levante;Villarreal;1;0;A
+1;25-08-2014;Real Madrid;Cordoba;1;2;H
+1;25-08-2014;Rayo Vallecano;Atlético de Madrid;1;0;D
+1;29-08-2014;Getafe;Almeria;1;1;H
+1;29-08-2014;Valencia;Málaga;1;3;H
+1;30-08-2014;Athletic de Bilbao;Levante;1;3;H
+1;30-08-2014;Atlético de Madrid;Eibar;1;2;H
+1;30-08-2014;Cordoba;Celta;1;1;D
+1;30-08-2014;Espanyol;Sevilla;1;1;A
+1;31-08-2014;Elche;Granada;1;1;D
+1;31-08-2014;Deportivo de la Coruña;Rayo Vallecano;1;2;D
+1;31-08-2014;Real Sociedad;Real Madrid;1;4;H
+1;31-08-2014;Villarreal;Barcelona;1;0;A
+1;12-09-2014;Almeria;Cordoba;1;1;D
+1;13-09-2014;Barcelona;Athletic de Bilbao;1;2;H
+1;13-09-2014;Celta;Real Sociedad;1;2;D
+1;13-09-2014;Málaga;Levante;1;0;D
+1;13-09-2014;Real Madrid;Atlético de Madrid;1;1;A
+1;14-09-2014;Granada;Villarreal;1;0;D
+1;14-09-2014;Sevilla;Getafe;1;2;H
+1;14-09-2014;Valencia;Espanyol;1;3;H
+1;14-09-2014;Rayo Vallecano;Elche;1;2;A
+1;15-09-2014;Eibar;Deportivo de la Coruña;1;0;A
+1;19-09-2014;Elche;Eibar;1;0;A
+1;20-09-2014;Athletic de Bilbao;Granada;1;0;A
+1;20-09-2014;Atlético de Madrid;Celta;1;2;D
+1;20-09-2014;Espanyol;Málaga;1;2;D
+1;20-09-2014;Deportivo de la Coruña;Real Madrid;1;2;A
+1;21-09-2014;Cordoba;Sevilla;1;1;A
+1;21-09-2014;Levante;Barcelona;1;0;A
+1;21-09-2014;Real Sociedad;Almeria;1;1;A
+1;21-09-2014;Villarreal;Rayo Vallecano;1;4;H
+1;22-09-2014;Getafe;Valencia;1;0;A
+1;23-09-2014;Celta;Deportivo de la Coruña;1;2;H
+1;23-09-2014;Real Madrid;Elche;1;5;H
+1;24-09-2014;Almeria;Atlético de Madrid;1;0;A
+1;24-09-2014;Eibar;Villarreal;1;1;D
+1;24-09-2014;Granada;Levante;1;0;A
+1;24-09-2014;Málaga;Barcelona;1;0;D
+1;24-09-2014;Sevilla;Real Sociedad;1;1;H
+1;24-09-2014;Rayo Vallecano;Athletic de Bilbao;1;2;H
+1;25-09-2014;Espanyol;Getafe;1;2;H
+1;25-09-2014;Valencia;Cordoba;1;3;H
+1;26-09-2014;Elche;Celta;1;0;A
+1;27-09-2014;Athletic de Bilbao;Eibar;1;0;D
+1;27-09-2014;Atlético de Madrid;Sevilla;1;4;H
+1;27-09-2014;Barcelona;Granada;1;6;H
+1;27-09-2014;Levante;Rayo Vallecano;1;0;A
+1;27-09-2014;Villarreal;Real Madrid;1;0;A
+1;28-09-2014;Cordoba;Espanyol;1;0;D
+1;28-09-2014;Getafe;Málaga;1;1;H
+1;28-09-2014;Deportivo de la Coruña;Almeria;1;0;A
+1;28-09-2014;Real Sociedad;Valencia;1;1;D
+1;03-10-2014;Getafe;Cordoba;1;1;D
+1;04-10-2014;Almeria;Elche;1;2;D
+1;04-10-2014;Eibar;Levante;1;3;D
+1;04-10-2014;Málaga;Granada;1;2;H
+1;04-10-2014;Valencia;Atlético de Madrid;1;3;H
+1;04-10-2014;Rayo Vallecano;Barcelona;1;0;A
+1;05-10-2014;Celta;Villarreal;1;1;A
+1;05-10-2014;Espanyol;Real Sociedad;1;2;H
+1;05-10-2014;Real Madrid;Athletic de Bilbao;1;5;H
+1;05-10-2014;Sevilla;Deportivo de la Coruña;1;4;H
+1;17-10-2014;Granada;Rayo Vallecano;1;0;A
+1;18-10-2014;Athletic de Bilbao;Celta;1;1;D
+1;18-10-2014;Barcelona;Eibar;1;3;H
+1;18-10-2014;Cordoba;Málaga;1;1;A
+1;18-10-2014;Levante;Real Madrid;1;0;A
+1;19-10-2014;Atlético de Madrid;Espanyol;1;2;H
+1;19-10-2014;Elche;Sevilla;1;0;A
+1;19-10-2014;Deportivo de la Coruña;Valencia;1;3;H
+1;19-10-2014;Villarreal;Almeria;1;2;H
+1;20-10-2014;Real Sociedad;Getafe;1;1;A
+1;24-10-2014;Celta;Levante;1;3;H
+1;25-10-2014;Almeria;Athletic de Bilbao;1;0;A
+1;25-10-2014;Cordoba;Real Sociedad;1;1;D
+1;25-10-2014;Eibar;Granada;1;1;D
+1;25-10-2014;Real Madrid;Barcelona;1;3;H
+1;25-10-2014;Valencia;Elche;1;3;H
+1;26-10-2014;Espanyol;Deportivo de la Coruña;1;0;D
+1;26-10-2014;Getafe;Atlético de Madrid;1;0;A
+1;26-10-2014;Málaga;Rayo Vallecano;1;4;H
+1;26-10-2014;Sevilla;Villarreal;1;2;H
+1;31-10-2014;Deportivo de la Coruña;Getafe;1;1;A
+1;01-11-2014;Atlético de Madrid;Cordoba;1;4;H
+1;01-11-2014;Barcelona;Celta;1;0;A
+1;01-11-2014;Granada;Real Madrid;1;0;A
+1;01-11-2014;Real Sociedad;Málaga;1;0;A
+1;02-11-2014;Athletic de Bilbao;Sevilla;1;1;H
+1;02-11-2014;Elche;Espanyol;1;2;H
+1;02-11-2014;Levante;Almeria;1;2;H
+1;02-11-2014;Villarreal;Valencia;1;1;A
+1;03-11-2014;Rayo Vallecano;Eibar;1;2;A
+1;07-11-2014;Cordoba;Deportivo de la Coruña;1;0;D
+1;08-11-2014;Almeria;Barcelona;1;1;A
+1;08-11-2014;Celta;Granada;1;0;D
+1;08-11-2014;Getafe;Elche;1;0;D
+1;08-11-2014;Málaga;Eibar;1;2;H
+1;08-11-2014;Real Madrid;Rayo Vallecano;1;5;H
+1;09-11-2014;Espanyol;Villarreal;1;1;D
+1;09-11-2014;Sevilla;Levante;1;1;D
+1;09-11-2014;Real Sociedad;Atlético de Madrid;1;2;H
+1;09-11-2014;Valencia;Athletic de Bilbao;1;0;D
+1;21-11-2014;Athletic de Bilbao;Espanyol;1;3;H
+1;22-11-2014;Atlético de Madrid;Málaga;1;3;H
+1;22-11-2014;Barcelona;Sevilla;1;5;H
+1;22-11-2014;Eibar;Real Madrid;1;0;A
+1;22-11-2014;Deportivo de la Coruña;Real Sociedad;1;0;D
+1;23-11-2014;Elche;Cordoba;1;2;D
+1;23-11-2014;Levante;Valencia;1;2;H
+1;23-11-2014;Rayo Vallecano;Celta;1;1;H
+1;23-11-2014;Villarreal;Getafe;1;2;H
+1;24-11-2014;Granada;Almeria;1;0;D
+1;28-11-2014;Real Sociedad;Elche;1;3;H
+1;29-11-2014;Celta;Eibar;1;0;A
+1;29-11-2014;Espanyol;Levante;1;2;H
+1;29-11-2014;Getafe;Athletic de Bilbao;1;1;A
+1;29-11-2014;Málaga;Real Madrid;1;1;A
+1;30-11-2014;Atlético de Madrid;Deportivo de la Coruña;1;2;H
+1;30-11-2014;Cordoba;Villarreal;1;0;A
+1;30-11-2014;Sevilla;Granada;1;5;H
+1;30-11-2014;Valencia;Barcelona;1;0;A
+1;01-12-2014;Almeria;Rayo Vallecano;1;0;A
+1;06-12-2014;Athletic de Bilbao;Cordoba;1;0;A
+1;06-12-2014;Elche;Atlético de Madrid;1;0;A
+1;06-12-2014;Deportivo de la Coruña;Málaga;1;0;A
+1;06-12-2014;Real Madrid;Celta;1;3;H
+1;07-12-2014;Barcelona;Espanyol;1;5;H
+1;07-12-2014;Granada;Valencia;1;1;D
+1;07-12-2014;Rayo Vallecano;Sevilla;1;0;A
+1;07-12-2014;Villarreal;Real Sociedad;1;4;H
+1;08-12-2014;Eibar;Almeria;1;5;H
+1;08-12-2014;Levante;Getafe;1;1;D
+1;12-12-2014;Almeria;Real Madrid;1;1;A
+1;13-12-2014;Cordoba;Levante;1;0;D
+1;13-12-2014;Getafe;Barcelona;1;0;D
+1;13-12-2014;Málaga;Celta;1;1;H
+1;13-12-2014;Valencia;Rayo Vallecano;1;3;H
+1;14-12-2014;Atlético de Madrid;Villarreal;1;0;A
+1;14-12-2014;Espanyol;Granada;1;2;H
+1;14-12-2014;Sevilla;Eibar;1;0;D
+1;14-12-2014;Real Sociedad;Athletic de Bilbao;1;1;D
+1;15-12-2014;Deportivo de la Coruña;Elche;1;1;H
+1;19-12-2014;Celta;Almeria;1;0;A
+1;20-12-2014;Barcelona;Cordoba;1;5;H
+1;20-12-2014;Eibar;Valencia;1;0;A
+1;20-12-2014;Levante;Real Sociedad;1;1;D
+1;20-12-2014;Rayo Vallecano;Espanyol;1;1;A
+1;21-12-2014;Athletic de Bilbao;Atlético de Madrid;1;1;A
+1;21-12-2014;Elche;Málaga;1;1;A
+1;21-12-2014;Granada;Getafe;1;1;D
+1;21-12-2014;Villarreal;Deportivo de la Coruña;1;3;H
+1;03-01-2015;Atlético de Madrid;Levante;1;3;H
+1;03-01-2015;Elche;Villarreal;1;2;D
+1;03-01-2015;Deportivo de la Coruña;Athletic de Bilbao;1;1;H
+1;03-01-2015;Málaga;Almeria;1;1;A
+1;03-01-2015;Sevilla;Celta;1;1;H
+1;04-01-2015;Espanyol;Eibar;1;1;A
+1;04-01-2015;Getafe;Rayo Vallecano;1;1;A
+1;04-01-2015;Real Sociedad;Barcelona;1;1;H
+1;04-01-2015;Valencia;Real Madrid;1;2;H
+1;05-01-2015;Cordoba;Granada;1;2;H
+1;09-01-2015;Levante;Deportivo de la Coruña;1;0;D
+1;10-01-2015;Celta;Valencia;1;1;D
+1;10-01-2015;Eibar;Getafe;1;2;H
+1;10-01-2015;Málaga;Villarreal;1;1;D
+1;10-01-2015;Real Madrid;Espanyol;1;3;H
+1;11-01-2015;Almeria;Sevilla;1;0;A
+1;11-01-2015;Athletic de Bilbao;Elche;1;1;A
+1;11-01-2015;Barcelona;Atlético de Madrid;1;3;H
+1;11-01-2015;Granada;Real Sociedad;1;1;D
+1;12-01-2015;Rayo Vallecano;Cordoba;1;0;A
+1;16-01-2015;Cordoba;Eibar;1;1;D
+1;17-01-2015;Espanyol;Celta;1;1;H
+1;17-01-2015;Real Sociedad;Rayo Vallecano;1;0;A
+1;17-01-2015;Valencia;Almeria;1;3;H
+1;17-01-2015;Villarreal;Athletic de Bilbao;1;2;H
+1;18-01-2015;Atlético de Madrid;Granada;1;2;H
+1;18-01-2015;Elche;Levante;1;1;H
+1;18-01-2015;Getafe;Real Madrid;1;0;A
+1;18-01-2015;Deportivo de la Coruña;Barcelona;1;0;A
+1;18-01-2015;Sevilla;Málaga;1;2;H
+1;24-01-2015;Atlético de Madrid;Rayo Vallecano;1;3;H
+1;24-01-2015;Cordoba;Real Madrid;1;1;A
+1;24-01-2015;Elche;Barcelona;1;0;A
+1;24-01-2015;Real Sociedad;Eibar;1;1;H
+1;24-01-2015;Villarreal;Levante;1;1;H
+1;25-01-2015;Athletic de Bilbao;Málaga;1;1;D
+1;25-01-2015;Espanyol;Almeria;1;3;H
+1;25-01-2015;Deportivo de la Coruña;Granada;1;2;D
+1;25-01-2015;Valencia;Sevilla;1;3;H
+1;26-01-2015;Getafe;Celta;1;2;H
+1;30-01-2015;Rayo Vallecano;Deportivo de la Coruña;1;1;A
+1;31-01-2015;Celta;Cordoba;1;1;H
+1;31-01-2015;Eibar;Atlético de Madrid;1;1;A
+1;31-01-2015;Granada;Elche;1;1;H
+1;31-01-2015;Real Madrid;Real Sociedad;1;4;H
+1;01-02-2015;Almeria;Getafe;1;1;H
+1;01-02-2015;Barcelona;Villarreal;1;3;H
+1;01-02-2015;Levante;Athletic de Bilbao;1;0;A
+1;01-02-2015;Sevilla;Espanyol;1;3;H
+1;02-02-2015;Málaga;Valencia;1;1;H
+1;04-02-2015;Real Madrid;Sevilla;1;2;H
+1;06-02-2015;Deportivo de la Coruña;Eibar;1;2;H
+1;07-02-2015;Atlético de Madrid;Real Madrid;1;4;H
+1;07-02-2015;Levante;Málaga;1;4;H
+1;07-02-2015;Real Sociedad;Celta;1;1;D
+1;07-02-2015;Villarreal;Granada;1;2;H
+1;08-02-2015;Athletic de Bilbao;Barcelona;1;2;A
+1;08-02-2015;Cordoba;Almeria;1;1;A
+1;08-02-2015;Espanyol;Valencia;1;1;A
+1;08-02-2015;Getafe;Sevilla;1;2;H
+1;09-02-2015;Elche;Rayo Vallecano;1;2;H
+1;13-02-2015;Almeria;Real Sociedad;1;2;D
+1;14-02-2015;Granada;Athletic de Bilbao;1;0;D
+1;14-02-2015;Málaga;Espanyol;1;0;A
+1;14-02-2015;Real Madrid;Deportivo de la Coruña;1;2;H
+1;14-02-2015;Sevilla;Cordoba;1;3;H
+1;15-02-2015;Barcelona;Levante;1;5;H
+1;15-02-2015;Celta;Atlético de Madrid;1;2;H
+1;15-02-2015;Valencia;Getafe;1;1;H
+1;15-02-2015;Rayo Vallecano;Villarreal;1;2;H
+1;16-02-2015;Eibar;Elche;1;0;A
+1;20-02-2015;Getafe;Espanyol;1;2;H
+1;21-02-2015;Atlético de Madrid;Almeria;1;3;H
+1;21-02-2015;Barcelona;Málaga;1;0;A
+1;21-02-2015;Cordoba;Valencia;1;1;A
+1;21-02-2015;Deportivo de la Coruña;Celta;1;0;A
+1;22-02-2015;Athletic de Bilbao;Rayo Vallecano;1;1;H
+1;22-02-2015;Elche;Real Madrid;1;0;A
+1;22-02-2015;Real Sociedad;Sevilla;1;4;H
+1;22-02-2015;Villarreal;Eibar;1;1;H
+1;23-02-2015;Levante;Granada;1;2;H
+1;27-02-2015;Espanyol;Cordoba;1;1;H
+1;28-02-2015;Almeria;Deportivo de la Coruña;1;0;D
+1;28-02-2015;Granada;Barcelona;1;1;A
+1;28-02-2015;Málaga;Getafe;1;3;H
+1;28-02-2015;Rayo Vallecano;Levante;1;4;H
+1;01-03-2015;Eibar;Athletic de Bilbao;1;0;A
+1;01-03-2015;Real Madrid;Villarreal;1;1;D
+1;01-03-2015;Sevilla;Atlético de Madrid;1;0;D
+1;01-03-2015;Valencia;Real Sociedad;1;2;H
+1;02-03-2015;Celta;Elche;1;1;D
+1;06-03-2015;Levante;Eibar;1;2;H
+1;07-03-2015;Athletic de Bilbao;Real Madrid;1;1;H
+1;07-03-2015;Elche;Almeria;1;1;H
+1;07-03-2015;Granada;Málaga;1;1;H
+1;07-03-2015;Deportivo de la Coruña;Sevilla;1;3;A
+1;08-03-2015;Atlético de Madrid;Valencia;1;1;D
+1;08-03-2015;Barcelona;Rayo Vallecano;1;6;H
+1;08-03-2015;Real Sociedad;Espanyol;1;1;H
+1;08-03-2015;Villarreal;Celta;1;4;H
+1;09-03-2015;Cordoba;Getafe;1;1;A
+1;13-03-2015;Valencia;Deportivo de la Coruña;1;2;H
+1;14-03-2015;Celta;Athletic de Bilbao;1;1;A
+1;14-03-2015;Eibar;Barcelona;1;0;A
+1;14-03-2015;Espanyol;Atlético de Madrid;1;0;D
+1;14-03-2015;Rayo Vallecano;Granada;1;3;H
+1;15-03-2015;Almeria;Villarreal;1;0;D
+1;15-03-2015;Málaga;Cordoba;1;2;H
+1;15-03-2015;Real Madrid;Levante;1;2;H
+1;15-03-2015;Sevilla;Elche;1;3;H
+1;16-03-2015;Getafe;Real Sociedad;1;0;A
+1;20-03-2015;Elche;Valencia;1;0;A
+1;21-03-2015;Athletic de Bilbao;Almeria;1;2;H
+1;21-03-2015;Atlético de Madrid;Getafe;1;2;H
+1;21-03-2015;Granada;Eibar;1;0;D
+1;21-03-2015;Levante;Celta;1;0;A
+1;21-03-2015;Rayo Vallecano;Málaga;1;1;H
+1;22-03-2015;Barcelona;Real Madrid;1;2;H
+1;22-03-2015;Deportivo de la Coruña;Espanyol;1;0;D
+1;22-03-2015;Real Sociedad;Cordoba;1;3;H
+1;22-03-2015;Villarreal;Sevilla;1;0;A
+1;03-04-2015;Eibar;Rayo Vallecano;1;1;A
+1;04-04-2015;Almeria;Levante;1;1;A
+1;04-04-2015;Cordoba;Atlético de Madrid;1;0;A
+1;04-04-2015;Málaga;Real Sociedad;1;1;D
+1;04-04-2015;Sevilla;Athletic de Bilbao;1;2;H
+1;05-04-2015;Celta;Barcelona;1;0;A
+1;05-04-2015;Getafe;Deportivo de la Coruña;1;2;H
+1;05-04-2015;Real Madrid;Granada;1;9;H
+1;05-04-2015;Valencia;Villarreal;1;0;D
+1;06-04-2015;Espanyol;Elche;1;1;D
+1;07-04-2015;Atlético de Madrid;Real Sociedad;1;2;H
+1;07-04-2015;Eibar;Málaga;1;1;H
+1;07-04-2015;Levante;Sevilla;1;1;A
+1;08-04-2015;Barcelona;Almeria;1;4;H
+1;08-04-2015;Granada;Celta;1;1;D
+1;08-04-2015;Deportivo de la Coruña;Cordoba;1;1;D
+1;08-04-2015;Rayo Vallecano;Real Madrid;1;0;A
+1;09-04-2015;Athletic de Bilbao;Valencia;1;1;D
+1;09-04-2015;Elche;Getafe;1;0;A
+1;09-04-2015;Villarreal;Espanyol;1;0;A
+1;11-04-2015;Almeria;Granada;1;3;H
+1;11-04-2015;Celta;Rayo Vallecano;1;6;H
+1;11-04-2015;Málaga;Atlético de Madrid;1;2;D
+1;11-04-2015;Real Madrid;Eibar;1;3;H
+1;11-04-2015;Sevilla;Barcelona;1;2;D
+1;12-04-2015;Cordoba;Elche;1;0;A
+1;12-04-2015;Espanyol;Athletic de Bilbao;1;1;H
+1;12-04-2015;Getafe;Villarreal;1;1;D
+1;12-04-2015;Real Sociedad;Deportivo de la Coruña;1;2;D
+1;13-04-2015;Valencia;Levante;1;3;H
+1;17-04-2015;Levante;Espanyol;1;2;D
+1;18-04-2015;Athletic de Bilbao;Getafe;1;4;H
+1;18-04-2015;Barcelona;Valencia;1;2;H
+1;18-04-2015;Deportivo de la Coruña;Atlético de Madrid;1;1;A
+1;18-04-2015;Real Madrid;Málaga;1;3;H
+1;19-04-2015;Eibar;Celta;1;0;A
+1;19-04-2015;Granada;Sevilla;1;1;D
+1;19-04-2015;Rayo Vallecano;Almeria;1;2;H
+1;19-04-2015;Villarreal;Cordoba;1;0;D
+1;20-04-2015;Elche;Real Sociedad;1;1;H
+1;24-04-2015;Cordoba;Athletic de Bilbao;1;0;A
+1;25-04-2015;Atlético de Madrid;Elche;1;3;H
+1;25-04-2015;Espanyol;Barcelona;1;0;A
+1;25-04-2015;Getafe;Levante;1;0;A
+1;25-04-2015;Real Sociedad;Villarreal;1;0;D
+1;26-04-2015;Almeria;Eibar;1;2;H
+1;26-04-2015;Celta;Real Madrid;1;2;A
+1;26-04-2015;Málaga;Deportivo de la Coruña;1;1;D
+1;26-04-2015;Sevilla;Rayo Vallecano;1;2;H
+1;27-04-2015;Valencia;Granada;1;4;H
+1;28-04-2015;Athletic de Bilbao;Real Sociedad;1;1;D
+1;28-04-2015;Barcelona;Getafe;1;6;H
+1;28-04-2015;Levante;Cordoba;1;1;H
+1;29-04-2015;Celta;Málaga;1;1;H
+1;29-04-2015;Eibar;Sevilla;1;1;A
+1;29-04-2015;Elche;Deportivo de la Coruña;1;4;H
+1;29-04-2015;Real Madrid;Almeria;1;3;H
+1;29-04-2015;Villarreal;Atlético de Madrid;1;0;A
+1;30-04-2015;Granada;Espanyol;1;1;A
+1;30-04-2015;Rayo Vallecano;Valencia;1;1;D
+1;01-05-2015;Real Sociedad;Levante;1;3;H
+1;02-05-2015;Atlético de Madrid;Athletic de Bilbao;1;0;D
+1;02-05-2015;Cordoba;Barcelona;1;0;A
+1;02-05-2015;Deportivo de la Coruña;Villarreal;1;1;D
+1;02-05-2015;Sevilla;Real Madrid;1;2;A
+1;03-05-2015;Espanyol;Rayo Vallecano;1;1;D
+1;03-05-2015;Getafe;Granada;1;1;A
+1;03-05-2015;Málaga;Elche;1;1;A
+1;03-05-2015;Valencia;Eibar;1;3;H
+1;04-05-2015;Almeria;Celta;1;2;D
+1;08-05-2015;Eibar;Espanyol;1;0;A
+1;09-05-2015;Athletic de Bilbao;Deportivo de la Coruña;1;1;D
+1;09-05-2015;Barcelona;Real Sociedad;1;2;H
+1;09-05-2015;Granada;Cordoba;1;2;H
+1;09-05-2015;Real Madrid;Valencia;1;2;D
+1;10-05-2015;Almeria;Málaga;1;1;A
+1;10-05-2015;Celta;Sevilla;1;1;D
+1;10-05-2015;Levante;Atlético de Madrid;1;2;D
+1;10-05-2015;Villarreal;Elche;1;1;H
+1;11-05-2015;Rayo Vallecano;Getafe;1;2;H
+1;17-05-2015;Atlético de Madrid;Barcelona;1;0;A
+1;17-05-2015;Cordoba;Rayo Vallecano;1;1;A
+1;17-05-2015;Elche;Athletic de Bilbao;1;2;A
+1;17-05-2015;Espanyol;Real Madrid;1;1;A
+1;17-05-2015;Getafe;Eibar;1;1;D
+1;17-05-2015;Deportivo de la Coruña;Levante;1;2;H
+1;17-05-2015;Sevilla;Almeria;1;2;H
+1;17-05-2015;Real Sociedad;Granada;1;0;A
+1;17-05-2015;Valencia;Celta;1;1;D
+1;17-05-2015;Villarreal;Málaga;1;2;H
+1;23-05-2015;Almeria;Valencia;1;2;A
+1;23-05-2015;Athletic de Bilbao;Villarreal;1;4;H
+1;23-05-2015;Barcelona;Deportivo de la Coruña;1;2;D
+1;23-05-2015;Celta;Espanyol;1;3;H
+1;23-05-2015;Eibar;Cordoba;1;3;H
+1;23-05-2015;Granada;Atlético de Madrid;1;0;D
+1;23-05-2015;Levante;Elche;1;0;D
+1;23-05-2015;Málaga;Sevilla;1;2;A
+1;23-05-2015;Real Madrid;Getafe;1;7;H
+1;23-05-2015;Rayo Vallecano;Real Sociedad;1;2;A
+1;23-08-2014;Espanyol;Almeria;0;1;D
+1;23-08-2014;Deportivo de la Coruña;Granada;0;1;H
+1;23-08-2014;Athletic de Bilbao;Málaga;0;0;H
+1;23-08-2014;Valencia;Sevilla;0;1;D
+1;24-08-2014;Elche;Barcelona;0;0;H
+1;24-08-2014;Getafe;Celta;0;1;H
+1;24-08-2014;Real Sociedad;Eibar;0;0;H
+1;24-08-2014;Villarreal;Levante;0;2;A
+1;25-08-2014;Cordoba;Real Madrid;0;0;H
+1;25-08-2014;Atlético de Madrid;Rayo Vallecano;0;0;D
+1;29-08-2014;Almeria;Getafe;0;0;H
+1;29-08-2014;Málaga;Valencia;0;0;H
+1;30-08-2014;Levante;Athletic de Bilbao;0;0;H
+1;30-08-2014;Eibar;Atlético de Madrid;0;1;H
+1;30-08-2014;Celta;Cordoba;0;1;D
+1;30-08-2014;Sevilla;Espanyol;0;2;A
+1;31-08-2014;Granada;Elche;0;1;D
+1;31-08-2014;Rayo Vallecano;Deportivo de la Coruña;0;2;D
+1;31-08-2014;Real Madrid;Real Sociedad;0;2;H
+1;31-08-2014;Barcelona;Villarreal;0;1;A
+1;12-09-2014;Cordoba;Almeria;0;1;D
+1;13-09-2014;Athletic de Bilbao;Barcelona;0;0;H
+1;13-09-2014;Real Sociedad;Celta;0;2;D
+1;13-09-2014;Levante;Málaga;0;0;D
+1;13-09-2014;Atlético de Madrid;Real Madrid;0;2;A
+1;14-09-2014;Villarreal;Granada;0;0;D
+1;14-09-2014;Getafe;Sevilla;0;0;H
+1;14-09-2014;Espanyol;Valencia;0;1;H
+1;14-09-2014;Elche;Rayo Vallecano;0;3;A
+1;15-09-2014;Deportivo de la Coruña;Eibar;0;1;A
+1;19-09-2014;Eibar;Elche;0;2;A
+1;20-09-2014;Granada;Athletic de Bilbao;0;1;A
+1;20-09-2014;Celta;Atlético de Madrid;0;2;D
+1;20-09-2014;Málaga;Espanyol;0;2;D
+1;20-09-2014;Real Madrid;Deportivo de la Coruña;0;8;A
+1;21-09-2014;Sevilla;Cordoba;0;3;A
+1;21-09-2014;Barcelona;Levante;0;5;A
+1;21-09-2014;Almeria;Real Sociedad;0;2;A
+1;21-09-2014;Rayo Vallecano;Villarreal;0;2;H
+1;22-09-2014;Valencia;Getafe;0;3;A
+1;23-09-2014;Deportivo de la Coruña;Celta;0;1;H
+1;23-09-2014;Elche;Real Madrid;0;1;H
+1;24-09-2014;Atlético de Madrid;Almeria;0;1;A
+1;24-09-2014;Villarreal;Eibar;0;1;D
+1;24-09-2014;Levante;Granada;0;1;A
+1;24-09-2014;Barcelona;Málaga;0;0;D
+1;24-09-2014;Real Sociedad;Sevilla;0;0;H
+1;24-09-2014;Athletic de Bilbao;Rayo Vallecano;0;1;H
+1;25-09-2014;Getafe;Espanyol;0;0;H
+1;25-09-2014;Cordoba;Valencia;0;0;H
+1;26-09-2014;Celta;Elche;0;1;A
+1;27-09-2014;Eibar;Athletic de Bilbao;0;0;D
+1;27-09-2014;Sevilla;Atlético de Madrid;0;0;H
+1;27-09-2014;Granada;Barcelona;0;0;H
+1;27-09-2014;Rayo Vallecano;Levante;0;2;A
+1;27-09-2014;Real Madrid;Villarreal;0;2;A
+1;28-09-2014;Espanyol;Cordoba;0;0;D
+1;28-09-2014;Málaga;Getafe;0;0;H
+1;28-09-2014;Almeria;Deportivo de la Coruña;0;1;A
+1;28-09-2014;Valencia;Real Sociedad;0;1;D
+1;03-10-2014;Cordoba;Getafe;0;1;D
+1;04-10-2014;Elche;Almeria;0;2;D
+1;04-10-2014;Levante;Eibar;0;3;D
+1;04-10-2014;Granada;Málaga;0;1;H
+1;04-10-2014;Atlético de Madrid;Valencia;0;1;H
+1;04-10-2014;Barcelona;Rayo Vallecano;0;2;A
+1;05-10-2014;Villarreal;Celta;0;3;A
+1;05-10-2014;Real Sociedad;Espanyol;0;0;H
+1;05-10-2014;Athletic de Bilbao;Real Madrid;0;0;H
+1;05-10-2014;Deportivo de la Coruña;Sevilla;0;1;H
+1;17-10-2014;Rayo Vallecano;Granada;0;1;A
+1;18-10-2014;Celta;Athletic de Bilbao;0;1;D
+1;18-10-2014;Eibar;Barcelona;0;0;H
+1;18-10-2014;Málaga;Cordoba;0;2;A
+1;18-10-2014;Real Madrid;Levante;0;5;A
+1;19-10-2014;Espanyol;Atlético de Madrid;0;0;H
+1;19-10-2014;Sevilla;Elche;0;2;A
+1;19-10-2014;Valencia;Deportivo de la Coruña;0;0;H
+1;19-10-2014;Almeria;Villarreal;0;0;H
+1;20-10-2014;Getafe;Real Sociedad;0;2;A
+1;24-10-2014;Levante;Celta;0;0;H
+1;25-10-2014;Athletic de Bilbao;Almeria;0;1;A
+1;25-10-2014;Real Sociedad;Cordoba;0;1;D
+1;25-10-2014;Granada;Eibar;0;1;D
+1;25-10-2014;Barcelona;Real Madrid;0;1;H
+1;25-10-2014;Elche;Valencia;0;1;H
+1;26-10-2014;Deportivo de la Coruña;Espanyol;0;0;D
+1;26-10-2014;Atlético de Madrid;Getafe;0;1;A
+1;26-10-2014;Rayo Vallecano;Málaga;0;0;H
+1;26-10-2014;Villarreal;Sevilla;0;1;H
+1;31-10-2014;Getafe;Deportivo de la Coruña;0;2;A
+1;01-11-2014;Cordoba;Atlético de Madrid;0;2;H
+1;01-11-2014;Celta;Barcelona;0;1;A
+1;01-11-2014;Real Madrid;Granada;0;4;A
+1;01-11-2014;Málaga;Real Sociedad;0;1;A
+1;02-11-2014;Sevilla;Athletic de Bilbao;0;0;H
+1;02-11-2014;Espanyol;Elche;0;1;H
+1;02-11-2014;Almeria;Levante;0;1;H
+1;02-11-2014;Valencia;Villarreal;0;3;A
+1;03-11-2014;Eibar;Rayo Vallecano;0;3;A
+1;07-11-2014;Deportivo de la Coruña;Cordoba;0;0;D
+1;08-11-2014;Barcelona;Almeria;0;2;A
+1;08-11-2014;Granada;Celta;0;0;D
+1;08-11-2014;Elche;Getafe;0;0;D
+1;08-11-2014;Eibar;Málaga;0;1;H
+1;08-11-2014;Rayo Vallecano;Real Madrid;0;1;H
+1;09-11-2014;Villarreal;Espanyol;0;1;D
+1;09-11-2014;Levante;Sevilla;0;1;D
+1;09-11-2014;Atlético de Madrid;Real Sociedad;0;1;H
+1;09-11-2014;Athletic de Bilbao;Valencia;0;0;D
+1;21-11-2014;Espanyol;Athletic de Bilbao;0;1;H
+1;22-11-2014;Málaga;Atlético de Madrid;0;1;H
+1;22-11-2014;Sevilla;Barcelona;0;1;H
+1;22-11-2014;Real Madrid;Eibar;0;4;A
+1;22-11-2014;Real Sociedad;Deportivo de la Coruña;0;0;D
+1;23-11-2014;Cordoba;Elche;0;2;D
+1;23-11-2014;Valencia;Levante;0;1;H
+1;23-11-2014;Celta;Rayo Vallecano;0;0;H
+1;23-11-2014;Getafe;Villarreal;0;1;H
+1;24-11-2014;Almeria;Granada;0;0;D
+1;28-11-2014;Elche;Real Sociedad;0;0;H
+1;29-11-2014;Eibar;Celta;0;1;A
+1;29-11-2014;Levante;Espanyol;0;1;H
+1;29-11-2014;Athletic de Bilbao;Getafe;0;2;A
+1;29-11-2014;Real Madrid;Málaga;0;2;A
+1;30-11-2014;Deportivo de la Coruña;Atlético de Madrid;0;0;H
+1;30-11-2014;Villarreal;Cordoba;0;2;A
+1;30-11-2014;Granada;Sevilla;0;1;H
+1;30-11-2014;Barcelona;Valencia;0;1;A
+1;01-12-2014;Rayo Vallecano;Almeria;0;1;A
+1;06-12-2014;Cordoba;Athletic de Bilbao;0;1;A
+1;06-12-2014;Atlético de Madrid;Elche;0;2;A
+1;06-12-2014;Málaga;Deportivo de la Coruña;0;1;A
+1;06-12-2014;Celta;Real Madrid;0;0;H
+1;07-12-2014;Espanyol;Barcelona;0;1;H
+1;07-12-2014;Valencia;Granada;0;1;D
+1;07-12-2014;Sevilla;Rayo Vallecano;0;1;A
+1;07-12-2014;Real Sociedad;Villarreal;0;0;H
+1;08-12-2014;Almeria;Eibar;0;2;H
+1;08-12-2014;Getafe;Levante;0;1;D
+1;12-12-2014;Real Madrid;Almeria;0;4;A
+1;13-12-2014;Levante;Cordoba;0;0;D
+1;13-12-2014;Barcelona;Getafe;0;0;D
+1;13-12-2014;Celta;Málaga;0;0;H
+1;13-12-2014;Rayo Vallecano;Valencia;0;0;H
+1;14-12-2014;Villarreal;Atlético de Madrid;0;1;A
+1;14-12-2014;Granada;Espanyol;0;1;H
+1;14-12-2014;Eibar;Sevilla;0;0;D
+1;14-12-2014;Athletic de Bilbao;Real Sociedad;0;1;D
+1;15-12-2014;Elche;Deportivo de la Coruña;0;0;H
+1;19-12-2014;Almeria;Celta;0;1;A
+1;20-12-2014;Cordoba;Barcelona;0;0;H
+1;20-12-2014;Valencia;Eibar;0;1;A
+1;20-12-2014;Real Sociedad;Levante;0;1;D
+1;20-12-2014;Espanyol;Rayo Vallecano;0;3;A
+1;21-12-2014;Atlético de Madrid;Athletic de Bilbao;0;4;A
+1;21-12-2014;Málaga;Elche;0;2;A
+1;21-12-2014;Getafe;Granada;0;1;D
+1;21-12-2014;Deportivo de la Coruña;Villarreal;0;0;H
+1;03-01-2015;Levante;Atlético de Madrid;0;1;H
+1;03-01-2015;Villarreal;Elche;0;2;D
+1;03-01-2015;Athletic de Bilbao;Deportivo de la Coruña;0;0;H
+1;03-01-2015;Almeria;Málaga;0;2;A
+1;03-01-2015;Celta;Sevilla;0;0;H
+1;04-01-2015;Eibar;Espanyol;0;2;A
+1;04-01-2015;Rayo Vallecano;Getafe;0;2;A
+1;04-01-2015;Barcelona;Real Sociedad;0;0;H
+1;04-01-2015;Real Madrid;Valencia;0;1;H
+1;05-01-2015;Granada;Cordoba;0;0;H
+1;09-01-2015;Deportivo de la Coruña;Levante;0;0;D
+1;10-01-2015;Valencia;Celta;0;1;D
+1;10-01-2015;Getafe;Eibar;0;1;H
+1;10-01-2015;Villarreal;Málaga;0;1;D
+1;10-01-2015;Espanyol;Real Madrid;0;0;H
+1;11-01-2015;Sevilla;Almeria;0;2;A
+1;11-01-2015;Elche;Athletic de Bilbao;0;2;A
+1;11-01-2015;Atlético de Madrid;Barcelona;0;1;H
+1;11-01-2015;Real Sociedad;Granada;0;1;D
+1;12-01-2015;Cordoba;Rayo Vallecano;0;1;A
+1;16-01-2015;Eibar;Cordoba;0;1;D
+1;17-01-2015;Celta;Espanyol;0;0;H
+1;17-01-2015;Rayo Vallecano;Real Sociedad;0;1;A
+1;17-01-2015;Almeria;Valencia;0;2;H
+1;17-01-2015;Athletic de Bilbao;Villarreal;0;0;H
+1;18-01-2015;Granada;Atlético de Madrid;0;0;H
+1;18-01-2015;Levante;Elche;0;0;H
+1;18-01-2015;Real Madrid;Getafe;0;3;A
+1;18-01-2015;Barcelona;Deportivo de la Coruña;0;4;A
+1;18-01-2015;Málaga;Sevilla;0;0;H
+1;24-01-2015;Rayo Vallecano;Atlético de Madrid;0;1;H
+1;24-01-2015;Real Madrid;Cordoba;0;2;A
+1;24-01-2015;Barcelona;Elche;0;6;A
+1;24-01-2015;Eibar;Real Sociedad;0;0;H
+1;24-01-2015;Levante;Villarreal;0;0;H
+1;25-01-2015;Málaga;Athletic de Bilbao;0;1;D
+1;25-01-2015;Almeria;Espanyol;0;0;H
+1;25-01-2015;Granada;Deportivo de la Coruña;0;2;D
+1;25-01-2015;Sevilla;Valencia;0;1;H
+1;26-01-2015;Celta;Getafe;0;1;H
+1;30-01-2015;Deportivo de la Coruña;Rayo Vallecano;0;2;A
+1;31-01-2015;Cordoba;Celta;0;0;H
+1;31-01-2015;Atlético de Madrid;Eibar;0;3;A
+1;31-01-2015;Elche;Granada;0;0;H
+1;31-01-2015;Real Sociedad;Real Madrid;0;1;H
+1;01-02-2015;Getafe;Almeria;0;0;H
+1;01-02-2015;Villarreal;Barcelona;0;2;H
+1;01-02-2015;Athletic de Bilbao;Levante;0;2;A
+1;01-02-2015;Espanyol;Sevilla;0;2;H
+1;02-02-2015;Valencia;Málaga;0;0;H
+1;04-02-2015;Sevilla;Real Madrid;0;1;H
+1;06-02-2015;Eibar;Deportivo de la Coruña;0;0;H
+1;07-02-2015;Real Madrid;Atlético de Madrid;0;0;H
+1;07-02-2015;Málaga;Levante;0;1;H
+1;07-02-2015;Celta;Real Sociedad;0;1;D
+1;07-02-2015;Granada;Villarreal;0;0;H
+1;08-02-2015;Barcelona;Athletic de Bilbao;0;5;A
+1;08-02-2015;Almeria;Cordoba;0;2;A
+1;08-02-2015;Valencia;Espanyol;0;2;A
+1;08-02-2015;Sevilla;Getafe;0;1;H
+1;09-02-2015;Rayo Vallecano;Elche;0;0;H
+1;13-02-2015;Real Sociedad;Almeria;0;2;D
+1;14-02-2015;Athletic de Bilbao;Granada;0;0;D
+1;14-02-2015;Espanyol;Málaga;0;2;A
+1;14-02-2015;Deportivo de la Coruña;Real Madrid;0;0;H
+1;14-02-2015;Cordoba;Sevilla;0;0;H
+1;15-02-2015;Levante;Barcelona;0;0;H
+1;15-02-2015;Atlético de Madrid;Celta;0;0;H
+1;15-02-2015;Getafe;Valencia;0;0;H
+1;15-02-2015;Villarreal;Rayo Vallecano;0;0;H
+1;16-02-2015;Elche;Eibar;0;1;A
+1;20-02-2015;Espanyol;Getafe;0;1;H
+1;21-02-2015;Almeria;Atlético de Madrid;0;0;H
+1;21-02-2015;Málaga;Barcelona;0;1;A
+1;21-02-2015;Valencia;Cordoba;0;2;A
+1;21-02-2015;Celta;Deportivo de la Coruña;0;2;A
+1;22-02-2015;Rayo Vallecano;Athletic de Bilbao;0;0;H
+1;22-02-2015;Real Madrid;Elche;0;2;A
+1;22-02-2015;Sevilla;Real Sociedad;0;3;H
+1;22-02-2015;Eibar;Villarreal;0;0;H
+1;23-02-2015;Granada;Levante;0;1;H
+1;27-02-2015;Cordoba;Espanyol;0;0;H
+1;28-02-2015;Deportivo de la Coruña;Almeria;0;0;D
+1;28-02-2015;Barcelona;Granada;0;3;A
+1;28-02-2015;Getafe;Málaga;0;2;H
+1;28-02-2015;Levante;Rayo Vallecano;0;2;H
+1;01-03-2015;Athletic de Bilbao;Eibar;0;1;A
+1;01-03-2015;Villarreal;Real Madrid;0;1;D
+1;01-03-2015;Atlético de Madrid;Sevilla;0;0;D
+1;01-03-2015;Real Sociedad;Valencia;0;0;H
+1;02-03-2015;Elche;Celta;0;1;D
+1;06-03-2015;Eibar;Levante;0;1;H
+1;07-03-2015;Real Madrid;Athletic de Bilbao;0;0;H
+1;07-03-2015;Almeria;Elche;0;0;H
+1;07-03-2015;Málaga;Granada;0;0;H
+1;07-03-2015;Sevilla;Deportivo de la Coruña;0;4;A
+1;08-03-2015;Valencia;Atlético de Madrid;0;1;D
+1;08-03-2015;Rayo Vallecano;Barcelona;0;1;H
+1;08-03-2015;Espanyol;Real Sociedad;0;0;H
+1;08-03-2015;Celta;Villarreal;0;1;H
+1;09-03-2015;Getafe;Cordoba;0;2;A
+1;13-03-2015;Deportivo de la Coruña;Valencia;0;0;H
+1;14-03-2015;Athletic de Bilbao;Celta;0;2;A
+1;14-03-2015;Barcelona;Eibar;0;2;A
+1;14-03-2015;Atlético de Madrid;Espanyol;0;0;D
+1;14-03-2015;Granada;Rayo Vallecano;0;1;H
+1;15-03-2015;Villarreal;Almeria;0;0;D
+1;15-03-2015;Cordoba;Málaga;0;0;H
+1;15-03-2015;Levante;Real Madrid;0;0;H
+1;15-03-2015;Elche;Sevilla;0;0;H
+1;16-03-2015;Real Sociedad;Getafe;0;1;A
+1;20-03-2015;Valencia;Elche;0;4;A
+1;21-03-2015;Almeria;Athletic de Bilbao;0;1;H
+1;21-03-2015;Getafe;Atlético de Madrid;0;0;H
+1;21-03-2015;Eibar;Granada;0;0;D
+1;21-03-2015;Celta;Levante;0;1;A
+1;21-03-2015;Málaga;Rayo Vallecano;0;0;H
+1;22-03-2015;Real Madrid;Barcelona;0;1;H
+1;22-03-2015;Espanyol;Deportivo de la Coruña;0;0;D
+1;22-03-2015;Cordoba;Real Sociedad;0;1;H
+1;22-03-2015;Sevilla;Villarreal;0;2;A
+1;03-04-2015;Rayo Vallecano;Eibar;0;2;A
+1;04-04-2015;Levante;Almeria;0;4;A
+1;04-04-2015;Atlético de Madrid;Cordoba;0;2;A
+1;04-04-2015;Real Sociedad;Málaga;0;1;D
+1;04-04-2015;Athletic de Bilbao;Sevilla;0;0;H
+1;05-04-2015;Barcelona;Celta;0;1;A
+1;05-04-2015;Deportivo de la Coruña;Getafe;0;1;H
+1;05-04-2015;Granada;Real Madrid;0;1;H
+1;05-04-2015;Villarreal;Valencia;0;0;D
+1;06-04-2015;Elche;Espanyol;0;1;D
+1;07-04-2015;Real Sociedad;Atlético de Madrid;0;0;H
+1;07-04-2015;Málaga;Eibar;0;0;H
+1;07-04-2015;Sevilla;Levante;0;2;A
+1;08-04-2015;Almeria;Barcelona;0;0;H
+1;08-04-2015;Celta;Granada;0;1;D
+1;08-04-2015;Cordoba;Deportivo de la Coruña;0;1;D
+1;08-04-2015;Real Madrid;Rayo Vallecano;0;2;A
+1;09-04-2015;Valencia;Athletic de Bilbao;0;1;D
+1;09-04-2015;Getafe;Elche;0;1;A
+1;09-04-2015;Espanyol;Villarreal;0;3;A
+1;11-04-2015;Granada;Almeria;0;0;H
+1;11-04-2015;Rayo Vallecano;Celta;0;1;H
+1;11-04-2015;Atlético de Madrid;Málaga;0;2;D
+1;11-04-2015;Eibar;Real Madrid;0;0;H
+1;11-04-2015;Barcelona;Sevilla;0;2;D
+1;12-04-2015;Elche;Cordoba;0;2;A
+1;12-04-2015;Athletic de Bilbao;Espanyol;0;0;H
+1;12-04-2015;Villarreal;Getafe;0;1;D
+1;12-04-2015;Deportivo de la Coruña;Real Sociedad;0;2;D
+1;13-04-2015;Levante;Valencia;0;0;H
+1;17-04-2015;Espanyol;Levante;0;2;D
+1;18-04-2015;Getafe;Athletic de Bilbao;0;0;H
+1;18-04-2015;Valencia;Barcelona;0;0;H
+1;18-04-2015;Atlético de Madrid;Deportivo de la Coruña;0;2;A
+1;18-04-2015;Málaga;Real Madrid;0;1;H
+1;19-04-2015;Celta;Eibar;0;1;A
+1;19-04-2015;Sevilla;Granada;0;1;D
+1;19-04-2015;Almeria;Rayo Vallecano;0;0;H
+1;19-04-2015;Cordoba;Villarreal;0;0;D
+1;20-04-2015;Real Sociedad;Elche;0;0;H
+1;24-04-2015;Athletic de Bilbao;Cordoba;0;1;A
+1;25-04-2015;Elche;Atlético de Madrid;0;0;H
+1;25-04-2015;Barcelona;Espanyol;0;2;A
+1;25-04-2015;Levante;Getafe;0;1;A
+1;25-04-2015;Villarreal;Real Sociedad;0;0;D
+1;26-04-2015;Eibar;Almeria;0;0;H
+1;26-04-2015;Real Madrid;Celta;0;4;A
+1;26-04-2015;Deportivo de la Coruña;Málaga;0;1;D
+1;26-04-2015;Rayo Vallecano;Sevilla;0;0;H
+1;27-04-2015;Granada;Valencia;0;0;H
+1;28-04-2015;Real Sociedad;Athletic de Bilbao;0;1;D
+1;28-04-2015;Getafe;Barcelona;0;0;H
+1;28-04-2015;Cordoba;Levante;0;0;H
+1;29-04-2015;Málaga;Celta;0;0;H
+1;29-04-2015;Sevilla;Eibar;0;3;A
+1;29-04-2015;Deportivo de la Coruña;Elche;0;0;H
+1;29-04-2015;Almeria;Real Madrid;0;0;H
+1;29-04-2015;Atlético de Madrid;Villarreal;0;1;A
+1;30-04-2015;Espanyol;Granada;0;2;A
+1;30-04-2015;Valencia;Rayo Vallecano;0;1;D
+1;01-05-2015;Levante;Real Sociedad;0;0;H
+1;02-05-2015;Athletic de Bilbao;Atlético de Madrid;0;0;D
+1;02-05-2015;Barcelona;Cordoba;0;8;A
+1;02-05-2015;Villarreal;Deportivo de la Coruña;0;1;D
+1;02-05-2015;Real Madrid;Sevilla;0;3;A
+1;03-05-2015;Rayo Vallecano;Espanyol;0;1;D
+1;03-05-2015;Granada;Getafe;0;2;A
+1;03-05-2015;Elche;Málaga;0;2;A
+1;03-05-2015;Eibar;Valencia;0;1;H
+1;04-05-2015;Celta;Almeria;0;2;D
+1;08-05-2015;Espanyol;Eibar;0;2;A
+1;09-05-2015;Deportivo de la Coruña;Athletic de Bilbao;0;1;D
+1;09-05-2015;Real Sociedad;Barcelona;0;0;H
+1;09-05-2015;Cordoba;Granada;0;0;H
+1;09-05-2015;Valencia;Real Madrid;0;2;D
+1;10-05-2015;Málaga;Almeria;0;2;A
+1;10-05-2015;Sevilla;Celta;0;1;D
+1;10-05-2015;Atlético de Madrid;Levante;0;2;D
+1;10-05-2015;Elche;Villarreal;0;0;H
+1;11-05-2015;Getafe;Rayo Vallecano;0;0;H
+1;17-05-2015;Barcelona;Atlético de Madrid;0;1;A
+1;17-05-2015;Rayo Vallecano;Cordoba;0;2;A
+1;17-05-2015;Athletic de Bilbao;Elche;0;3;A
+1;17-05-2015;Real Madrid;Espanyol;0;4;A
+1;17-05-2015;Eibar;Getafe;0;1;D
+1;17-05-2015;Levante;Deportivo de la Coruña;0;0;H
+1;17-05-2015;Almeria;Sevilla;0;1;H
+1;17-05-2015;Granada;Real Sociedad;0;3;A
+1;17-05-2015;Celta;Valencia;0;1;D
+1;17-05-2015;Málaga;Villarreal;0;1;H
+1;23-05-2015;Valencia;Almeria;0;3;A
+1;23-05-2015;Villarreal;Athletic de Bilbao;0;0;H
+1;23-05-2015;Deportivo de la Coruña;Barcelona;0;2;D
+1;23-05-2015;Espanyol;Celta;0;2;H
+1;23-05-2015;Cordoba;Eibar;0;0;H
+1;23-05-2015;Atlético de Madrid;Granada;0;0;D
+1;23-05-2015;Elche;Levante;0;0;D
+1;23-05-2015;Sevilla;Málaga;0;3;A
+1;23-05-2015;Getafe;Real Madrid;0;3;H
+1;23-05-2015;Real Sociedad;Rayo Vallecano;0;4;A
+2;23-08-2014;Las Palmas;Llagostera;1;2;H
+2;23-08-2014;Numancia;Sp Gijón;1;1;A
+2;23-08-2014;Osasuna;AAAABarcelona B;1;2;H
+2;23-08-2014;Recreativo;Zaragoza;1;0;D
+2;23-08-2014;Valladolid;Mallorca;1;2;H
+2;24-08-2014;Albacete;Alcorcon;1;2;A
+2;24-08-2014;Girona;Santander;1;1;H
+2;24-08-2014;Leganés;Alavés;1;1;D
+2;24-08-2014;Mirandes;Lugo;1;0;D
+2;24-08-2014;Ponferradina;Tenerife;1;1;H
+2;24-08-2014;Sabadell;Betis;1;2;A
+2;30-08-2014;Alcorcon;Girona;1;1;A
+2;30-08-2014;AAAABarcelona B;Sabadell;1;3;H
+2;30-08-2014;Lugo;Valladolid;1;1;H
+2;30-08-2014;Santander;Mirandes;1;1;A
+2;30-08-2014;Tenerife;Albacete;1;1;D
+2;30-08-2014;Zaragoza;Osasuna;1;1;D
+2;31-08-2014;Alavés;Recreativo;1;0;D
+2;31-08-2014;Betis;Numancia;1;2;H
+2;31-08-2014;Llagostera;Leganés;1;2;H
+2;31-08-2014;Mallorca;Las Palmas;1;1;D
+2;31-08-2014;Sp Gijón;Ponferradina;1;2;H
+2;06-09-2014;Albacete;Sp Gijón;1;1;D
+2;06-09-2014;Girona;Tenerife;1;2;H
+2;06-09-2014;Osasuna;Alavés;1;1;A
+2;06-09-2014;Recreativo;Llagostera;1;2;H
+2;06-09-2014;Sabadell;Numancia;1;0;A
+2;07-09-2014;AAAABarcelona B;Zaragoza;1;4;H
+2;07-09-2014;Las Palmas;Lugo;1;3;H
+2;07-09-2014;Leganés;Mallorca;1;3;H
+2;07-09-2014;Mirandes;Alcorcon;1;1;A
+2;07-09-2014;Ponferradina;Betis;1;4;H
+2;07-09-2014;Valladolid;Santander;1;3;H
+2;13-09-2014;Alavés;AAAABarcelona B;1;2;A
+2;13-09-2014;Llagostera;Osasuna;1;0;D
+2;13-09-2014;Mallorca;Recreativo;1;1;A
+2;13-09-2014;Numancia;Ponferradina;1;1;A
+2;13-09-2014;Santander;Las Palmas;1;1;A
+2;14-09-2014;Alcorcon;Valladolid;1;0;A
+2;14-09-2014;Betis;Albacete;1;0;A
+2;14-09-2014;Lugo;Leganés;1;0;D
+2;14-09-2014;Sp Gijón;Girona;1;1;D
+2;14-09-2014;Tenerife;Mirandes;1;1;H
+2;14-09-2014;Zaragoza;Sabadell;1;1;D
+2;20-09-2014;AAAABarcelona B;Llagostera;1;0;A
+2;20-09-2014;Las Palmas;Alcorcon;1;4;H
+2;20-09-2014;Mirandes;Sp Gijón;1;0;A
+2;20-09-2014;Recreativo;Lugo;1;0;D
+2;20-09-2014;Sabadell;Ponferradina;1;1;H
+2;20-09-2014;Zaragoza;Alavés;1;1;H
+2;21-09-2014;Albacete;Numancia;1;0;A
+2;21-09-2014;Girona;Betis;1;1;A
+2;21-09-2014;Leganés;Santander;1;2;D
+2;21-09-2014;Osasuna;Mallorca;1;6;H
+2;21-09-2014;Valladolid;Tenerife;1;2;H
+2;27-09-2014;Alavés;Sabadell;1;3;H
+2;27-09-2014;Llagostera;Zaragoza;1;0;A
+2;27-09-2014;Lugo;Osasuna;1;4;H
+2;27-09-2014;Santander;Recreativo;1;3;H
+2;28-09-2014;Alcorcon;Leganés;1;1;H
+2;28-09-2014;Betis;Mirandes;1;2;H
+2;28-09-2014;Mallorca;AAAABarcelona B;1;3;D
+2;28-09-2014;Numancia;Girona;1;2;D
+2;28-09-2014;Sp Gijón;Valladolid;1;1;D
+2;28-09-2014;Tenerife;Las Palmas;1;2;H
+2;29-09-2014;Ponferradina;Albacete;1;1;H
+2;04-10-2014;Alavés;Llagostera;1;0;D
+2;04-10-2014;AAAABarcelona B;Lugo;1;0;A
+2;04-10-2014;Girona;Ponferradina;1;3;H
+2;04-10-2014;Las Palmas;Sp Gijón;1;1;D
+2;04-10-2014;Osasuna;Santander;1;0;A
+2;05-10-2014;Leganés;Tenerife;1;2;H
+2;05-10-2014;Mirandes;Numancia;1;2;H
+2;05-10-2014;Recreativo;Alcorcon;1;2;H
+2;05-10-2014;Sabadell;Albacete;1;6;H
+2;05-10-2014;Valladolid;Betis;1;0;D
+2;05-10-2014;Zaragoza;Mallorca;1;2;H
+2;11-10-2014;Albacete;Girona;1;0;A
+2;11-10-2014;Alcorcon;Osasuna;1;2;H
+2;11-10-2014;Mallorca;Alavés;1;2;H
+2;11-10-2014;Numancia;Valladolid;1;0;A
+2;11-10-2014;Ponferradina;Mirandes;1;1;H
+2;11-10-2014;Santander;AAAABarcelona B;1;0;D
+2;11-10-2014;Tenerife;Recreativo;1;0;A
+2;12-10-2014;Betis;Las Palmas;1;0;D
+2;12-10-2014;Llagostera;Sabadell;1;0;A
+2;12-10-2014;Lugo;Zaragoza;1;3;D
+2;12-10-2014;Sp Gijón;Leganés;1;2;H
+2;18-10-2014;Alavés;Lugo;1;1;H
+2;18-10-2014;Mirandes;Albacete;1;3;H
+2;18-10-2014;Osasuna;Tenerife;1;3;H
+2;18-10-2014;Sabadell;Girona;1;0;A
+2;18-10-2014;Valladolid;Ponferradina;1;0;D
+2;18-10-2014;Zaragoza;Santander;1;2;H
+2;19-10-2014;AAAABarcelona B;Alcorcon;1;4;H
+2;19-10-2014;Las Palmas;Numancia;1;2;H
+2;19-10-2014;Leganés;Betis;1;1;H
+2;19-10-2014;Llagostera;Mallorca;1;1;A
+2;19-10-2014;Recreativo;Sp Gijón;1;1;D
+2;25-10-2014;Betis;Recreativo;1;3;H
+2;25-10-2014;Mallorca;Sabadell;1;1;H
+2;25-10-2014;Ponferradina;Las Palmas;1;2;D
+2;25-10-2014;Santander;Alavés;1;1;D
+2;26-10-2014;Albacete;Valladolid;1;3;A
+2;26-10-2014;Alcorcon;Zaragoza;1;1;A
+2;26-10-2014;Girona;Mirandes;1;3;H
+2;26-10-2014;Lugo;Llagostera;1;1;D
+2;26-10-2014;Numancia;Leganés;1;1;D
+2;26-10-2014;Sp Gijón;Osasuna;1;2;H
+2;26-10-2014;Tenerife;AAAABarcelona B;1;2;H
+2;01-11-2014;Alavés;Alcorcon;1;1;D
+2;01-11-2014;AAAABarcelona B;Sp Gijón;1;0;D
+2;01-11-2014;Las Palmas;Albacete;1;2;H
+2;01-11-2014;Llagostera;Santander;1;0;A
+2;01-11-2014;Mallorca;Lugo;1;2;H
+2;01-11-2014;Sabadell;Mirandes;1;3;H
+2;02-11-2014;Leganés;Ponferradina;1;1;D
+2;02-11-2014;Osasuna;Betis;1;3;H
+2;02-11-2014;Recreativo;Numancia;1;0;A
+2;02-11-2014;Valladolid;Girona;1;2;H
+2;03-11-2014;Zaragoza;Tenerife;1;2;A
+2;08-11-2014;Albacete;Leganés;1;1;H
+2;08-11-2014;Alcorcon;Llagostera;1;2;H
+2;08-11-2014;Betis;AAAABarcelona B;1;1;H
+2;08-11-2014;Girona;Las Palmas;1;1;A
+2;08-11-2014;Mirandes;Valladolid;1;0;D
+2;08-11-2014;Numancia;Osasuna;1;0;D
+2;09-11-2014;Lugo;Sabadell;1;2;H
+2;09-11-2014;Ponferradina;Recreativo;1;3;D
+2;09-11-2014;Santander;Mallorca;1;0;A
+2;09-11-2014;Sp Gijón;Zaragoza;1;3;H
+2;09-11-2014;Tenerife;Alavés;1;1;D
+2;15-11-2014;Alavés;Sp Gijón;1;0;D
+2;15-11-2014;AAAABarcelona B;Numancia;1;1;D
+2;15-11-2014;Las Palmas;Mirandes;1;0;D
+2;15-11-2014;Leganés;Girona;1;1;A
+2;15-11-2014;Mallorca;Alcorcon;1;1;D
+2;15-11-2014;Osasuna;Ponferradina;1;0;A
+2;15-11-2014;Sabadell;Valladolid;1;0;D
+2;16-11-2014;Llagostera;Tenerife;1;2;H
+2;16-11-2014;Lugo;Santander;1;0;D
+2;16-11-2014;Recreativo;Albacete;1;4;H
+2;16-11-2014;Zaragoza;Betis;1;2;D
+2;22-11-2014;Numancia;Zaragoza;1;2;H
+2;22-11-2014;Ponferradina;AAAABarcelona B;1;4;D
+2;22-11-2014;Santander;Sabadell;1;3;H
+2;22-11-2014;Sp Gijón;Llagostera;1;0;D
+2;22-11-2014;Tenerife;Mallorca;1;0;D
+2;23-11-2014;Albacete;Osasuna;1;2;H
+2;23-11-2014;Alcorcon;Lugo;1;1;H
+2;23-11-2014;Betis;Alavés;1;1;A
+2;23-11-2014;Girona;Recreativo;1;2;H
+2;23-11-2014;Mirandes;Leganés;1;1;H
+2;23-11-2014;Valladolid;Las Palmas;1;1;A
+2;29-11-2014;Alavés;Numancia;1;0;A
+2;29-11-2014;Leganés;Valladolid;1;1;H
+2;29-11-2014;Llagostera;Betis;1;0;A
+2;29-11-2014;Osasuna;Girona;1;0;D
+2;30-11-2014;AAAABarcelona B;Albacete;1;1;A
+2;30-11-2014;Lugo;Tenerife;1;1;H
+2;30-11-2014;Mallorca;Sp Gijón;1;0;A
+2;30-11-2014;Recreativo;Mirandes;1;0;A
+2;30-11-2014;Santander;Alcorcon;1;0;A
+2;30-11-2014;Zaragoza;Ponferradina;1;4;H
+2;06-12-2014;Las Palmas;Leganés;1;1;H
+2;06-12-2014;Mirandes;Osasuna;1;1;H
+2;06-12-2014;Numancia;Llagostera;1;3;H
+2;06-12-2014;Ponferradina;Alavés;1;2;H
+2;07-12-2014;Alcorcon;Sabadell;1;3;H
+2;07-12-2014;Girona;AAAABarcelona B;1;0;A
+2;07-12-2014;Sp Gijón;Lugo;1;2;H
+2;07-12-2014;Tenerife;Santander;1;1;H
+2;07-12-2014;Valladolid;Recreativo;1;1;H
+2;08-12-2014;Albacete;Zaragoza;1;2;D
+2;08-12-2014;Betis;Mallorca;1;1;H
+2;10-12-2014;Sabadell;Las Palmas;1;2;D
+2;13-12-2014;AAAABarcelona B;Mirandes;1;1;A
+2;13-12-2014;Lugo;Betis;1;0;A
+2;13-12-2014;Recreativo;Las Palmas;1;2;A
+2;13-12-2014;Santander;Sp Gijón;1;1;D
+2;14-12-2014;Alavés;Albacete;1;2;H
+2;14-12-2014;Alcorcon;Tenerife;1;0;D
+2;14-12-2014;Llagostera;Ponferradina;1;3;H
+2;14-12-2014;Mallorca;Numancia;1;1;D
+2;14-12-2014;Osasuna;Valladolid;1;2;H
+2;14-12-2014;Sabadell;Leganés;1;1;A
+2;14-12-2014;Zaragoza;Girona;1;2;H
+2;20-12-2014;Girona;Alavés;1;2;D
+2;20-12-2014;Mirandes;Zaragoza;1;1;D
+2;20-12-2014;Numancia;Lugo;1;6;D
+2;20-12-2014;Ponferradina;Mallorca;1;3;H
+2;20-12-2014;Tenerife;Sabadell;1;1;H
+2;21-12-2014;Albacete;Llagostera;1;0;A
+2;21-12-2014;Betis;Santander;1;2;H
+2;21-12-2014;Las Palmas;Osasuna;1;1;A
+2;21-12-2014;Leganés;Recreativo;1;2;H
+2;21-12-2014;Sp Gijón;Alcorcon;1;2;H
+2;21-12-2014;Valladolid;AAAABarcelona B;1;7;H
+2;03-01-2015;Alavés;Mirandes;1;1;A
+2;03-01-2015;AAAABarcelona B;Las Palmas;1;0;A
+2;03-01-2015;Llagostera;Girona;1;1;A
+2;03-01-2015;Mallorca;Albacete;1;2;H
+2;03-01-2015;Osasuna;Leganés;1;2;H
+2;04-01-2015;Alcorcon;Betis;1;0;D
+2;04-01-2015;Lugo;Ponferradina;1;0;D
+2;04-01-2015;Sabadell;Recreativo;1;1;H
+2;04-01-2015;Santander;Numancia;1;1;D
+2;04-01-2015;Tenerife;Sp Gijón;1;1;D
+2;04-01-2015;Zaragoza;Valladolid;1;0;A
+2;10-01-2015;Albacete;Lugo;1;3;H
+2;10-01-2015;Betis;Tenerife;1;3;H
+2;10-01-2015;Girona;Mallorca;1;0;D
+2;10-01-2015;Leganés;AAAABarcelona B;1;2;H
+2;10-01-2015;Recreativo;Osasuna;1;1;D
+2;11-01-2015;Las Palmas;Zaragoza;1;5;H
+2;11-01-2015;Mirandes;Llagostera;1;1;H
+2;11-01-2015;Numancia;Alcorcon;1;2;D
+2;11-01-2015;Ponferradina;Santander;1;1;D
+2;11-01-2015;Sabadell;Sp Gijón;1;2;D
+2;11-01-2015;Valladolid;Alavés;1;2;H
+2;17-01-2015;Alavés;Las Palmas;1;1;D
+2;17-01-2015;Lugo;Girona;1;1;A
+2;17-01-2015;Osasuna;Sabadell;1;0;D
+2;17-01-2015;Santander;Albacete;1;1;H
+2;18-01-2015;Alcorcon;Ponferradina;1;1;D
+2;18-01-2015;AAAABarcelona B;Recreativo;1;3;H
+2;18-01-2015;Llagostera;Valladolid;1;2;H
+2;18-01-2015;Mallorca;Mirandes;1;2;H
+2;18-01-2015;Sp Gijón;Betis;1;1;A
+2;18-01-2015;Tenerife;Numancia;1;0;D
+2;18-01-2015;Zaragoza;Leganés;1;2;H
+2;24-01-2015;Alavés;Leganés;1;2;H
+2;24-01-2015;Betis;Sabadell;1;2;H
+2;24-01-2015;Tenerife;Ponferradina;1;0;A
+2;24-01-2015;Zaragoza;Recreativo;1;2;H
+2;25-01-2015;Alcorcon;Albacete;1;2;A
+2;25-01-2015;AAAABarcelona B;Osasuna;1;0;A
+2;25-01-2015;Llagostera;Las Palmas;1;0;D
+2;25-01-2015;Lugo;Mirandes;1;1;D
+2;25-01-2015;Mallorca;Valladolid;1;1;A
+2;25-01-2015;Santander;Girona;1;0;A
+2;25-01-2015;Sp Gijón;Numancia;1;3;H
+2;31-01-2015;Albacete;Tenerife;1;3;H
+2;31-01-2015;Las Palmas;Mallorca;1;2;H
+2;31-01-2015;Leganés;Llagostera;1;2;H
+2;31-01-2015;Mirandes;Santander;1;0;A
+2;31-01-2015;Numancia;Betis;1;1;D
+2;31-01-2015;Ponferradina;Sp Gijón;1;0;A
+2;31-01-2015;Sabadell;AAAABarcelona B;1;1;A
+2;01-02-2015;Girona;Alcorcon;1;3;H
+2;01-02-2015;Recreativo;Alavés;1;0;D
+2;01-02-2015;Valladolid;Lugo;1;0;D
+2;07-02-2015;Alcorcon;Mirandes;1;2;D
+2;07-02-2015;Llagostera;Recreativo;1;1;H
+2;07-02-2015;Santander;Valladolid;1;1;A
+2;07-02-2015;Zaragoza;AAAABarcelona B;1;4;H
+2;08-02-2015;Betis;Ponferradina;1;1;D
+2;08-02-2015;Lugo;Las Palmas;1;2;H
+2;08-02-2015;Mallorca;Leganés;1;0;A
+2;08-02-2015;Numancia;Sabadell;1;3;H
+2;08-02-2015;Sp Gijón;Albacete;1;2;H
+2;08-02-2015;Tenerife;Girona;1;0;A
+2;10-02-2015;Osasuna;Zaragoza;1;0;A
+2;14-02-2015;AAAABarcelona B;Alavés;1;0;D
+2;14-02-2015;Mirandes;Tenerife;1;1;D
+2;14-02-2015;Osasuna;Llagostera;1;0;A
+2;14-02-2015;Recreativo;Mallorca;1;0;D
+2;15-02-2015;Albacete;Betis;1;0;D
+2;15-02-2015;Girona;Sp Gijón;1;0;D
+2;15-02-2015;Las Palmas;Santander;1;1;H
+2;15-02-2015;Leganés;Lugo;1;2;H
+2;15-02-2015;Ponferradina;Numancia;1;1;A
+2;15-02-2015;Sabadell;Zaragoza;1;0;D
+2;15-02-2015;Valladolid;Alcorcon;1;1;H
+2;21-02-2015;Alcorcon;Las Palmas;1;0;D
+2;21-02-2015;Betis;Girona;1;2;H
+2;21-02-2015;Mallorca;Osasuna;1;3;H
+2;21-02-2015;Santander;Leganés;1;1;A
+2;22-02-2015;Alavés;Zaragoza;1;4;H
+2;22-02-2015;Llagostera;AAAABarcelona B;1;1;H
+2;22-02-2015;Lugo;Recreativo;1;2;H
+2;22-02-2015;Numancia;Albacete;1;1;D
+2;22-02-2015;Ponferradina;Sabadell;1;3;H
+2;22-02-2015;Sp Gijón;Mirandes;1;4;H
+2;22-02-2015;Tenerife;Valladolid;1;2;H
+2;28-02-2015;AAAABarcelona B;Mallorca;1;2;A
+2;28-02-2015;Osasuna;Lugo;1;0;A
+2;28-02-2015;Sabadell;Alavés;1;2;H
+2;28-02-2015;Valladolid;Sp Gijón;1;3;H
+2;01-03-2015;Albacete;Ponferradina;1;2;H
+2;01-03-2015;Girona;Numancia;1;2;H
+2;01-03-2015;Las Palmas;Tenerife;1;1;D
+2;01-03-2015;Leganés;Alcorcon;1;1;A
+2;01-03-2015;Mirandes;Betis;1;0;D
+2;01-03-2015;Recreativo;Santander;1;1;H
+2;01-03-2015;Zaragoza;Llagostera;1;2;D
+2;07-03-2015;Albacete;Sabadell;1;0;D
+2;07-03-2015;Lugo;AAAABarcelona B;1;3;H
+2;07-03-2015;Numancia;Mirandes;1;1;H
+2;07-03-2015;Santander;Osasuna;1;2;H
+2;07-03-2015;Tenerife;Leganés;1;1;H
+2;08-03-2015;Alcorcon;Recreativo;1;1;D
+2;08-03-2015;Betis;Valladolid;1;4;H
+2;08-03-2015;Llagostera;Alavés;1;3;H
+2;08-03-2015;Mallorca;Zaragoza;1;3;H
+2;08-03-2015;Ponferradina;Girona;1;3;H
+2;08-03-2015;Sp Gijón;Las Palmas;1;1;D
+2;14-03-2015;Alavés;Mallorca;1;2;H
+2;14-03-2015;Leganés;Sp Gijón;1;0;A
+2;14-03-2015;Osasuna;Alcorcon;1;1;D
+2;14-03-2015;Recreativo;Tenerife;1;1;D
+2;14-03-2015;Sabadell;Llagostera;1;1;D
+2;14-03-2015;Valladolid;Numancia;1;4;H
+2;14-03-2015;Zaragoza;Lugo;1;0;D
+2;15-03-2015;AAAABarcelona B;Santander;1;1;D
+2;15-03-2015;Girona;Albacete;1;2;D
+2;15-03-2015;Las Palmas;Betis;1;0;A
+2;15-03-2015;Mirandes;Ponferradina;1;2;H
+2;18-03-2015;Alavés;Osasuna;1;3;H
+2;21-03-2015;Albacete;Mirandes;1;0;D
+2;21-03-2015;Alcorcon;AAAABarcelona B;1;3;H
+2;21-03-2015;Betis;Leganés;1;1;A
+2;21-03-2015;Mallorca;Llagostera;1;0;A
+2;21-03-2015;Numancia;Las Palmas;1;4;H
+2;22-03-2015;Girona;Sabadell;1;0;D
+2;22-03-2015;Lugo;Alavés;1;3;H
+2;22-03-2015;Ponferradina;Valladolid;1;2;H
+2;22-03-2015;Santander;Zaragoza;1;0;A
+2;22-03-2015;Sp Gijón;Recreativo;1;1;D
+2;22-03-2015;Tenerife;Osasuna;1;2;H
+2;28-03-2015;Alavés;Santander;1;2;H
+2;28-03-2015;Las Palmas;Ponferradina;1;4;H
+2;28-03-2015;Leganés;Numancia;1;0;D
+2;28-03-2015;Llagostera;Lugo;1;3;H
+2;28-03-2015;Recreativo;Betis;1;0;A
+2;28-03-2015;Valladolid;Albacete;1;0;A
+2;29-03-2015;AAAABarcelona B;Tenerife;1;2;D
+2;29-03-2015;Mirandes;Girona;1;0;A
+2;29-03-2015;Osasuna;Sp Gijón;1;0;D
+2;29-03-2015;Sabadell;Mallorca;1;1;D
+2;29-03-2015;Zaragoza;Alcorcon;1;1;D
+2;04-04-2015;Albacete;Las Palmas;1;1;H
+2;04-04-2015;Girona;Valladolid;1;2;H
+2;04-04-2015;Lugo;Mallorca;1;4;H
+2;04-04-2015;Mirandes;Sabadell;1;0;D
+2;05-04-2015;Alcorcon;Alavés;1;0;A
+2;05-04-2015;Betis;Osasuna;1;3;H
+2;05-04-2015;Numancia;Recreativo;1;1;A
+2;05-04-2015;Ponferradina;Leganés;1;1;D
+2;05-04-2015;Santander;Llagostera;1;0;A
+2;05-04-2015;Sp Gijón;AAAABarcelona B;1;0;D
+2;05-04-2015;Tenerife;Zaragoza;1;1;D
+2;11-04-2015;Alavés;Tenerife;1;1;H
+2;11-04-2015;Llagostera;Alcorcon;1;0;D
+2;11-04-2015;Mallorca;Santander;1;2;A
+2;11-04-2015;Sabadell;Lugo;1;2;H
+2;11-04-2015;Valladolid;Mirandes;1;2;H
+2;11-04-2015;Zaragoza;Sp Gijón;1;1;D
+2;12-04-2015;AAAABarcelona B;Betis;1;1;A
+2;12-04-2015;Las Palmas;Girona;1;2;H
+2;12-04-2015;Leganés;Albacete;1;2;H
+2;12-04-2015;Osasuna;Numancia;1;1;D
+2;12-04-2015;Recreativo;Ponferradina;1;0;A
+2;18-04-2015;Albacete;Recreativo;1;3;H
+2;18-04-2015;Girona;Leganés;1;2;H
+2;18-04-2015;Mirandes;Las Palmas;1;2;H
+2;18-04-2015;Ponferradina;Osasuna;1;1;H
+2;18-04-2015;Santander;Lugo;1;1;H
+2;18-04-2015;Sp Gijón;Alavés;1;1;H
+2;19-04-2015;Alcorcon;Mallorca;1;0;D
+2;19-04-2015;Betis;Zaragoza;1;4;H
+2;19-04-2015;Numancia;AAAABarcelona B;1;1;H
+2;19-04-2015;Tenerife;Llagostera;1;0;D
+2;19-04-2015;Valladolid;Sabadell;1;0;D
+2;25-04-2015;Alavés;Betis;1;1;A
+2;25-04-2015;AAAABarcelona B;Ponferradina;1;2;H
+2;25-04-2015;Lugo;Alcorcon;1;0;D
+2;25-04-2015;Mallorca;Tenerife;1;2;H
+2;25-04-2015;Osasuna;Albacete;1;2;H
+2;26-04-2015;Las Palmas;Valladolid;1;1;D
+2;26-04-2015;Leganés;Mirandes;1;0;D
+2;26-04-2015;Llagostera;Sp Gijón;1;0;D
+2;26-04-2015;Recreativo;Girona;1;0;A
+2;26-04-2015;Sabadell;Santander;1;3;H
+2;26-04-2015;Zaragoza;Numancia;1;1;H
+2;02-05-2015;Alcorcon;Santander;1;2;H
+2;02-05-2015;Betis;Llagostera;1;2;D
+2;02-05-2015;Girona;Osasuna;1;3;H
+2;02-05-2015;Las Palmas;Sabadell;1;2;H
+2;02-05-2015;Numancia;Alavés;1;1;H
+2;03-05-2015;Albacete;AAAABarcelona B;1;2;H
+2;03-05-2015;Mirandes;Recreativo;1;2;H
+2;03-05-2015;Ponferradina;Zaragoza;1;1;D
+2;03-05-2015;Sp Gijón;Mallorca;1;1;H
+2;03-05-2015;Tenerife;Lugo;1;1;D
+2;03-05-2015;Valladolid;Leganés;1;2;H
+2;09-05-2015;AAAABarcelona B;Girona;1;2;A
+2;09-05-2015;Leganés;Las Palmas;1;2;H
+2;09-05-2015;Lugo;Sp Gijón;1;1;A
+2;09-05-2015;Recreativo;Valladolid;1;0;A
+2;09-05-2015;Sabadell;Alcorcon;1;0;A
+2;10-05-2015;Alavés;Ponferradina;1;2;H
+2;10-05-2015;Llagostera;Numancia;1;0;D
+2;10-05-2015;Mallorca;Betis;1;1;A
+2;10-05-2015;Osasuna;Mirandes;1;2;H
+2;10-05-2015;Santander;Tenerife;1;1;H
+2;10-05-2015;Zaragoza;Albacete;1;3;H
+2;16-05-2015;Albacete;Alavés;1;2;A
+2;16-05-2015;Las Palmas;Recreativo;1;3;H
+2;16-05-2015;Leganés;Sabadell;1;1;D
+2;16-05-2015;Mirandes;AAAABarcelona B;1;2;A
+2;16-05-2015;Numancia;Mallorca;1;1;A
+2;16-05-2015;Sp Gijón;Santander;1;3;H
+2;16-05-2015;Valladolid;Osasuna;1;1;D
+2;17-05-2015;Betis;Lugo;1;5;H
+2;17-05-2015;Girona;Zaragoza;1;1;D
+2;17-05-2015;Ponferradina;Llagostera;1;0;A
+2;17-05-2015;Tenerife;Alcorcon;1;1;D
+2;19-05-2015;AAAABarcelona B;Valladolid;1;1;A
+2;19-05-2015;Osasuna;Las Palmas;1;1;A
+2;20-05-2015;Alavés;Girona;1;0;A
+2;20-05-2015;Alcorcon;Sp Gijón;1;0;D
+2;20-05-2015;Lugo;Numancia;1;1;D
+2;20-05-2015;Mallorca;Ponferradina;1;1;H
+2;20-05-2015;Recreativo;Leganés;1;1;H
+2;20-05-2015;Sabadell;Tenerife;1;1;A
+2;20-05-2015;Zaragoza;Mirandes;1;0;A
+2;21-05-2015;Llagostera;Albacete;1;2;A
+2;21-05-2015;Santander;Betis;1;2;A
+2;23-05-2015;Las Palmas;AAAABarcelona B;1;4;H
+2;23-05-2015;Leganés;Osasuna;1;1;D
+2;23-05-2015;Mirandes;Alavés;1;3;H
+2;23-05-2015;Ponferradina;Lugo;1;1;H
+2;23-05-2015;Recreativo;Sabadell;1;3;H
+2;24-05-2015;Albacete;Mallorca;1;4;H
+2;24-05-2015;Betis;Alcorcon;1;3;H
+2;24-05-2015;Girona;Llagostera;1;1;H
+2;24-05-2015;Numancia;Santander;1;0;A
+2;24-05-2015;Sp Gijón;Tenerife;1;2;H
+2;24-05-2015;Valladolid;Zaragoza;1;1;A
+2;31-05-2015;Alavés;Valladolid;1;0;A
+2;31-05-2015;Alcorcon;Numancia;1;1;D
+2;31-05-2015;AAAABarcelona B;Leganés;1;2;A
+2;31-05-2015;Llagostera;Mirandes;1;0;A
+2;31-05-2015;Lugo;Albacete;1;1;D
+2;31-05-2015;Mallorca;Girona;1;0;A
+2;31-05-2015;Osasuna;Recreativo;1;2;H
+2;31-05-2015;Santander;Ponferradina;1;0;A
+2;31-05-2015;Sp Gijón;Sabadell;1;2;H
+2;31-05-2015;Tenerife;Betis;1;2;H
+2;31-05-2015;Zaragoza;Las Palmas;1;0;A
+2;07-06-2015;Albacete;Santander;1;0;A
+2;07-06-2015;Betis;Sp Gijón;1;0;A
+2;07-06-2015;Girona;Lugo;1;1;D
+2;07-06-2015;Las Palmas;Alavés;1;3;H
+2;07-06-2015;Leganés;Zaragoza;1;2;D
+2;07-06-2015;Mirandes;Mallorca;1;2;H
+2;07-06-2015;Numancia;Tenerife;1;3;D
+2;07-06-2015;Ponferradina;Alcorcon;1;1;D
+2;07-06-2015;Recreativo;AAAABarcelona B;1;2;H
+2;07-06-2015;Sabadell;Osasuna;1;2;D
+2;07-06-2015;Valladolid;Llagostera;1;2;A
+2;23-08-2014;Llagostera;Las Palmas;0;0;H
+2;23-08-2014;Sp Gijón;Numancia;0;2;A
+2;23-08-2014;AAAABarcelona B;Osasuna;0;0;H
+2;23-08-2014;Zaragoza;Recreativo;0;0;D
+2;23-08-2014;Mallorca;Valladolid;0;1;H
+2;24-08-2014;Alcorcon;Albacete;0;3;A
+2;24-08-2014;Santander;Girona;0;0;H
+2;24-08-2014;Alavés;Leganés;0;1;D
+2;24-08-2014;Lugo;Mirandes;0;0;D
+2;24-08-2014;Tenerife;Ponferradina;0;0;H
+2;24-08-2014;Betis;Sabadell;0;3;A
+2;30-08-2014;Girona;Alcorcon;0;2;A
+2;30-08-2014;Sabadell;AAAABarcelona B;0;1;H
+2;30-08-2014;Valladolid;Lugo;0;0;H
+2;30-08-2014;Mirandes;Santander;0;2;A
+2;30-08-2014;Albacete;Tenerife;0;1;D
+2;30-08-2014;Osasuna;Zaragoza;0;1;D
+2;31-08-2014;Recreativo;Alavés;0;0;D
+2;31-08-2014;Numancia;Betis;0;1;H
+2;31-08-2014;Leganés;Llagostera;0;0;H
+2;31-08-2014;Las Palmas;Mallorca;0;1;D
+2;31-08-2014;Ponferradina;Sp Gijón;0;1;H
+2;06-09-2014;Sp Gijón;Albacete;0;1;D
+2;06-09-2014;Tenerife;Girona;0;0;H
+2;06-09-2014;Alavés;Osasuna;0;3;A
+2;06-09-2014;Llagostera;Recreativo;0;0;H
+2;06-09-2014;Numancia;Sabadell;0;3;A
+2;07-09-2014;Zaragoza;AAAABarcelona B;0;1;H
+2;07-09-2014;Lugo;Las Palmas;0;0;H
+2;07-09-2014;Mallorca;Leganés;0;1;H
+2;07-09-2014;Alcorcon;Mirandes;0;2;A
+2;07-09-2014;Betis;Ponferradina;0;1;H
+2;07-09-2014;Santander;Valladolid;0;1;H
+2;13-09-2014;AAAABarcelona B;Alavés;0;3;A
+2;13-09-2014;Osasuna;Llagostera;0;0;D
+2;13-09-2014;Recreativo;Mallorca;0;2;A
+2;13-09-2014;Ponferradina;Numancia;0;3;A
+2;13-09-2014;Las Palmas;Santander;0;2;A
+2;14-09-2014;Valladolid;Alcorcon;0;1;A
+2;14-09-2014;Albacete;Betis;0;1;A
+2;14-09-2014;Leganés;Lugo;0;0;D
+2;14-09-2014;Girona;Sp Gijón;0;1;D
+2;14-09-2014;Mirandes;Tenerife;0;0;H
+2;14-09-2014;Sabadell;Zaragoza;0;1;D
+2;20-09-2014;Llagostera;AAAABarcelona B;0;1;A
+2;20-09-2014;Alcorcon;Las Palmas;0;1;H
+2;20-09-2014;Sp Gijón;Mirandes;0;2;A
+2;20-09-2014;Lugo;Recreativo;0;0;D
+2;20-09-2014;Ponferradina;Sabadell;0;0;H
+2;20-09-2014;Alavés;Zaragoza;0;0;H
+2;21-09-2014;Numancia;Albacete;0;1;A
+2;21-09-2014;Betis;Girona;0;3;A
+2;21-09-2014;Santander;Leganés;0;2;D
+2;21-09-2014;Mallorca;Osasuna;0;4;H
+2;21-09-2014;Tenerife;Valladolid;0;1;H
+2;27-09-2014;Sabadell;Alavés;0;1;H
+2;27-09-2014;Zaragoza;Llagostera;0;1;A
+2;27-09-2014;Osasuna;Lugo;0;3;H
+2;27-09-2014;Recreativo;Santander;0;0;H
+2;28-09-2014;Leganés;Alcorcon;0;0;H
+2;28-09-2014;Mirandes;Betis;0;0;H
+2;28-09-2014;AAAABarcelona B;Mallorca;0;3;D
+2;28-09-2014;Girona;Numancia;0;2;D
+2;28-09-2014;Valladolid;Sp Gijón;0;1;D
+2;28-09-2014;Las Palmas;Tenerife;0;1;H
+2;29-09-2014;Albacete;Ponferradina;0;0;H
+2;04-10-2014;Llagostera;Alavés;0;0;D
+2;04-10-2014;Lugo;AAAABarcelona B;0;1;A
+2;04-10-2014;Ponferradina;Girona;0;0;H
+2;04-10-2014;Sp Gijón;Las Palmas;0;1;D
+2;04-10-2014;Santander;Osasuna;0;2;A
+2;05-10-2014;Tenerife;Leganés;0;0;H
+2;05-10-2014;Numancia;Mirandes;0;0;H
+2;05-10-2014;Alcorcon;Recreativo;0;1;H
+2;05-10-2014;Albacete;Sabadell;0;1;H
+2;05-10-2014;Betis;Valladolid;0;0;D
+2;05-10-2014;Mallorca;Zaragoza;0;0;H
+2;11-10-2014;Girona;Albacete;0;1;A
+2;11-10-2014;Osasuna;Alcorcon;0;0;H
+2;11-10-2014;Alavés;Mallorca;0;0;H
+2;11-10-2014;Valladolid;Numancia;0;1;A
+2;11-10-2014;Mirandes;Ponferradina;0;0;H
+2;11-10-2014;AAAABarcelona B;Santander;0;0;D
+2;11-10-2014;Recreativo;Tenerife;0;2;A
+2;12-10-2014;Las Palmas;Betis;0;0;D
+2;12-10-2014;Sabadell;Llagostera;0;1;A
+2;12-10-2014;Zaragoza;Lugo;0;3;D
+2;12-10-2014;Leganés;Sp Gijón;0;1;H
+2;18-10-2014;Lugo;Alavés;0;0;H
+2;18-10-2014;Albacete;Mirandes;0;2;H
+2;18-10-2014;Tenerife;Osasuna;0;2;H
+2;18-10-2014;Girona;Sabadell;0;2;A
+2;18-10-2014;Ponferradina;Valladolid;0;0;D
+2;18-10-2014;Santander;Zaragoza;0;1;H
+2;19-10-2014;Alcorcon;AAAABarcelona B;0;1;H
+2;19-10-2014;Numancia;Las Palmas;0;0;H
+2;19-10-2014;Betis;Leganés;0;0;H
+2;19-10-2014;Mallorca;Llagostera;0;4;A
+2;19-10-2014;Sp Gijón;Recreativo;0;1;D
+2;25-10-2014;Recreativo;Betis;0;2;H
+2;25-10-2014;Sabadell;Mallorca;0;0;H
+2;25-10-2014;Las Palmas;Ponferradina;0;2;D
+2;25-10-2014;Alavés;Santander;0;1;D
+2;26-10-2014;Valladolid;Albacete;0;4;A
+2;26-10-2014;Zaragoza;Alcorcon;0;3;A
+2;26-10-2014;Mirandes;Girona;0;0;H
+2;26-10-2014;Llagostera;Lugo;0;1;D
+2;26-10-2014;Leganés;Numancia;0;1;D
+2;26-10-2014;Osasuna;Sp Gijón;0;0;H
+2;26-10-2014;AAAABarcelona B;Tenerife;0;0;H
+2;01-11-2014;Alcorcon;Alavés;0;1;D
+2;01-11-2014;Sp Gijón;AAAABarcelona B;0;0;D
+2;01-11-2014;Albacete;Las Palmas;0;1;H
+2;01-11-2014;Santander;Llagostera;0;2;A
+2;01-11-2014;Lugo;Mallorca;0;1;H
+2;01-11-2014;Mirandes;Sabadell;0;2;H
+2;02-11-2014;Ponferradina;Leganés;0;1;D
+2;02-11-2014;Betis;Osasuna;0;2;H
+2;02-11-2014;Numancia;Recreativo;0;3;A
+2;02-11-2014;Girona;Valladolid;0;1;H
+2;03-11-2014;Tenerife;Zaragoza;0;3;A
+2;08-11-2014;Leganés;Albacete;0;0;H
+2;08-11-2014;Llagostera;Alcorcon;0;0;H
+2;08-11-2014;AAAABarcelona B;Betis;0;0;H
+2;08-11-2014;Las Palmas;Girona;0;2;A
+2;08-11-2014;Valladolid;Mirandes;0;0;D
+2;08-11-2014;Osasuna;Numancia;0;0;D
+2;09-11-2014;Sabadell;Lugo;0;1;H
+2;09-11-2014;Recreativo;Ponferradina;0;3;D
+2;09-11-2014;Mallorca;Santander;0;1;A
+2;09-11-2014;Zaragoza;Sp Gijón;0;1;H
+2;09-11-2014;Alavés;Tenerife;0;1;D
+2;15-11-2014;Sp Gijón;Alavés;0;0;D
+2;15-11-2014;Numancia;AAAABarcelona B;0;1;D
+2;15-11-2014;Mirandes;Las Palmas;0;0;D
+2;15-11-2014;Girona;Leganés;0;2;A
+2;15-11-2014;Alcorcon;Mallorca;0;1;D
+2;15-11-2014;Ponferradina;Osasuna;0;1;A
+2;15-11-2014;Valladolid;Sabadell;0;0;D
+2;16-11-2014;Tenerife;Llagostera;0;0;H
+2;16-11-2014;Santander;Lugo;0;0;D
+2;16-11-2014;Albacete;Recreativo;0;1;H
+2;16-11-2014;Betis;Zaragoza;0;2;D
+2;22-11-2014;Zaragoza;Numancia;0;0;H
+2;22-11-2014;AAAABarcelona B;Ponferradina;0;4;D
+2;22-11-2014;Sabadell;Santander;0;1;H
+2;22-11-2014;Llagostera;Sp Gijón;0;0;D
+2;22-11-2014;Mallorca;Tenerife;0;0;D
+2;23-11-2014;Osasuna;Albacete;0;0;H
+2;23-11-2014;Lugo;Alcorcon;0;0;H
+2;23-11-2014;Alavés;Betis;0;2;A
+2;23-11-2014;Recreativo;Girona;0;0;H
+2;23-11-2014;Leganés;Mirandes;0;0;H
+2;23-11-2014;Las Palmas;Valladolid;0;2;A
+2;29-11-2014;Numancia;Alavés;0;2;A
+2;29-11-2014;Valladolid;Leganés;0;0;H
+2;29-11-2014;Betis;Llagostera;0;2;A
+2;29-11-2014;Girona;Osasuna;0;0;D
+2;30-11-2014;Albacete;AAAABarcelona B;0;2;A
+2;30-11-2014;Tenerife;Lugo;0;0;H
+2;30-11-2014;Sp Gijón;Mallorca;0;1;A
+2;30-11-2014;Mirandes;Recreativo;0;1;A
+2;30-11-2014;Alcorcon;Santander;0;1;A
+2;30-11-2014;Ponferradina;Zaragoza;0;1;H
+2;06-12-2014;Leganés;Las Palmas;0;0;H
+2;06-12-2014;Osasuna;Mirandes;0;0;H
+2;06-12-2014;Llagostera;Numancia;0;2;H
+2;06-12-2014;Alavés;Ponferradina;0;1;H
+2;07-12-2014;Sabadell;Alcorcon;0;2;H
+2;07-12-2014;AAAABarcelona B;Girona;0;1;A
+2;07-12-2014;Lugo;Sp Gijón;0;1;H
+2;07-12-2014;Santander;Tenerife;0;0;H
+2;07-12-2014;Recreativo;Valladolid;0;0;H
+2;08-12-2014;Zaragoza;Albacete;0;2;D
+2;08-12-2014;Mallorca;Betis;0;0;H
+2;10-12-2014;Las Palmas;Sabadell;0;2;D
+2;13-12-2014;Mirandes;AAAABarcelona B;0;3;A
+2;13-12-2014;Betis;Lugo;0;1;A
+2;13-12-2014;Las Palmas;Recreativo;0;4;A
+2;13-12-2014;Sp Gijón;Santander;0;1;D
+2;14-12-2014;Albacete;Alavés;0;1;H
+2;14-12-2014;Tenerife;Alcorcon;0;0;D
+2;14-12-2014;Ponferradina;Llagostera;0;1;H
+2;14-12-2014;Numancia;Mallorca;0;1;D
+2;14-12-2014;Valladolid;Osasuna;0;1;H
+2;14-12-2014;Leganés;Sabadell;0;2;A
+2;14-12-2014;Girona;Zaragoza;0;1;H
+2;20-12-2014;Alavés;Girona;0;2;D
+2;20-12-2014;Zaragoza;Mirandes;0;1;D
+2;20-12-2014;Lugo;Numancia;0;6;D
+2;20-12-2014;Mallorca;Ponferradina;0;1;H
+2;20-12-2014;Sabadell;Tenerife;0;0;H
+2;21-12-2014;Llagostera;Albacete;0;2;A
+2;21-12-2014;Santander;Betis;0;0;H
+2;21-12-2014;Osasuna;Las Palmas;0;2;A
+2;21-12-2014;Recreativo;Leganés;0;0;H
+2;21-12-2014;Alcorcon;Sp Gijón;0;1;H
+2;21-12-2014;AAAABarcelona B;Valladolid;0;0;H
+2;03-01-2015;Mirandes;Alavés;0;3;A
+2;03-01-2015;Las Palmas;AAAABarcelona B;0;2;A
+2;03-01-2015;Girona;Llagostera;0;2;A
+2;03-01-2015;Albacete;Mallorca;0;0;H
+2;03-01-2015;Leganés;Osasuna;0;1;H
+2;04-01-2015;Betis;Alcorcon;0;0;D
+2;04-01-2015;Ponferradina;Lugo;0;0;D
+2;04-01-2015;Recreativo;Sabadell;0;0;H
+2;04-01-2015;Numancia;Santander;0;1;D
+2;04-01-2015;Sp Gijón;Tenerife;0;1;D
+2;04-01-2015;Valladolid;Zaragoza;0;2;A
+2;10-01-2015;Lugo;Albacete;0;0;H
+2;10-01-2015;Tenerife;Betis;0;1;H
+2;10-01-2015;Mallorca;Girona;0;0;D
+2;10-01-2015;AAAABarcelona B;Leganés;0;0;H
+2;10-01-2015;Osasuna;Recreativo;0;1;D
+2;11-01-2015;Zaragoza;Las Palmas;0;3;H
+2;11-01-2015;Llagostera;Mirandes;0;0;H
+2;11-01-2015;Alcorcon;Numancia;0;2;D
+2;11-01-2015;Santander;Ponferradina;0;1;D
+2;11-01-2015;Sp Gijón;Sabadell;0;2;D
+2;11-01-2015;Alavés;Valladolid;0;0;H
+2;17-01-2015;Las Palmas;Alavés;0;1;D
+2;17-01-2015;Girona;Lugo;0;2;A
+2;17-01-2015;Sabadell;Osasuna;0;0;D
+2;17-01-2015;Albacete;Santander;0;0;H
+2;18-01-2015;Ponferradina;Alcorcon;0;1;D
+2;18-01-2015;Recreativo;AAAABarcelona B;0;1;H
+2;18-01-2015;Valladolid;Llagostera;0;0;H
+2;18-01-2015;Mirandes;Mallorca;0;0;H
+2;18-01-2015;Betis;Sp Gijón;0;2;A
+2;18-01-2015;Numancia;Tenerife;0;0;D
+2;18-01-2015;Leganés;Zaragoza;0;0;H
+2;24-01-2015;Leganés;Alavés;0;0;H
+2;24-01-2015;Sabadell;Betis;0;0;H
+2;24-01-2015;Ponferradina;Tenerife;0;1;A
+2;24-01-2015;Recreativo;Zaragoza;0;0;H
+2;25-01-2015;Albacete;Alcorcon;0;3;A
+2;25-01-2015;Osasuna;AAAABarcelona B;0;1;A
+2;25-01-2015;Las Palmas;Llagostera;0;0;D
+2;25-01-2015;Mirandes;Lugo;0;1;D
+2;25-01-2015;Valladolid;Mallorca;0;5;A
+2;25-01-2015;Girona;Santander;0;1;A
+2;25-01-2015;Numancia;Sp Gijón;0;0;H
+2;31-01-2015;Tenerife;Albacete;0;2;H
+2;31-01-2015;Mallorca;Las Palmas;0;1;H
+2;31-01-2015;Llagostera;Leganés;0;0;H
+2;31-01-2015;Santander;Mirandes;0;2;A
+2;31-01-2015;Betis;Numancia;0;1;D
+2;31-01-2015;Sp Gijón;Ponferradina;0;2;A
+2;31-01-2015;AAAABarcelona B;Sabadell;0;4;A
+2;01-02-2015;Alcorcon;Girona;0;0;H
+2;01-02-2015;Alavés;Recreativo;0;0;D
+2;01-02-2015;Lugo;Valladolid;0;0;D
+2;07-02-2015;Mirandes;Alcorcon;0;2;D
+2;07-02-2015;Recreativo;Llagostera;0;0;H
+2;07-02-2015;Valladolid;Santander;0;4;A
+2;07-02-2015;AAAABarcelona B;Zaragoza;0;0;H
+2;08-02-2015;Ponferradina;Betis;0;1;D
+2;08-02-2015;Las Palmas;Lugo;0;1;H
+2;08-02-2015;Leganés;Mallorca;0;2;A
+2;08-02-2015;Sabadell;Numancia;0;0;H
+2;08-02-2015;Albacete;Sp Gijón;0;1;H
+2;08-02-2015;Girona;Tenerife;0;1;A
+2;10-02-2015;Zaragoza;Osasuna;0;1;A
+2;14-02-2015;Alavés;AAAABarcelona B;0;0;D
+2;14-02-2015;Tenerife;Mirandes;0;1;D
+2;14-02-2015;Llagostera;Osasuna;0;1;A
+2;14-02-2015;Mallorca;Recreativo;0;0;D
+2;15-02-2015;Betis;Albacete;0;0;D
+2;15-02-2015;Sp Gijón;Girona;0;0;D
+2;15-02-2015;Santander;Las Palmas;0;0;H
+2;15-02-2015;Lugo;Leganés;0;0;H
+2;15-02-2015;Numancia;Ponferradina;0;2;A
+2;15-02-2015;Zaragoza;Sabadell;0;0;D
+2;15-02-2015;Alcorcon;Valladolid;0;0;H
+2;21-02-2015;Las Palmas;Alcorcon;0;0;D
+2;21-02-2015;Girona;Betis;0;1;H
+2;21-02-2015;Osasuna;Mallorca;0;0;H
+2;21-02-2015;Leganés;Santander;0;2;A
+2;22-02-2015;Zaragoza;Alavés;0;0;H
+2;22-02-2015;AAAABarcelona B;Llagostera;0;0;H
+2;22-02-2015;Recreativo;Lugo;0;1;H
+2;22-02-2015;Albacete;Numancia;0;1;D
+2;22-02-2015;Sabadell;Ponferradina;0;0;H
+2;22-02-2015;Mirandes;Sp Gijón;0;1;H
+2;22-02-2015;Valladolid;Tenerife;0;0;H
+2;28-02-2015;Mallorca;AAAABarcelona B;0;4;A
+2;28-02-2015;Lugo;Osasuna;0;2;A
+2;28-02-2015;Alavés;Sabadell;0;1;H
+2;28-02-2015;Sp Gijón;Valladolid;0;0;H
+2;01-03-2015;Ponferradina;Albacete;0;1;H
+2;01-03-2015;Numancia;Girona;0;1;H
+2;01-03-2015;Tenerife;Las Palmas;0;1;D
+2;01-03-2015;Alcorcon;Leganés;0;2;A
+2;01-03-2015;Betis;Mirandes;0;0;D
+2;01-03-2015;Santander;Recreativo;0;0;H
+2;01-03-2015;Llagostera;Zaragoza;0;2;D
+2;07-03-2015;Sabadell;Albacete;0;0;D
+2;07-03-2015;AAAABarcelona B;Lugo;0;2;H
+2;07-03-2015;Mirandes;Numancia;0;0;H
+2;07-03-2015;Osasuna;Santander;0;0;H
+2;07-03-2015;Leganés;Tenerife;0;0;H
+2;08-03-2015;Recreativo;Alcorcon;0;1;D
+2;08-03-2015;Valladolid;Betis;0;0;H
+2;08-03-2015;Alavés;Llagostera;0;1;H
+2;08-03-2015;Zaragoza;Mallorca;0;2;H
+2;08-03-2015;Girona;Ponferradina;0;0;H
+2;08-03-2015;Las Palmas;Sp Gijón;0;1;D
+2;14-03-2015;Mallorca;Alavés;0;0;H
+2;14-03-2015;Sp Gijón;Leganés;0;1;A
+2;14-03-2015;Alcorcon;Osasuna;0;1;D
+2;14-03-2015;Tenerife;Recreativo;0;1;D
+2;14-03-2015;Llagostera;Sabadell;0;1;D
+2;14-03-2015;Numancia;Valladolid;0;0;H
+2;14-03-2015;Lugo;Zaragoza;0;0;D
+2;15-03-2015;Santander;AAAABarcelona B;0;1;D
+2;15-03-2015;Albacete;Girona;0;2;D
+2;15-03-2015;Betis;Las Palmas;0;3;A
+2;15-03-2015;Ponferradina;Mirandes;0;1;H
+2;18-03-2015;Osasuna;Alavés;0;0;H
+2;21-03-2015;Mirandes;Albacete;0;0;D
+2;21-03-2015;AAAABarcelona B;Alcorcon;0;1;H
+2;21-03-2015;Leganés;Betis;0;3;A
+2;21-03-2015;Llagostera;Mallorca;0;1;A
+2;21-03-2015;Las Palmas;Numancia;0;2;H
+2;22-03-2015;Sabadell;Girona;0;0;D
+2;22-03-2015;Alavés;Lugo;0;2;H
+2;22-03-2015;Valladolid;Ponferradina;0;0;H
+2;22-03-2015;Zaragoza;Santander;0;2;A
+2;22-03-2015;Recreativo;Sp Gijón;0;1;D
+2;22-03-2015;Osasuna;Tenerife;0;1;H
+2;28-03-2015;Santander;Alavés;0;1;H
+2;28-03-2015;Ponferradina;Las Palmas;0;2;H
+2;28-03-2015;Numancia;Leganés;0;0;D
+2;28-03-2015;Lugo;Llagostera;0;2;H
+2;28-03-2015;Betis;Recreativo;0;1;A
+2;28-03-2015;Albacete;Valladolid;0;1;A
+2;29-03-2015;Tenerife;AAAABarcelona B;0;2;D
+2;29-03-2015;Girona;Mirandes;0;1;A
+2;29-03-2015;Sp Gijón;Osasuna;0;0;D
+2;29-03-2015;Mallorca;Sabadell;0;1;D
+2;29-03-2015;Alcorcon;Zaragoza;0;1;D
+2;04-04-2015;Las Palmas;Albacete;0;0;H
+2;04-04-2015;Valladolid;Girona;0;1;H
+2;04-04-2015;Mallorca;Lugo;0;0;H
+2;04-04-2015;Sabadell;Mirandes;0;0;D
+2;05-04-2015;Alavés;Alcorcon;0;1;A
+2;05-04-2015;Osasuna;Betis;0;0;H
+2;05-04-2015;Recreativo;Numancia;0;2;A
+2;05-04-2015;Leganés;Ponferradina;0;1;D
+2;05-04-2015;Llagostera;Santander;0;2;A
+2;05-04-2015;AAAABarcelona B;Sp Gijón;0;0;D
+2;05-04-2015;Zaragoza;Tenerife;0;1;D
+2;11-04-2015;Tenerife;Alavés;0;0;H
+2;11-04-2015;Alcorcon;Llagostera;0;0;D
+2;11-04-2015;Santander;Mallorca;0;3;A
+2;11-04-2015;Lugo;Sabadell;0;1;H
+2;11-04-2015;Mirandes;Valladolid;0;1;H
+2;11-04-2015;Sp Gijón;Zaragoza;0;1;D
+2;12-04-2015;Betis;AAAABarcelona B;0;2;A
+2;12-04-2015;Girona;Las Palmas;0;0;H
+2;12-04-2015;Albacete;Leganés;0;0;H
+2;12-04-2015;Numancia;Osasuna;0;1;D
+2;12-04-2015;Ponferradina;Recreativo;0;1;A
+2;18-04-2015;Recreativo;Albacete;0;1;H
+2;18-04-2015;Leganés;Girona;0;1;H
+2;18-04-2015;Las Palmas;Mirandes;0;1;H
+2;18-04-2015;Osasuna;Ponferradina;0;0;H
+2;18-04-2015;Lugo;Santander;0;0;H
+2;18-04-2015;Alavés;Sp Gijón;0;0;H
+2;19-04-2015;Mallorca;Alcorcon;0;0;D
+2;19-04-2015;Zaragoza;Betis;0;0;H
+2;19-04-2015;AAAABarcelona B;Numancia;0;0;H
+2;19-04-2015;Llagostera;Tenerife;0;0;D
+2;19-04-2015;Sabadell;Valladolid;0;0;D
+2;25-04-2015;Betis;Alavés;0;2;A
+2;25-04-2015;Ponferradina;AAAABarcelona B;0;1;H
+2;25-04-2015;Alcorcon;Lugo;0;0;D
+2;25-04-2015;Tenerife;Mallorca;0;1;H
+2;25-04-2015;Albacete;Osasuna;0;1;H
+2;26-04-2015;Valladolid;Las Palmas;0;1;D
+2;26-04-2015;Mirandes;Leganés;0;0;D
+2;26-04-2015;Sp Gijón;Llagostera;0;0;D
+2;26-04-2015;Girona;Recreativo;0;3;A
+2;26-04-2015;Santander;Sabadell;0;2;H
+2;26-04-2015;Numancia;Zaragoza;0;0;H
+2;02-05-2015;Santander;Alcorcon;0;0;H
+2;02-05-2015;Llagostera;Betis;0;2;D
+2;02-05-2015;Osasuna;Girona;0;0;H
+2;02-05-2015;Sabadell;Las Palmas;0;0;H
+2;02-05-2015;Alavés;Numancia;0;0;H
+2;03-05-2015;AAAABarcelona B;Albacete;0;1;H
+2;03-05-2015;Recreativo;Mirandes;0;1;H
+2;03-05-2015;Zaragoza;Ponferradina;0;1;D
+2;03-05-2015;Mallorca;Sp Gijón;0;0;H
+2;03-05-2015;Lugo;Tenerife;0;1;D
+2;03-05-2015;Leganés;Valladolid;0;0;H
+2;09-05-2015;Girona;AAAABarcelona B;0;4;A
+2;09-05-2015;Las Palmas;Leganés;0;1;H
+2;09-05-2015;Sp Gijón;Lugo;0;2;A
+2;09-05-2015;Valladolid;Recreativo;0;3;A
+2;09-05-2015;Alcorcon;Sabadell;0;1;A
+2;10-05-2015;Ponferradina;Alavés;0;1;H
+2;10-05-2015;Numancia;Llagostera;0;0;D
+2;10-05-2015;Betis;Mallorca;0;2;A
+2;10-05-2015;Mirandes;Osasuna;0;0;H
+2;10-05-2015;Tenerife;Santander;0;0;H
+2;10-05-2015;Albacete;Zaragoza;0;1;H
+2;16-05-2015;Alavés;Albacete;0;3;A
+2;16-05-2015;Recreativo;Las Palmas;0;0;H
+2;16-05-2015;Sabadell;Leganés;0;1;D
+2;16-05-2015;AAAABarcelona B;Mirandes;0;3;A
+2;16-05-2015;Mallorca;Numancia;0;2;A
+2;16-05-2015;Santander;Sp Gijón;0;1;H
+2;16-05-2015;Osasuna;Valladolid;0;1;D
+2;17-05-2015;Lugo;Betis;0;1;H
+2;17-05-2015;Zaragoza;Girona;0;1;D
+2;17-05-2015;Llagostera;Ponferradina;0;1;A
+2;17-05-2015;Alcorcon;Tenerife;0;1;D
+2;19-05-2015;Valladolid;AAAABarcelona B;0;3;A
+2;19-05-2015;Las Palmas;Osasuna;0;2;A
+2;20-05-2015;Girona;Alavés;0;3;A
+2;20-05-2015;Sp Gijón;Alcorcon;0;0;D
+2;20-05-2015;Numancia;Lugo;0;1;D
+2;20-05-2015;Ponferradina;Mallorca;0;0;H
+2;20-05-2015;Leganés;Recreativo;0;0;H
+2;20-05-2015;Tenerife;Sabadell;0;3;A
+2;20-05-2015;Mirandes;Zaragoza;0;1;A
+2;21-05-2015;Albacete;Llagostera;0;3;A
+2;21-05-2015;Betis;Santander;0;4;A
+2;23-05-2015;AAAABarcelona B;Las Palmas;0;3;H
+2;23-05-2015;Osasuna;Leganés;0;1;D
+2;23-05-2015;Alavés;Mirandes;0;0;H
+2;23-05-2015;Lugo;Ponferradina;0;0;H
+2;23-05-2015;Sabadell;Recreativo;0;1;H
+2;24-05-2015;Mallorca;Albacete;0;2;H
+2;24-05-2015;Alcorcon;Betis;0;0;H
+2;24-05-2015;Llagostera;Girona;0;0;H
+2;24-05-2015;Santander;Numancia;0;2;A
+2;24-05-2015;Tenerife;Sp Gijón;0;0;H
+2;24-05-2015;Zaragoza;Valladolid;0;3;A
+2;31-05-2015;Valladolid;Alavés;0;2;A
+2;31-05-2015;Numancia;Alcorcon;0;1;D
+2;31-05-2015;Leganés;AAAABarcelona B;0;5;A
+2;31-05-2015;Mirandes;Llagostera;0;1;A
+2;31-05-2015;Albacete;Lugo;0;1;D
+2;31-05-2015;Girona;Mallorca;0;1;A
+2;31-05-2015;Recreativo;Osasuna;0;0;H
+2;31-05-2015;Ponferradina;Santander;0;1;A
+2;31-05-2015;Sabadell;Sp Gijón;0;0;H
+2;31-05-2015;Betis;Tenerife;0;0;H
+2;31-05-2015;Las Palmas;Zaragoza;0;2;A
+2;07-06-2015;Santander;Albacete;0;1;A
+2;07-06-2015;Sp Gijón;Betis;0;3;A
+2;07-06-2015;Lugo;Girona;0;1;D
+2;07-06-2015;Alavés;Las Palmas;0;2;H
+2;07-06-2015;Zaragoza;Leganés;0;2;D
+2;07-06-2015;Mallorca;Mirandes;0;0;H
+2;07-06-2015;Tenerife;Numancia;0;3;D
+2;07-06-2015;Alcorcon;Ponferradina;0;1;D
+2;07-06-2015;AAAABarcelona B;Recreativo;0;0;H
+2;07-06-2015;Osasuna;Sabadell;0;2;D
+2;07-06-2015;Llagostera;Valladolid;0;4;A
